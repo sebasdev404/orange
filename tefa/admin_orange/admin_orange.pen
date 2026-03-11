@@ -9,6 +9,33 @@
       "fill": "#CCCCCC",
       "width": 412,
       "height": 327
+    },
+    {
+      "type": "rectangle",
+      "id": "HlkYZ",
+      "x": -432,
+      "y": -388,
+      "fill": "#CCCCCC",
+      "width": 145,
+      "height": 323
+    },
+    {
+      "type": "rectangle",
+      "id": "47ExO",
+      "x": -532,
+      "y": -107,
+      "fill": "#CCCCCC",
+      "width": 337,
+      "height": 194
+    },
+    {
+      "type": "rectangle",
+      "id": "Nl7NE",
+      "x": -286,
+      "y": -84,
+      "fill": "#CCCCCC",
+      "width": 204,
+      "height": 301
     }
   ]
 }
