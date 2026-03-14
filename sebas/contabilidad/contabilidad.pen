@@ -4309,47 +4309,17 @@
                   "children": [
                     {
                       "type": "frame",
-                      "id": "jfcTp",
-                      "name": "Table Header",
+                      "id": "QIkMb",
+                      "name": "tableHeader",
                       "width": "fill_container",
                       "height": 48,
                       "fill": "#f5f5f7ff",
-                      "cornerRadius": [
-                        12,
-                        12,
-                        0,
-                        0
-                      ],
-                      "padding": [
-                        0,
-                        20
-                      ],
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "text",
-                          "id": "J0ZCx",
-                          "name": "s7tht",
-                          "fill": "#666666ff",
-                          "content": "Hotel               # Invoice   Monto         Fecha Gen.    Status          Días / Venc.    Acciones",
-                          "fontFamily": "Montserrat",
-                          "fontSize": 11,
-                          "fontWeight": "600"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "frame",
-                      "id": "lm5Nl",
-                      "name": "Row 1",
-                      "width": "fill_container",
-                      "height": 52,
                       "stroke": {
                         "align": "inside",
                         "thickness": {
                           "bottom": 1
                         },
-                        "fill": "#f0f0f0ff"
+                        "fill": "#e0e0e0ff"
                       },
                       "padding": [
                         0,
@@ -4358,29 +4328,160 @@
                       "alignItems": "center",
                       "children": [
                         {
-                          "type": "text",
-                          "id": "eCGYy",
-                          "name": "s7r1t",
-                          "fill": "#1a1a1aff",
-                          "content": "🏨  Marriott Midtown    INV-2641    $8,400        Mar 10       ✅ Pagada         Net 15 / —           👁️  📥",
-                          "fontFamily": "Inter",
-                          "fontSize": 12,
-                          "fontWeight": "normal"
+                          "type": "frame",
+                          "id": "CA0YL",
+                          "name": "cellHotel",
+                          "width": 280,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "dRWa4",
+                              "name": "labelHotel",
+                              "fill": "#555555ff",
+                              "content": "🏨 Hotel",
+                              "fontFamily": "Inter",
+                              "fontSize": 13,
+                              "fontWeight": "600"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "aqXXo",
+                          "name": "cellInvoice",
+                          "width": 120,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "qER5t",
+                              "name": "labelInvoice",
+                              "fill": "#555555ff",
+                              "content": "# Invoice",
+                              "fontFamily": "Inter",
+                              "fontSize": 13,
+                              "fontWeight": "600"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "5B507",
+                          "name": "cellMonto",
+                          "width": 140,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "EX9yk",
+                              "name": "labelMonto",
+                              "fill": "#555555ff",
+                              "content": "💰 Monto",
+                              "fontFamily": "Inter",
+                              "fontSize": 13,
+                              "fontWeight": "600"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "sEjwK",
+                          "name": "cellFecha",
+                          "width": 120,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "XmDQc",
+                              "name": "labelFecha",
+                              "fill": "#555555ff",
+                              "content": "📅 Fecha",
+                              "fontFamily": "Inter",
+                              "fontSize": 13,
+                              "fontWeight": "600"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "PsFZm",
+                          "name": "cellStatus",
+                          "width": 140,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "4M8h5",
+                              "name": "labelStatus",
+                              "fill": "#555555ff",
+                              "content": "Status",
+                              "fontFamily": "Inter",
+                              "fontSize": 13,
+                              "fontWeight": "600"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "6Zicf",
+                          "name": "cellDias",
+                          "width": 80,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "4zYTc",
+                              "name": "labelDias",
+                              "fill": "#555555ff",
+                              "content": "Días",
+                              "fontFamily": "Inter",
+                              "fontSize": 13,
+                              "fontWeight": "600"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "Vwd7G",
+                          "name": "cellActions",
+                          "width": "fill_container",
+                          "height": "fill_container",
+                          "justifyContent": "center",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "V5iXo",
+                              "name": "labelActions",
+                              "fill": "#555555ff",
+                              "content": "Acciones",
+                              "fontFamily": "Inter",
+                              "fontSize": 13,
+                              "fontWeight": "600"
+                            }
+                          ]
                         }
                       ]
                     },
                     {
                       "type": "frame",
-                      "id": "AbkYE",
-                      "name": "Row 2",
+                      "id": "qdoIz",
+                      "name": "row1",
                       "width": "fill_container",
-                      "height": 52,
+                      "height": 64,
                       "stroke": {
                         "align": "inside",
                         "thickness": {
                           "bottom": 1
                         },
-                        "fill": "#f0f0f0ff"
+                        "fill": "#e0e0e0ff"
                       },
                       "padding": [
                         0,
@@ -4389,30 +4490,216 @@
                       "alignItems": "center",
                       "children": [
                         {
-                          "type": "text",
-                          "id": "JGY6E",
-                          "name": "s7r2t",
-                          "fill": "#f59e0bff",
-                          "content": "🏨  Hampton Midtown    INV-2642    $6,200        Mar 10       📩 Enviada       Net 15 / 5 días     👁️  📤",
-                          "fontFamily": "Inter",
-                          "fontSize": 12,
-                          "fontWeight": "normal"
+                          "type": "frame",
+                          "id": "LJ1Cr",
+                          "name": "r1Hotel",
+                          "width": 280,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "ONjbz",
+                              "name": "r1HotelText",
+                              "fill": "#16151cff",
+                              "content": "Marriott Downtown",
+                              "fontFamily": "Inter",
+                              "fontSize": 14,
+                              "fontWeight": "500"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "eHNEf",
+                          "name": "r1Invoice",
+                          "width": 120,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "480VA",
+                              "name": "r1InvoiceText",
+                              "fill": "#555555ff",
+                              "content": "#2643",
+                              "fontFamily": "Inter",
+                              "fontSize": 14
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "SEfLS",
+                          "name": "r1Monto",
+                          "width": 140,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "Fzrye",
+                              "name": "r1MontoText",
+                              "fill": "#16151cff",
+                              "content": "$15,670.00",
+                              "fontFamily": "Inter",
+                              "fontSize": 14,
+                              "fontWeight": "600"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "WuoQ2",
+                          "name": "r1Fecha",
+                          "width": 120,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "nVVE7",
+                              "name": "r1FechaText",
+                              "fill": "#555555ff",
+                              "content": "21 Ene",
+                              "fontFamily": "Inter",
+                              "fontSize": 14
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "YmZx4",
+                          "name": "r1Status",
+                          "width": 140,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "id": "OKKdz",
+                              "type": "ref",
+                              "ref": "CLvYq",
+                              "name": "r1Chip",
+                              "x": 0,
+                              "y": 18.5
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "xIQrS",
+                          "name": "r1Dias",
+                          "width": 80,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "PeQGC",
+                              "name": "r1DiasText",
+                              "fill": "#F44336ff",
+                              "content": "16",
+                              "fontFamily": "Inter",
+                              "fontSize": 14,
+                              "fontWeight": "600"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "qVuyf",
+                          "name": "r1Actions",
+                          "width": "fill_container",
+                          "height": "fill_container",
+                          "gap": 8,
+                          "justifyContent": "center",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "frame",
+                              "id": "rCUjk",
+                              "name": "r1Btn1",
+                              "width": 32,
+                              "height": 32,
+                              "fill": "#f5f5f7ff",
+                              "cornerRadius": 6,
+                              "justifyContent": "center",
+                              "alignItems": "center",
+                              "children": [
+                                {
+                                  "type": "icon_font",
+                                  "id": "mX22t",
+                                  "name": "r1Icon1",
+                                  "width": 16,
+                                  "height": 16,
+                                  "iconFontName": "eye",
+                                  "iconFontFamily": "lucide",
+                                  "fill": "#555555ff"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "frame",
+                              "id": "JIKYj",
+                              "name": "r1Btn2",
+                              "width": 32,
+                              "height": 32,
+                              "fill": "#f5f5f7ff",
+                              "cornerRadius": 6,
+                              "justifyContent": "center",
+                              "alignItems": "center",
+                              "children": [
+                                {
+                                  "type": "icon_font",
+                                  "id": "EGVTU",
+                                  "name": "r1Icon2",
+                                  "width": 16,
+                                  "height": 16,
+                                  "iconFontName": "send",
+                                  "iconFontFamily": "lucide",
+                                  "fill": "#555555ff"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "frame",
+                              "id": "t5VFI",
+                              "name": "r1Btn3",
+                              "width": 32,
+                              "height": 32,
+                              "fill": "#f5f5f7ff",
+                              "cornerRadius": 6,
+                              "justifyContent": "center",
+                              "alignItems": "center",
+                              "children": [
+                                {
+                                  "type": "icon_font",
+                                  "id": "FPoTI",
+                                  "name": "r1Icon3",
+                                  "width": 16,
+                                  "height": 16,
+                                  "iconFontName": "download",
+                                  "iconFontFamily": "lucide",
+                                  "fill": "#555555ff"
+                                }
+                              ]
+                            }
+                          ]
                         }
                       ]
                     },
                     {
                       "type": "frame",
-                      "id": "eHxbQ",
-                      "name": "Row 3",
+                      "id": "qaa5o",
+                      "name": "row2",
                       "width": "fill_container",
-                      "height": 52,
-                      "fill": "#dc262608",
+                      "height": 64,
                       "stroke": {
                         "align": "inside",
                         "thickness": {
                           "bottom": 1
                         },
-                        "fill": "#f0f0f0ff"
+                        "fill": "#e0e0e0ff"
                       },
                       "padding": [
                         0,
@@ -4421,61 +4708,560 @@
                       "alignItems": "center",
                       "children": [
                         {
-                          "type": "text",
-                          "id": "iIdjB",
-                          "name": "s7r3t",
-                          "fill": "#dc2626ff",
-                          "content": "🏨  Hilton Garden Inn   INV-2643    $9,100        Feb 24       ⚠️ Vencida       Net 15 / 16 días   👁️  📤",
-                          "fontFamily": "Inter",
-                          "fontSize": 12,
-                          "fontWeight": "normal"
+                          "type": "frame",
+                          "id": "6AUJS",
+                          "name": "r2Hotel",
+                          "width": 280,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "Z0J79",
+                              "name": "r2HotelText",
+                              "fill": "#16151cff",
+                              "content": "Hilton Garden Inn",
+                              "fontFamily": "Inter",
+                              "fontSize": 14,
+                              "fontWeight": "500"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "zVfqP",
+                          "name": "r2Invoice",
+                          "width": 120,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "Gd6VY",
+                              "name": "r2InvoiceText",
+                              "fill": "#555555ff",
+                              "content": "#2644",
+                              "fontFamily": "Inter",
+                              "fontSize": 14
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "RjtbX",
+                          "name": "r2Monto",
+                          "width": 140,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "mBEMc",
+                              "name": "r2MontoText",
+                              "fill": "#16151cff",
+                              "content": "$12,400.00",
+                              "fontFamily": "Inter",
+                              "fontSize": 14,
+                              "fontWeight": "600"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "KYPWy",
+                          "name": "r2Fecha",
+                          "width": 120,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "VMk5b",
+                              "name": "r2FechaText",
+                              "fill": "#555555ff",
+                              "content": "28 Ene",
+                              "fontFamily": "Inter",
+                              "fontSize": 14
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "yIjGX",
+                          "name": "r2Status",
+                          "width": 140,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "id": "ukBMn",
+                              "type": "ref",
+                              "ref": "r4dvl",
+                              "name": "r2Chip",
+                              "x": 0,
+                              "y": 18.5
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "7wb0y",
+                          "name": "r2Dias",
+                          "width": 80,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "SFGEh",
+                              "name": "r2DiasText",
+                              "fill": "#555555ff",
+                              "content": "8",
+                              "fontFamily": "Inter",
+                              "fontSize": 14
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "nxvUS",
+                          "name": "r2Actions",
+                          "width": "fill_container",
+                          "height": "fill_container",
+                          "gap": 8,
+                          "justifyContent": "center",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "frame",
+                              "id": "WrhTV",
+                              "name": "r2Btn1",
+                              "width": 32,
+                              "height": 32,
+                              "fill": "#f5f5f7ff",
+                              "cornerRadius": 6,
+                              "justifyContent": "center",
+                              "alignItems": "center",
+                              "children": [
+                                {
+                                  "type": "icon_font",
+                                  "id": "flKuN",
+                                  "name": "r2Icon1",
+                                  "width": 16,
+                                  "height": 16,
+                                  "iconFontName": "eye",
+                                  "iconFontFamily": "lucide",
+                                  "fill": "#555555ff"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "frame",
+                              "id": "kAxm1",
+                              "name": "r2Btn2",
+                              "width": 32,
+                              "height": 32,
+                              "fill": "#f5f5f7ff",
+                              "cornerRadius": 6,
+                              "justifyContent": "center",
+                              "alignItems": "center",
+                              "children": [
+                                {
+                                  "type": "icon_font",
+                                  "id": "pQ5IT",
+                                  "name": "r2Icon2",
+                                  "width": 16,
+                                  "height": 16,
+                                  "iconFontName": "download",
+                                  "iconFontFamily": "lucide",
+                                  "fill": "#555555ff"
+                                }
+                              ]
+                            }
+                          ]
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "frame",
-                  "id": "oRb5x",
-                  "name": "Tracking Panel",
-                  "width": 300,
-                  "height": "fill_container",
-                  "fill": "#ffffffff",
-                  "cornerRadius": 12,
-                  "effect": {
-                    "type": "shadow",
-                    "shadowType": "outer",
-                    "color": "#00000010",
-                    "offset": {
-                      "x": 0,
-                      "y": 2
-                    },
-                    "blur": 6
-                  },
-                  "layout": "vertical",
-                  "gap": 12,
-                  "padding": 20,
-                  "children": [
-                    {
-                      "type": "text",
-                      "id": "TtdVQ",
-                      "name": "s7trackt",
-                      "fill": "#1a1a1aff",
-                      "content": "📊  Tracking de Pagos",
-                      "fontFamily": "Montserrat",
-                      "fontSize": 14,
-                      "fontWeight": "700"
                     },
                     {
-                      "type": "text",
-                      "id": "QoNEw",
-                      "name": "s7trackinfo",
-                      "fill": "#555555ff",
-                      "content": "✅  Pagadas:         $48,200\n📩  Enviadas:        $32,100\n⚠️  Vencidas (>15d): $9,100\n⏳  Pendientes:       $6,200\n────────────────────\n💰  Total Facturado: $95,600\n\n⚠️  1 invoice vencida\n   INV-2643 — Hilton\n   → [Dar seguimiento]",
-                      "lineHeight": 2,
-                      "fontFamily": "Inter",
-                      "fontSize": 12,
-                      "fontWeight": "normal"
+                      "type": "frame",
+                      "id": "DJRa8",
+                      "name": "row3",
+                      "width": "fill_container",
+                      "height": 64,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": {
+                          "bottom": 1
+                        },
+                        "fill": "#e0e0e0ff"
+                      },
+                      "padding": [
+                        0,
+                        20
+                      ],
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "5acjw",
+                          "name": "r3Hotel",
+                          "width": 280,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "nShAy",
+                              "name": "r3HotelText",
+                              "fill": "#16151cff",
+                              "content": "Hyatt Regency",
+                              "fontFamily": "Inter",
+                              "fontSize": 14,
+                              "fontWeight": "500"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "Uqjuq",
+                          "name": "r3Invoice",
+                          "width": 120,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "zjoKW",
+                              "name": "r3InvoiceText",
+                              "fill": "#555555ff",
+                              "content": "#2645",
+                              "fontFamily": "Inter",
+                              "fontSize": 14
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "3SKUS",
+                          "name": "r3Monto",
+                          "width": 140,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "5qT5Y",
+                              "name": "r3MontoText",
+                              "fill": "#16151cff",
+                              "content": "$18,500.00",
+                              "fontFamily": "Inter",
+                              "fontSize": 14,
+                              "fontWeight": "600"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "qKzU1",
+                          "name": "r3Fecha",
+                          "width": 120,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "ECe7c",
+                              "name": "r3FechaText",
+                              "fill": "#555555ff",
+                              "content": "01 Feb",
+                              "fontFamily": "Inter",
+                              "fontSize": 14
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "sRDO3",
+                          "name": "r3Status",
+                          "width": 140,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "id": "nRMoU",
+                              "type": "ref",
+                              "ref": "yFP96",
+                              "name": "r3Chip",
+                              "x": 0,
+                              "y": 18.5
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "fGsVo",
+                          "name": "r3Dias",
+                          "width": 80,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "kXB1V",
+                              "name": "r3DiasText",
+                              "fill": "#555555ff",
+                              "content": "5",
+                              "fontFamily": "Inter",
+                              "fontSize": 14
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "I5rB2",
+                          "name": "r3Actions",
+                          "width": "fill_container",
+                          "height": "fill_container",
+                          "gap": 8,
+                          "justifyContent": "center",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "frame",
+                              "id": "FXEOH",
+                              "name": "r3Btn1",
+                              "width": 32,
+                              "height": 32,
+                              "fill": "#f5f5f7ff",
+                              "cornerRadius": 6,
+                              "justifyContent": "center",
+                              "alignItems": "center",
+                              "children": [
+                                {
+                                  "type": "icon_font",
+                                  "id": "SPqn3",
+                                  "name": "r3Icon1",
+                                  "width": 16,
+                                  "height": 16,
+                                  "iconFontName": "eye",
+                                  "iconFontFamily": "lucide",
+                                  "fill": "#555555ff"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "frame",
+                              "id": "71zNv",
+                              "name": "r3Btn2",
+                              "width": 32,
+                              "height": 32,
+                              "fill": "#f5f5f7ff",
+                              "cornerRadius": 6,
+                              "justifyContent": "center",
+                              "alignItems": "center",
+                              "children": [
+                                {
+                                  "type": "icon_font",
+                                  "id": "INOPI",
+                                  "name": "r3Icon2",
+                                  "width": 16,
+                                  "height": 16,
+                                  "iconFontName": "download",
+                                  "iconFontFamily": "lucide",
+                                  "fill": "#555555ff"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "rieN5",
+                      "name": "row4",
+                      "width": "fill_container",
+                      "height": 64,
+                      "padding": [
+                        0,
+                        20
+                      ],
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "34BLl",
+                          "name": "r4Hotel",
+                          "width": 280,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "4KmKB",
+                              "name": "r4HotelText",
+                              "fill": "#16151cff",
+                              "content": "Courtyard Marriott",
+                              "fontFamily": "Inter",
+                              "fontSize": 14,
+                              "fontWeight": "500"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "MvTQY",
+                          "name": "r4Invoice",
+                          "width": 120,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "tK29m",
+                              "name": "r4InvoiceText",
+                              "fill": "#555555ff",
+                              "content": "#2646",
+                              "fontFamily": "Inter",
+                              "fontSize": 14
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "l3cYP",
+                          "name": "r4Monto",
+                          "width": 140,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "zMzIy",
+                              "name": "r4MontoText",
+                              "fill": "#16151cff",
+                              "content": "$9,850.00",
+                              "fontFamily": "Inter",
+                              "fontSize": 14,
+                              "fontWeight": "600"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "2S5zr",
+                          "name": "r4Fecha",
+                          "width": 120,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "rCn7x",
+                              "name": "r4FechaText",
+                              "fill": "#555555ff",
+                              "content": "03 Feb",
+                              "fontFamily": "Inter",
+                              "fontSize": 14
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "wiOFV",
+                          "name": "r4Status",
+                          "width": 140,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "id": "UenlF",
+                              "type": "ref",
+                              "ref": "nUlxY",
+                              "name": "r4Chip",
+                              "x": 0,
+                              "y": 18.5
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "ixvKi",
+                          "name": "r4Dias",
+                          "width": 80,
+                          "height": "fill_container",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "0W6rA",
+                              "name": "r4DiasText",
+                              "fill": "#9d9d9dff",
+                              "content": "-",
+                              "fontFamily": "Inter",
+                              "fontSize": 14
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "4tmI0",
+                          "name": "r4Actions",
+                          "width": "fill_container",
+                          "height": "fill_container",
+                          "gap": 8,
+                          "justifyContent": "center",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "frame",
+                              "id": "8WNWk",
+                              "name": "r4Btn1",
+                              "width": 32,
+                              "height": 32,
+                              "fill": "#f5f5f7ff",
+                              "cornerRadius": 6,
+                              "justifyContent": "center",
+                              "alignItems": "center",
+                              "children": [
+                                {
+                                  "type": "icon_font",
+                                  "id": "mEyUJ",
+                                  "name": "r4Icon1",
+                                  "width": 16,
+                                  "height": 16,
+                                  "iconFontName": "eye",
+                                  "iconFontFamily": "lucide",
+                                  "fill": "#555555ff"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "frame",
+                              "id": "QLyH6",
+                              "name": "r4Btn2",
+                              "width": 32,
+                              "height": 32,
+                              "fill": "#fe760014",
+                              "cornerRadius": 6,
+                              "justifyContent": "center",
+                              "alignItems": "center",
+                              "children": [
+                                {
+                                  "type": "icon_font",
+                                  "id": "Fzzvd",
+                                  "name": "r4Icon2",
+                                  "width": 16,
+                                  "height": 16,
+                                  "iconFontName": "send",
+                                  "iconFontFamily": "lucide",
+                                  "fill": "#fe7600ff"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -39582,6 +40368,985 @@
                   "fontWeight": "700"
                 }
               ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "nUlxY",
+      "x": 3800,
+      "y": -1000,
+      "name": "StatusChip_Generada",
+      "reusable": true,
+      "fill": "#2196F333",
+      "cornerRadius": 12,
+      "gap": 6,
+      "padding": [
+        6,
+        12
+      ],
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "icon_font",
+          "id": "IhyCy",
+          "name": "iconGen",
+          "width": 14,
+          "height": 14,
+          "iconFontName": "file-text",
+          "iconFontFamily": "lucide",
+          "fill": "#2196F3ff"
+        },
+        {
+          "type": "text",
+          "id": "YpDvk",
+          "name": "labelGen",
+          "fill": "#2196F3ff",
+          "content": "Generada",
+          "fontFamily": "Inter",
+          "fontSize": 12,
+          "fontWeight": "600"
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "r4dvl",
+      "x": 3800,
+      "y": -920,
+      "name": "StatusChip_Enviada",
+      "reusable": true,
+      "fill": "#FFA72633",
+      "cornerRadius": 12,
+      "gap": 6,
+      "padding": [
+        6,
+        12
+      ],
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "icon_font",
+          "id": "bhnNP",
+          "name": "iconEnv",
+          "width": 14,
+          "height": 14,
+          "iconFontName": "send",
+          "iconFontFamily": "lucide",
+          "fill": "#FFA726ff"
+        },
+        {
+          "type": "text",
+          "id": "1hD1v",
+          "name": "labelEnv",
+          "fill": "#FFA726ff",
+          "content": "Enviada",
+          "fontFamily": "Inter",
+          "fontSize": 12,
+          "fontWeight": "600"
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "yFP96",
+      "x": 3800,
+      "y": -840,
+      "name": "StatusChip_Pagada",
+      "reusable": true,
+      "fill": "#4CAF5033",
+      "cornerRadius": 12,
+      "gap": 6,
+      "padding": [
+        6,
+        12
+      ],
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "icon_font",
+          "id": "y7oal",
+          "name": "iconPag",
+          "width": 14,
+          "height": 14,
+          "iconFontName": "check",
+          "iconFontFamily": "lucide",
+          "fill": "#4CAF50ff"
+        },
+        {
+          "type": "text",
+          "id": "SWC0Y",
+          "name": "labelPag",
+          "fill": "#4CAF50ff",
+          "content": "Pagada",
+          "fontFamily": "Inter",
+          "fontSize": 12,
+          "fontWeight": "600"
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "CLvYq",
+      "x": 3800,
+      "y": -760,
+      "name": "StatusChip_Vencida",
+      "reusable": true,
+      "fill": "#F4433633",
+      "cornerRadius": 12,
+      "gap": 6,
+      "padding": [
+        6,
+        12
+      ],
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "icon_font",
+          "id": "zftID",
+          "name": "iconVen",
+          "width": 14,
+          "height": 14,
+          "iconFontName": "triangle-alert",
+          "iconFontFamily": "lucide",
+          "fill": "#F44336ff"
+        },
+        {
+          "type": "text",
+          "id": "9mkgR",
+          "name": "labelVen",
+          "fill": "#F44336ff",
+          "content": "Vencida",
+          "fontFamily": "Inter",
+          "fontSize": 12,
+          "fontWeight": "600"
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "97x4x",
+      "x": 4100,
+      "y": -1000,
+      "name": "KPICard_Payment",
+      "reusable": true,
+      "width": 260,
+      "fill": "#1a1a1aff",
+      "cornerRadius": 12,
+      "stroke": {
+        "align": "inside",
+        "thickness": 1,
+        "fill": "#2a2a2aff"
+      },
+      "layout": "vertical",
+      "gap": 12,
+      "padding": 20,
+      "children": [
+        {
+          "type": "frame",
+          "id": "jVLgP",
+          "name": "kpiHeader",
+          "width": "fill_container",
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "ROgaU",
+              "name": "kpiTitle",
+              "fill": "#9d9d9dff",
+              "content": "Pendientes",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "500"
+            },
+            {
+              "type": "icon_font",
+              "id": "cmtlL",
+              "name": "kpiIcon",
+              "width": 18,
+              "height": 18,
+              "iconFontName": "circle-dashed",
+              "iconFontFamily": "lucide",
+              "fill": "#fe7600ff"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "FAv0y",
+          "name": "kpiAmount",
+          "fill": "#ffffffff",
+          "content": "$6,200",
+          "fontFamily": "Montserrat",
+          "fontSize": 32,
+          "fontWeight": "700"
+        },
+        {
+          "type": "text",
+          "id": "mlAYJ",
+          "name": "kpiCount",
+          "fill": "#555555ff",
+          "content": "4 invoices",
+          "fontFamily": "Inter",
+          "fontSize": 12
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "nIrNC",
+      "x": 4100,
+      "y": -870,
+      "name": "AlertBadge_Overdue",
+      "reusable": true,
+      "fill": "#F4433620",
+      "cornerRadius": 8,
+      "stroke": {
+        "align": "inside",
+        "thickness": 1,
+        "fill": "#F44336ff"
+      },
+      "gap": 8,
+      "padding": [
+        8,
+        16
+      ],
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "icon_font",
+          "id": "PgAOY",
+          "name": "alertIcon",
+          "width": 16,
+          "height": 16,
+          "iconFontName": "triangle-alert",
+          "iconFontFamily": "lucide",
+          "fill": "#F44336ff"
+        },
+        {
+          "type": "text",
+          "id": "r3J3t",
+          "name": "alertText",
+          "fill": "#F44336ff",
+          "content": "16 días sin pago",
+          "fontFamily": "Inter",
+          "fontSize": 12,
+          "fontWeight": "600"
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "kHA6u",
+      "x": 9520,
+      "y": 920,
+      "name": "dialog",
+      "width": 480,
+      "fill": "#ffffffff",
+      "cornerRadius": 16,
+      "effect": {
+        "type": "shadow",
+        "shadowType": "outer",
+        "color": "#00000030",
+        "offset": {
+          "x": 0,
+          "y": 8
+        },
+        "blur": 24
+      },
+      "layout": "vertical",
+      "children": [
+        {
+          "type": "frame",
+          "id": "8662G",
+          "name": "dialogHeader",
+          "width": "fill_container",
+          "layout": "vertical",
+          "gap": 4,
+          "padding": 24,
+          "children": [
+            {
+              "type": "text",
+              "id": "6rLO8",
+              "name": "dialogTitle",
+              "fill": "#16151cff",
+              "content": "Actualizar Estado de Pago",
+              "fontFamily": "Montserrat",
+              "fontSize": 20,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "rYip0",
+              "name": "dialogSubtitle",
+              "fill": "#555555ff",
+              "content": "Invoice #2643 - Marriott Downtown",
+              "fontFamily": "Inter",
+              "fontSize": 14
+            }
+          ]
+        },
+        {
+          "type": "rectangle",
+          "id": "CqU2z",
+          "name": "dialogDivider",
+          "fill": "#e0e0e0ff",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "cUji2",
+          "name": "dialogBody",
+          "width": "fill_container",
+          "layout": "vertical",
+          "gap": 20,
+          "padding": 24,
+          "children": [
+            {
+              "type": "frame",
+              "id": "prxzU",
+              "name": "statusField",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "iVQcU",
+                  "name": "statusLabel",
+                  "fill": "#16151cff",
+                  "content": "Estado *",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "600"
+                },
+                {
+                  "type": "frame",
+                  "id": "dxifv",
+                  "name": "statusInput",
+                  "width": "fill_container",
+                  "height": 44,
+                  "fill": "#f5f5f7ff",
+                  "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#e0e0e0ff"
+                  },
+                  "padding": [
+                    0,
+                    12
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "hWTCC",
+                      "name": "statusText",
+                      "fill": "#4CAF50ff",
+                      "content": "Pagada",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "2hopp",
+              "name": "dateField",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "2aG6U",
+                  "name": "dateLabel",
+                  "fill": "#16151cff",
+                  "content": "Fecha de Pago *",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "600"
+                },
+                {
+                  "type": "frame",
+                  "id": "EwFJ7",
+                  "name": "dateInput",
+                  "width": "fill_container",
+                  "height": 44,
+                  "fill": "#ffffffff",
+                  "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#e0e0e0ff"
+                  },
+                  "padding": [
+                    0,
+                    12
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "RIj4b",
+                      "name": "dateText",
+                      "fill": "#16151cff",
+                      "content": "06 Feb 2025",
+                      "fontFamily": "Inter",
+                      "fontSize": 14
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "S3T7n",
+              "name": "methodField",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "KLxyG",
+                  "name": "methodLabel",
+                  "fill": "#16151cff",
+                  "content": "Método de Pago *",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "600"
+                },
+                {
+                  "type": "frame",
+                  "id": "rgNkX",
+                  "name": "methodInput",
+                  "width": "fill_container",
+                  "height": 44,
+                  "fill": "#ffffffff",
+                  "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#e0e0e0ff"
+                  },
+                  "gap": 8,
+                  "padding": [
+                    0,
+                    12
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "Rd01O",
+                      "name": "methodText",
+                      "fill": "#16151cff",
+                      "content": "ACH Transfer",
+                      "fontFamily": "Inter",
+                      "fontSize": 14
+                    },
+                    {
+                      "type": "icon_font",
+                      "id": "lDyjP",
+                      "name": "methodIcon",
+                      "width": 16,
+                      "height": 16,
+                      "iconFontName": "chevron-down",
+                      "iconFontFamily": "lucide",
+                      "fill": "#555555ff"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "ziq1g",
+              "name": "refField",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "LGmv3",
+                  "name": "refLabel",
+                  "fill": "#16151cff",
+                  "content": "Referencia / Confirmación",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "600"
+                },
+                {
+                  "type": "frame",
+                  "id": "OiD4p",
+                  "name": "refInput",
+                  "width": "fill_container",
+                  "height": 44,
+                  "fill": "#ffffffff",
+                  "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#e0e0e0ff"
+                  },
+                  "padding": [
+                    0,
+                    12
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "GIFzA",
+                      "name": "refText",
+                      "fill": "#16151cff",
+                      "content": "ACH-2025-02-06-1234",
+                      "fontFamily": "Inter",
+                      "fontSize": 14
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "rectangle",
+          "id": "AOHIj",
+          "name": "dialogDivider2",
+          "fill": "#e0e0e0ff",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "frame",
+          "id": "V8TJr",
+          "name": "dialogFooter",
+          "width": "fill_container",
+          "gap": 12,
+          "padding": 20,
+          "justifyContent": "end",
+          "children": [
+            {
+              "type": "frame",
+              "id": "dY0Vx",
+              "name": "btnCancel",
+              "height": 40,
+              "fill": "#f5f5f7ff",
+              "cornerRadius": 8,
+              "padding": [
+                0,
+                20
+              ],
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "lbzEv",
+                  "name": "btnCancelText",
+                  "fill": "#555555ff",
+                  "content": "Cancelar",
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "600"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "qtR6H",
+              "name": "btnSave",
+              "height": 40,
+              "fill": "#4CAF50ff",
+              "cornerRadius": 8,
+              "padding": [
+                0,
+                24
+              ],
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "L5ghH",
+                  "name": "btnSaveText",
+                  "fill": "#ffffffff",
+                  "content": "Guardar Cambios",
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "600"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "oRb5x",
+      "x": 9591,
+      "y": -987,
+      "name": "Tracking Panel",
+      "width": 300,
+      "height": 728,
+      "fill": "#ffffffff",
+      "cornerRadius": 12,
+      "effect": {
+        "type": "shadow",
+        "shadowType": "outer",
+        "color": "#00000010",
+        "offset": {
+          "x": 0,
+          "y": 2
+        },
+        "blur": 6
+      },
+      "layout": "vertical",
+      "gap": 10,
+      "padding": 16,
+      "children": [
+        {
+          "type": "text",
+          "id": "y7yc0",
+          "name": "trackTitle",
+          "fill": "#16151cff",
+          "content": "📊 Payment Tracking",
+          "fontFamily": "Montserrat",
+          "fontSize": 16,
+          "fontWeight": "700"
+        },
+        {
+          "type": "frame",
+          "id": "zL8eu",
+          "name": "kpiSection",
+          "width": "fill_container",
+          "layout": "vertical",
+          "gap": 10,
+          "children": [
+            {
+              "id": "xnbrD",
+              "type": "ref",
+              "ref": "97x4x",
+              "width": "fill_container",
+              "name": "kpi1",
+              "x": 0,
+              "y": 0,
+              "descendants": {
+                "ROgaU": {
+                  "content": "Pendientes"
+                },
+                "cmtlL": {
+                  "iconFontName": "circle-dashed",
+                  "fill": "#FFA726ff"
+                },
+                "FAv0y": {
+                  "content": "$6,200"
+                },
+                "mlAYJ": {
+                  "content": "4 invoices"
+                }
+              }
+            },
+            {
+              "id": "bsLh9",
+              "type": "ref",
+              "ref": "97x4x",
+              "width": "fill_container",
+              "name": "kpi2",
+              "x": 0,
+              "y": 146,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#F4433633"
+              },
+              "descendants": {
+                "ROgaU": {
+                  "content": "Vencidas"
+                },
+                "cmtlL": {
+                  "iconFontName": "triangle-alert",
+                  "fill": "#F44336ff"
+                },
+                "FAv0y": {
+                  "content": "$9,100",
+                  "fill": "#F44336ff"
+                },
+                "mlAYJ": {
+                  "content": "2 invoices"
+                }
+              }
+            },
+            {
+              "id": "BVtmC",
+              "type": "ref",
+              "ref": "97x4x",
+              "width": "fill_container",
+              "name": "kpi3",
+              "x": 0,
+              "y": 292,
+              "descendants": {
+                "ROgaU": {
+                  "content": "Pagadas"
+                },
+                "cmtlL": {
+                  "iconFontName": "check",
+                  "fill": "#4CAF50ff"
+                },
+                "FAv0y": {
+                  "content": "$48,200",
+                  "fill": "#4CAF50ff"
+                },
+                "mlAYJ": {
+                  "content": "18 invoices"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "rectangle",
+          "id": "XrsVk",
+          "name": "divider1",
+          "fill": "#e0e0e0ff",
+          "width": "fill_container",
+          "height": 1
+        },
+        {
+          "type": "text",
+          "id": "ko2gT",
+          "name": "agingTitle",
+          "fill": "#16151cff",
+          "content": "📈 Aging Report",
+          "fontFamily": "Montserrat",
+          "fontSize": 14,
+          "fontWeight": "700"
+        },
+        {
+          "type": "frame",
+          "id": "NtjxG",
+          "name": "agingSection",
+          "width": "fill_container",
+          "layout": "vertical",
+          "gap": 6,
+          "children": [
+            {
+              "type": "frame",
+              "id": "2HRnO",
+              "name": "aging1",
+              "width": "fill_container",
+              "fill": "#4CAF5014",
+              "cornerRadius": 8,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#4CAF5033"
+              },
+              "layout": "vertical",
+              "padding": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "shszz",
+                  "name": "aging1Header",
+                  "width": "fill_container",
+                  "justifyContent": "space_between",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "jhEsc",
+                      "name": "aging1Label",
+                      "fill": "#4CAF50ff",
+                      "content": "0-15 días",
+                      "fontFamily": "Inter",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "WBQ6S",
+                      "name": "aging1Count",
+                      "fill": "#4CAF50ff",
+                      "content": "8 inv",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "id": "DhMAn",
+                  "name": "aging1Amount",
+                  "fill": "#4CAF50ff",
+                  "content": "$12,400",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 20,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "TZTXx",
+              "name": "aging2",
+              "width": "fill_container",
+              "fill": "#FFA72614",
+              "cornerRadius": 8,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#FFA72633"
+              },
+              "layout": "vertical",
+              "padding": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "XXu9g",
+                  "name": "aging2Header",
+                  "width": "fill_container",
+                  "justifyContent": "space_between",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "ifdEb",
+                      "name": "aging2Label",
+                      "fill": "#FFA726ff",
+                      "content": "15-30 días",
+                      "fontFamily": "Inter",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "3ulCs",
+                      "name": "aging2Count",
+                      "fill": "#FFA726ff",
+                      "content": "4 inv",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "id": "PgboE",
+                  "name": "aging2Amount",
+                  "fill": "#FFA726ff",
+                  "content": "$5,800",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 20,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "vsnyL",
+              "name": "aging3",
+              "width": "fill_container",
+              "fill": "#F4433614",
+              "cornerRadius": 8,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#F4433633"
+              },
+              "layout": "vertical",
+              "padding": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "TXqf8",
+                  "name": "aging3Header",
+                  "width": "fill_container",
+                  "justifyContent": "space_between",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "xryod",
+                      "name": "aging3Label",
+                      "fill": "#F44336ff",
+                      "content": "30+ días",
+                      "fontFamily": "Inter",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "5CUFt",
+                      "name": "aging3Count",
+                      "fill": "#F44336ff",
+                      "content": "2 inv",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "id": "AeEAi",
+                  "name": "aging3Amount",
+                  "fill": "#F44336ff",
+                  "content": "$3,300",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 20,
+                  "fontWeight": "700"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "mVhTf",
+          "name": "totalSection",
+          "width": "fill_container",
+          "fill": "#fe760014",
+          "cornerRadius": 12,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#fe760033"
+          },
+          "layout": "vertical",
+          "gap": 4,
+          "padding": 16,
+          "children": [
+            {
+              "type": "text",
+              "id": "eBpcY",
+              "name": "totalLabel",
+              "fill": "#fe7600ff",
+              "content": "Total Facturado",
+              "fontFamily": "Inter",
+              "fontSize": 13,
+              "fontWeight": "500"
+            },
+            {
+              "type": "text",
+              "id": "11c36",
+              "name": "totalAmount",
+              "fill": "#fe7600ff",
+              "content": "$95,600",
+              "fontFamily": "Montserrat",
+              "fontSize": 28,
+              "fontWeight": "700"
             }
           ]
         }
