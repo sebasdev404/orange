@@ -20,7 +20,7 @@
           "y": 214,
           "name": "Login Card",
           "width": 420,
-          "height": 490,
+          "height": 535,
           "fill": "#1e1d24ff",
           "cornerRadius": 20,
           "layout": "vertical",
@@ -22307,8 +22307,8 @@
         {
           "type": "frame",
           "id": "FZRUJ",
-          "x": 500,
-          "y": 214,
+          "x": 488,
+          "y": 267,
           "name": "Login Card",
           "width": 420,
           "height": 490,
@@ -22633,7 +22633,8 @@
                           "fill": "#8a8a8aff",
                           "content": "Administrador",
                           "fontFamily": "Montserrat",
-                          "fontSize": 12
+                          "fontSize": 12,
+                          "fontWeight": "normal"
                         },
                         {
                           "type": "frame",
@@ -23867,81 +23868,179 @@
               "height": "fit_content",
               "width": "fill_container"
             },
+            "X80Gg": {
+              "x": 20,
+              "y": 24.5
+            },
+            "C2tcs": {
+              "x": 232,
+              "y": 24
+            },
             "VfYx8": {
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 84
             },
             "SZ7LD": {
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 93
             },
             "mNl8M": {
               "height": 36,
-              "width": "fill_container"
+              "width": "fill_container",
+              "x": 16
+            },
+            "iWHne": {
+              "x": 12,
+              "y": 10
+            },
+            "R4WIQ": {
+              "x": 36,
+              "y": 10.5
             },
             "hnEzn": {
               "height": 1,
-              "width": "fill_container"
+              "width": "fill_container",
+              "x": 142,
+              "y": 17.5
+            },
+            "fYz2A": {
+              "x": 208,
+              "y": 8
+            },
+            "QnOJn": {
+              "x": 5,
+              "y": 3
             },
             "ux6VD": {
               "height": "fill_container",
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 137
             },
             "K1Kur": {
               "height": "fit_content",
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 16
+            },
+            "O69Z0": {
+              "x": 20
             },
             "DM1aW": {
               "fill": "#00000000",
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 39
             },
             "JYJbf": {
               "fill": "#00000000"
             },
             "H5qZL": {
-              "fill": "#8a8a8aff"
+              "fill": "#8a8a8aff",
+              "x": 17,
+              "y": 12
             },
             "zeFs2": {
               "fill": "#8a8a8aff",
-              "fontWeight": "500"
+              "fontWeight": "500",
+              "x": 51,
+              "y": 13.5
             },
             "udd20": {
               "fill": "#fe760014",
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 85
             },
             "cBW5G": {
               "fill": "#fe7600ff"
             },
             "jIu3m": {
-              "fill": "#fe7600ff"
+              "fill": "#fe7600ff",
+              "x": 17,
+              "y": 12
             },
             "u6Ism": {
               "fill": "#ffffffff",
-              "fontWeight": "600"
+              "fontWeight": "600",
+              "x": 51,
+              "y": 13.5
             },
             "7rMWC": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 131
+            },
+            "ToB8E": {
+              "x": 17,
+              "y": 12
+            },
+            "kZaAH": {
+              "x": 51,
+              "y": 13.5
             },
             "ztKB5": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 177
+            },
+            "KzB2l": {
+              "x": 17,
+              "y": 12
+            },
+            "tw5kW": {
+              "x": 51,
+              "y": 13.5
             },
             "Nd6Bu": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 223
+            },
+            "v2ri3": {
+              "x": 17,
+              "y": 12
+            },
+            "ejSCa": {
+              "x": 51,
+              "y": 13.5
             },
             "DCSXk": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 269
+            },
+            "ocY9a": {
+              "x": 17,
+              "y": 12
+            },
+            "pFY1o": {
+              "x": 51,
+              "y": 13.5
             },
             "UAccH": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 315
+            },
+            "M53rF": {
+              "x": 17,
+              "y": 12
+            },
+            "N6wfv": {
+              "x": 51,
+              "y": 13.5
             },
             "bGq7Y": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 361
+            },
+            "UpGq8": {
+              "x": 17,
+              "y": 12
+            },
+            "hfR8A": {
+              "x": 51,
+              "y": 13.5
             }
           }
         },
@@ -25367,81 +25466,179 @@
               "height": "fit_content",
               "width": "fill_container"
             },
+            "X80Gg": {
+              "x": 20,
+              "y": 24.5
+            },
+            "C2tcs": {
+              "x": 232,
+              "y": 24
+            },
             "VfYx8": {
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 84
             },
             "SZ7LD": {
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 93
             },
             "mNl8M": {
               "height": 36,
-              "width": "fill_container"
+              "width": "fill_container",
+              "x": 16
+            },
+            "iWHne": {
+              "x": 12,
+              "y": 10
+            },
+            "R4WIQ": {
+              "x": 36,
+              "y": 10.5
             },
             "hnEzn": {
               "height": 1,
-              "width": "fill_container"
+              "width": "fill_container",
+              "x": 142,
+              "y": 17.5
+            },
+            "fYz2A": {
+              "x": 208,
+              "y": 8
+            },
+            "QnOJn": {
+              "x": 5,
+              "y": 3
             },
             "ux6VD": {
               "height": "fill_container",
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 137
             },
             "K1Kur": {
               "height": "fit_content",
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 16
+            },
+            "O69Z0": {
+              "x": 20
             },
             "DM1aW": {
               "fill": "#00000000",
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 39
             },
             "JYJbf": {
               "fill": "#00000000"
             },
             "H5qZL": {
-              "fill": "#8a8a8aff"
+              "fill": "#8a8a8aff",
+              "x": 17,
+              "y": 12
             },
             "zeFs2": {
               "fill": "#8a8a8aff",
-              "fontWeight": "500"
+              "fontWeight": "500",
+              "x": 51,
+              "y": 13.5
             },
             "udd20": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 85
+            },
+            "jIu3m": {
+              "x": 17,
+              "y": 12
+            },
+            "u6Ism": {
+              "x": 51,
+              "y": 13.5
             },
             "7rMWC": {
               "fill": "#fe760014",
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 131
             },
             "xy8wF": {
               "fill": "#fe7600ff"
             },
             "ToB8E": {
-              "fill": "#fe7600ff"
+              "fill": "#fe7600ff",
+              "x": 17,
+              "y": 12
             },
             "kZaAH": {
               "fill": "#ffffffff",
-              "fontWeight": "600"
+              "fontWeight": "600",
+              "x": 51,
+              "y": 13.5
             },
             "ztKB5": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 177
+            },
+            "KzB2l": {
+              "x": 17,
+              "y": 12
+            },
+            "tw5kW": {
+              "x": 51,
+              "y": 13.5
             },
             "Nd6Bu": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 223
+            },
+            "v2ri3": {
+              "x": 17,
+              "y": 12
+            },
+            "ejSCa": {
+              "x": 51,
+              "y": 13.5
             },
             "DCSXk": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 269
+            },
+            "ocY9a": {
+              "x": 17,
+              "y": 12
+            },
+            "pFY1o": {
+              "x": 51,
+              "y": 13.5
             },
             "UAccH": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 315
+            },
+            "M53rF": {
+              "x": 17,
+              "y": 12
+            },
+            "N6wfv": {
+              "x": 51,
+              "y": 13.5
             },
             "bGq7Y": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 361
+            },
+            "UpGq8": {
+              "x": 17,
+              "y": 12
+            },
+            "hfR8A": {
+              "x": 51,
+              "y": 13.5
             }
           }
         },
@@ -25826,7 +26023,8 @@
                               "fill": "#8a8a8aff",
                               "content": "187 empleados · $45,280",
                               "fontFamily": "Montserrat",
-                              "fontSize": 11
+                              "fontSize": 11,
+                              "fontWeight": "normal"
                             }
                           ]
                         },
@@ -25901,7 +26099,8 @@
                               "fill": "#8a8a8aff",
                               "content": "24 hoteles · $67,920",
                               "fontFamily": "Montserrat",
-                              "fontSize": 11
+                              "fontSize": 11,
+                              "fontWeight": "normal"
                             }
                           ]
                         },
@@ -25976,7 +26175,8 @@
                               "fill": "#8a8a8aff",
                               "content": "Pay = Bill ✓ Cuadra",
                               "fontFamily": "Montserrat",
-                              "fontSize": 11
+                              "fontSize": 11,
+                              "fontWeight": "normal"
                             }
                           ]
                         },
@@ -26652,81 +26852,179 @@
               "height": "fit_content",
               "width": "fill_container"
             },
+            "X80Gg": {
+              "x": 20,
+              "y": 24.5
+            },
+            "C2tcs": {
+              "x": 232,
+              "y": 24
+            },
             "VfYx8": {
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 84
             },
             "SZ7LD": {
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 93
             },
             "mNl8M": {
               "height": 36,
-              "width": "fill_container"
+              "width": "fill_container",
+              "x": 16
+            },
+            "iWHne": {
+              "x": 12,
+              "y": 10
+            },
+            "R4WIQ": {
+              "x": 36,
+              "y": 10.5
             },
             "hnEzn": {
               "height": 1,
-              "width": "fill_container"
+              "width": "fill_container",
+              "x": 142,
+              "y": 17.5
+            },
+            "fYz2A": {
+              "x": 208,
+              "y": 8
+            },
+            "QnOJn": {
+              "x": 5,
+              "y": 3
             },
             "ux6VD": {
               "height": "fill_container",
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 137
             },
             "K1Kur": {
               "height": "fit_content",
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 16
+            },
+            "O69Z0": {
+              "x": 20
             },
             "DM1aW": {
               "fill": "#00000000",
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 39
             },
             "JYJbf": {
               "fill": "#00000000"
             },
             "H5qZL": {
-              "fill": "#8a8a8aff"
+              "fill": "#8a8a8aff",
+              "x": 17,
+              "y": 12
             },
             "zeFs2": {
               "fill": "#8a8a8aff",
-              "fontWeight": "500"
+              "fontWeight": "500",
+              "x": 51,
+              "y": 13.5
             },
             "udd20": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 85
+            },
+            "jIu3m": {
+              "x": 17,
+              "y": 12
+            },
+            "u6Ism": {
+              "x": 51,
+              "y": 13.5
             },
             "7rMWC": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 131
+            },
+            "ToB8E": {
+              "x": 17,
+              "y": 12
+            },
+            "kZaAH": {
+              "x": 51,
+              "y": 13.5
             },
             "ztKB5": {
               "fill": "#fe760014",
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 177
             },
             "4oyea": {
               "fill": "#fe7600ff"
             },
             "KzB2l": {
-              "fill": "#fe7600ff"
+              "fill": "#fe7600ff",
+              "x": 17,
+              "y": 12
             },
             "tw5kW": {
               "fill": "#ffffffff",
-              "fontWeight": "600"
+              "fontWeight": "600",
+              "x": 51,
+              "y": 13.5
             },
             "Nd6Bu": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 223
+            },
+            "v2ri3": {
+              "x": 17,
+              "y": 12
+            },
+            "ejSCa": {
+              "x": 51,
+              "y": 13.5
             },
             "DCSXk": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 269
+            },
+            "ocY9a": {
+              "x": 17,
+              "y": 12
+            },
+            "pFY1o": {
+              "x": 51,
+              "y": 13.5
             },
             "UAccH": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 315
+            },
+            "M53rF": {
+              "x": 17,
+              "y": 12
+            },
+            "N6wfv": {
+              "x": 51,
+              "y": 13.5
             },
             "bGq7Y": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 361
+            },
+            "UpGq8": {
+              "x": 17,
+              "y": 12
+            },
+            "hfR8A": {
+              "x": 51,
+              "y": 13.5
             }
           }
         },
@@ -27820,81 +28118,179 @@
               "height": "fit_content",
               "width": "fill_container"
             },
+            "X80Gg": {
+              "x": 20,
+              "y": 24.5
+            },
+            "C2tcs": {
+              "x": 232,
+              "y": 24
+            },
             "VfYx8": {
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 84
             },
             "SZ7LD": {
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 93
             },
             "mNl8M": {
               "height": 36,
-              "width": "fill_container"
+              "width": "fill_container",
+              "x": 16
+            },
+            "iWHne": {
+              "x": 12,
+              "y": 10
+            },
+            "R4WIQ": {
+              "x": 36,
+              "y": 10.5
             },
             "hnEzn": {
               "height": 1,
-              "width": "fill_container"
+              "width": "fill_container",
+              "x": 142,
+              "y": 17.5
+            },
+            "fYz2A": {
+              "x": 208,
+              "y": 8
+            },
+            "QnOJn": {
+              "x": 5,
+              "y": 3
             },
             "ux6VD": {
               "height": "fill_container",
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 137
             },
             "K1Kur": {
               "height": "fit_content",
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 16
+            },
+            "O69Z0": {
+              "x": 20
             },
             "DM1aW": {
               "fill": "#00000000",
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 39
             },
             "JYJbf": {
               "fill": "#00000000"
             },
             "H5qZL": {
-              "fill": "#8a8a8aff"
+              "fill": "#8a8a8aff",
+              "x": 17,
+              "y": 12
             },
             "zeFs2": {
               "fill": "#8a8a8aff",
-              "fontWeight": "500"
+              "fontWeight": "500",
+              "x": 51,
+              "y": 13.5
             },
             "udd20": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 85
+            },
+            "jIu3m": {
+              "x": 17,
+              "y": 12
+            },
+            "u6Ism": {
+              "x": 51,
+              "y": 13.5
             },
             "7rMWC": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 131
+            },
+            "ToB8E": {
+              "x": 17,
+              "y": 12
+            },
+            "kZaAH": {
+              "x": 51,
+              "y": 13.5
             },
             "ztKB5": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 177
+            },
+            "KzB2l": {
+              "x": 17,
+              "y": 12
+            },
+            "tw5kW": {
+              "x": 51,
+              "y": 13.5
             },
             "Nd6Bu": {
               "fill": "#fe760014",
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 223
             },
             "hW1II": {
               "fill": "#fe7600ff"
             },
             "v2ri3": {
-              "fill": "#fe7600ff"
+              "fill": "#fe7600ff",
+              "x": 17,
+              "y": 12
             },
             "ejSCa": {
               "fill": "#ffffffff",
-              "fontWeight": "600"
+              "fontWeight": "600",
+              "x": 51,
+              "y": 13.5
             },
             "DCSXk": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 269
+            },
+            "ocY9a": {
+              "x": 17,
+              "y": 12
+            },
+            "pFY1o": {
+              "x": 51,
+              "y": 13.5
             },
             "UAccH": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 315
+            },
+            "M53rF": {
+              "x": 17,
+              "y": 12
+            },
+            "N6wfv": {
+              "x": 51,
+              "y": 13.5
             },
             "bGq7Y": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 361
+            },
+            "UpGq8": {
+              "x": 17,
+              "y": 12
+            },
+            "hfR8A": {
+              "x": 51,
+              "y": 13.5
             }
           }
         },
@@ -28032,7 +28428,8 @@
                               "fill": "#8a8a8aff",
                               "content": "Hampton Inn Midtown · Housekeeping · Rate: $15.00/h",
                               "fontFamily": "Montserrat",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             },
                             {
                               "type": "text",
@@ -28390,7 +28787,8 @@
                           "fill": "#8a8a8aff",
                           "content": "40h × $15.00 = $600.00",
                           "fontFamily": "Montserrat",
-                          "fontSize": 11
+                          "fontSize": 11,
+                          "fontWeight": "normal"
                         }
                       ]
                     },
@@ -28424,7 +28822,8 @@
                           "width": "fill_container",
                           "content": "Todos los pagos de vacaciones requieren aprobación de Irene antes de procesar.",
                           "fontFamily": "Montserrat",
-                          "fontSize": 12
+                          "fontSize": 12,
+                          "fontWeight": "normal"
                         },
                         {
                           "type": "frame",
@@ -28522,81 +28921,179 @@
               "height": "fit_content",
               "width": "fill_container"
             },
+            "X80Gg": {
+              "x": 20,
+              "y": 24.5
+            },
+            "C2tcs": {
+              "x": 232,
+              "y": 24
+            },
             "VfYx8": {
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 84
             },
             "SZ7LD": {
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 93
             },
             "mNl8M": {
               "height": 36,
-              "width": "fill_container"
+              "width": "fill_container",
+              "x": 16
+            },
+            "iWHne": {
+              "x": 12,
+              "y": 10
+            },
+            "R4WIQ": {
+              "x": 36,
+              "y": 10.5
             },
             "hnEzn": {
               "height": 1,
-              "width": "fill_container"
+              "width": "fill_container",
+              "x": 142,
+              "y": 17.5
+            },
+            "fYz2A": {
+              "x": 208,
+              "y": 8
+            },
+            "QnOJn": {
+              "x": 5,
+              "y": 3
             },
             "ux6VD": {
               "height": "fill_container",
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 137
             },
             "K1Kur": {
               "height": "fit_content",
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 16
+            },
+            "O69Z0": {
+              "x": 20
             },
             "DM1aW": {
               "fill": "#00000000",
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 39
             },
             "JYJbf": {
               "fill": "#00000000"
             },
             "H5qZL": {
-              "fill": "#8a8a8aff"
+              "fill": "#8a8a8aff",
+              "x": 17,
+              "y": 12
             },
             "zeFs2": {
               "fill": "#8a8a8aff",
-              "fontWeight": "500"
+              "fontWeight": "500",
+              "x": 51,
+              "y": 13.5
             },
             "udd20": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 85
+            },
+            "jIu3m": {
+              "x": 17,
+              "y": 12
+            },
+            "u6Ism": {
+              "x": 51,
+              "y": 13.5
             },
             "7rMWC": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 131
+            },
+            "ToB8E": {
+              "x": 17,
+              "y": 12
+            },
+            "kZaAH": {
+              "x": 51,
+              "y": 13.5
             },
             "ztKB5": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 177
+            },
+            "KzB2l": {
+              "x": 17,
+              "y": 12
+            },
+            "tw5kW": {
+              "x": 51,
+              "y": 13.5
             },
             "Nd6Bu": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 223
+            },
+            "v2ri3": {
+              "x": 17,
+              "y": 12
+            },
+            "ejSCa": {
+              "x": 51,
+              "y": 13.5
             },
             "DCSXk": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 269
+            },
+            "ocY9a": {
+              "x": 17,
+              "y": 12
+            },
+            "pFY1o": {
+              "x": 51,
+              "y": 13.5
             },
             "UAccH": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 315
+            },
+            "M53rF": {
+              "x": 17,
+              "y": 12
+            },
+            "N6wfv": {
+              "x": 51,
+              "y": 13.5
             },
             "bGq7Y": {
               "fill": "#fe760014",
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 361
             },
             "83j4B": {
               "fill": "#fe7600ff"
             },
             "UpGq8": {
-              "fill": "#fe7600ff"
+              "fill": "#fe7600ff",
+              "x": 17,
+              "y": 12
             },
             "hfR8A": {
               "fill": "#ffffffff",
-              "fontWeight": "600"
+              "fontWeight": "600",
+              "x": 51,
+              "y": 13.5
             }
           }
         },
@@ -28991,7 +29488,8 @@
                               "width": "fill_container",
                               "content": "TS recibidos + faltantes por hotel. Generado automáticamente cada 2 horas durante días hábiles.",
                               "fontFamily": "Montserrat",
-                              "fontSize": 11
+                              "fontSize": 11,
+                              "fontWeight": "normal"
                             },
                             {
                               "type": "text",
@@ -29068,7 +29566,8 @@
                               "width": "fill_container",
                               "content": "Lista de hoteles que no han enviado TS. Auto-escalación a Irene después de martes.",
                               "fontFamily": "Montserrat",
-                              "fontSize": 11
+                              "fontSize": 11,
+                              "fontWeight": "normal"
                             }
                           ]
                         },
@@ -29135,7 +29634,8 @@
                               "width": "fill_container",
                               "content": "Reporte automático cada tarde con items pendientes por inspectora.",
                               "fontFamily": "Montserrat",
-                              "fontSize": 11
+                              "fontSize": 11,
+                              "fontWeight": "normal"
                             }
                           ]
                         }
@@ -29692,70 +30192,172 @@
               "height": "fit_content",
               "width": "fill_container"
             },
+            "X80Gg": {
+              "x": 20,
+              "y": 24.5
+            },
+            "C2tcs": {
+              "x": 232,
+              "y": 24
+            },
             "VfYx8": {
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 84
             },
             "SZ7LD": {
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 93
             },
             "mNl8M": {
               "height": 36,
-              "width": "fill_container"
+              "width": "fill_container",
+              "x": 16
+            },
+            "iWHne": {
+              "x": 12,
+              "y": 10
+            },
+            "R4WIQ": {
+              "x": 36,
+              "y": 10.5
             },
             "hnEzn": {
               "height": 1,
-              "width": "fill_container"
+              "width": "fill_container",
+              "x": 142,
+              "y": 17.5
+            },
+            "fYz2A": {
+              "x": 208,
+              "y": 8
+            },
+            "QnOJn": {
+              "x": 5,
+              "y": 3
             },
             "ux6VD": {
               "height": "fill_container",
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 137
             },
             "K1Kur": {
               "height": "fit_content",
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 16
+            },
+            "O69Z0": {
+              "x": 20
             },
             "DM1aW": {
               "fill": "#00000000",
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 39
             },
             "JYJbf": {
               "fill": "#00000000"
             },
             "H5qZL": {
-              "fill": "#8a8a8aff"
+              "fill": "#8a8a8aff",
+              "x": 17,
+              "y": 12
             },
             "zeFs2": {
               "fill": "#8a8a8aff",
-              "fontWeight": "500"
+              "fontWeight": "500",
+              "x": 51,
+              "y": 13.5
             },
             "udd20": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 85
+            },
+            "jIu3m": {
+              "x": 17,
+              "y": 12
+            },
+            "u6Ism": {
+              "x": 51,
+              "y": 13.5
             },
             "7rMWC": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 131
+            },
+            "ToB8E": {
+              "x": 17,
+              "y": 12
+            },
+            "kZaAH": {
+              "x": 51,
+              "y": 13.5
             },
             "ztKB5": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 177
+            },
+            "KzB2l": {
+              "x": 17,
+              "y": 12
+            },
+            "tw5kW": {
+              "x": 51,
+              "y": 13.5
             },
             "Nd6Bu": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 223
+            },
+            "v2ri3": {
+              "x": 17,
+              "y": 12
+            },
+            "ejSCa": {
+              "x": 51,
+              "y": 13.5
             },
             "DCSXk": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 269
+            },
+            "ocY9a": {
+              "x": 17,
+              "y": 12
+            },
+            "pFY1o": {
+              "x": 51,
+              "y": 13.5
             },
             "UAccH": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 315
+            },
+            "M53rF": {
+              "x": 17,
+              "y": 12
+            },
+            "N6wfv": {
+              "x": 51,
+              "y": 13.5
             },
             "bGq7Y": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 361
+            },
+            "UpGq8": {
+              "x": 17,
+              "y": 12
+            },
+            "hfR8A": {
+              "x": 51,
+              "y": 13.5
             }
           }
         },
@@ -30718,71 +31320,173 @@
               "height": "fit_content",
               "width": "fill_container"
             },
+            "X80Gg": {
+              "x": 20,
+              "y": 24.5
+            },
+            "C2tcs": {
+              "x": 232,
+              "y": 24
+            },
             "VfYx8": {
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 84
             },
             "SZ7LD": {
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 93
             },
             "mNl8M": {
               "height": 36,
-              "width": "fill_container"
+              "width": "fill_container",
+              "x": 16
+            },
+            "iWHne": {
+              "x": 12,
+              "y": 10
+            },
+            "R4WIQ": {
+              "x": 36,
+              "y": 10.5
             },
             "hnEzn": {
               "height": 1,
-              "width": "fill_container"
+              "width": "fill_container",
+              "x": 142,
+              "y": 17.5
+            },
+            "fYz2A": {
+              "x": 208,
+              "y": 8
+            },
+            "QnOJn": {
+              "x": 5,
+              "y": 3
             },
             "ux6VD": {
               "height": "fill_container",
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 137
             },
             "K1Kur": {
               "height": "fit_content",
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 16
+            },
+            "O69Z0": {
+              "x": 20
             },
             "DM1aW": {
               "fill": "#00000000",
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 39
             },
             "JYJbf": {
               "fill": "#00000000"
             },
             "H5qZL": {
-              "fill": "#8a8a8aff"
+              "fill": "#8a8a8aff",
+              "x": 17,
+              "y": 12
             },
             "zeFs2": {
               "fill": "#8a8a8aff",
-              "fontWeight": "500"
+              "fontWeight": "500",
+              "x": 51,
+              "y": 13.5
             },
             "udd20": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 85
+            },
+            "jIu3m": {
+              "x": 17,
+              "y": 12
+            },
+            "u6Ism": {
+              "x": 51,
+              "y": 13.5
             },
             "7rMWC": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 131
+            },
+            "ToB8E": {
+              "x": 17,
+              "y": 12
+            },
+            "kZaAH": {
+              "x": 51,
+              "y": 13.5
             },
             "ztKB5": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 177
+            },
+            "KzB2l": {
+              "x": 17,
+              "y": 12
+            },
+            "tw5kW": {
+              "x": 51,
+              "y": 13.5
             },
             "Nd6Bu": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 223
+            },
+            "v2ri3": {
+              "x": 17,
+              "y": 12
+            },
+            "ejSCa": {
+              "x": 51,
+              "y": 13.5
             },
             "DCSXk": {
               "fill": "#fe760014",
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 269
+            },
+            "ocY9a": {
+              "x": 17,
+              "y": 12
+            },
+            "pFY1o": {
+              "x": 51,
+              "y": 13.5
             },
             "UAccH": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 315
+            },
+            "M53rF": {
+              "x": 17,
+              "y": 12
+            },
+            "N6wfv": {
+              "x": 51,
+              "y": 13.5
             },
             "bGq7Y": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 361
+            },
+            "UpGq8": {
+              "x": 17,
+              "y": 12
+            },
+            "hfR8A": {
+              "x": 51,
+              "y": 13.5
             }
           }
         },
@@ -32288,71 +32992,173 @@
               "height": "fit_content",
               "width": "fill_container"
             },
+            "X80Gg": {
+              "x": 20,
+              "y": 24.5
+            },
+            "C2tcs": {
+              "x": 232,
+              "y": 24
+            },
             "VfYx8": {
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 84
             },
             "SZ7LD": {
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 93
             },
             "mNl8M": {
               "height": 36,
-              "width": "fill_container"
+              "width": "fill_container",
+              "x": 16
+            },
+            "iWHne": {
+              "x": 12,
+              "y": 10
+            },
+            "R4WIQ": {
+              "x": 36,
+              "y": 10.5
             },
             "hnEzn": {
               "height": 1,
-              "width": "fill_container"
+              "width": "fill_container",
+              "x": 142,
+              "y": 17.5
+            },
+            "fYz2A": {
+              "x": 208,
+              "y": 8
+            },
+            "QnOJn": {
+              "x": 5,
+              "y": 3
             },
             "ux6VD": {
               "height": "fill_container",
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 137
             },
             "K1Kur": {
               "height": "fit_content",
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 16
+            },
+            "O69Z0": {
+              "x": 20
             },
             "DM1aW": {
               "fill": "#00000000",
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 39
             },
             "JYJbf": {
               "fill": "#00000000"
             },
             "H5qZL": {
-              "fill": "#8a8a8aff"
+              "fill": "#8a8a8aff",
+              "x": 17,
+              "y": 12
             },
             "zeFs2": {
               "fill": "#8a8a8aff",
-              "fontWeight": "500"
+              "fontWeight": "500",
+              "x": 51,
+              "y": 13.5
             },
             "udd20": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 85
+            },
+            "jIu3m": {
+              "x": 17,
+              "y": 12
+            },
+            "u6Ism": {
+              "x": 51,
+              "y": 13.5
             },
             "7rMWC": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 131
+            },
+            "ToB8E": {
+              "x": 17,
+              "y": 12
+            },
+            "kZaAH": {
+              "x": 51,
+              "y": 13.5
             },
             "ztKB5": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 177
+            },
+            "KzB2l": {
+              "x": 17,
+              "y": 12
+            },
+            "tw5kW": {
+              "x": 51,
+              "y": 13.5
             },
             "Nd6Bu": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 223
+            },
+            "v2ri3": {
+              "x": 17,
+              "y": 12
+            },
+            "ejSCa": {
+              "x": 51,
+              "y": 13.5
             },
             "DCSXk": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 269
+            },
+            "ocY9a": {
+              "x": 17,
+              "y": 12
+            },
+            "pFY1o": {
+              "x": 51,
+              "y": 13.5
             },
             "UAccH": {
               "fill": "#fe760014",
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 315
+            },
+            "M53rF": {
+              "x": 17,
+              "y": 12
+            },
+            "N6wfv": {
+              "x": 51,
+              "y": 13.5
             },
             "bGq7Y": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 361
+            },
+            "UpGq8": {
+              "x": 17,
+              "y": 12
+            },
+            "hfR8A": {
+              "x": 51,
+              "y": 13.5
             }
           }
         },
@@ -34349,71 +35155,173 @@
               "height": "fit_content",
               "width": "fill_container"
             },
+            "X80Gg": {
+              "x": 20,
+              "y": 24.5
+            },
+            "C2tcs": {
+              "x": 232,
+              "y": 24
+            },
             "VfYx8": {
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 84
             },
             "SZ7LD": {
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 93
             },
             "mNl8M": {
               "height": 36,
-              "width": "fill_container"
+              "width": "fill_container",
+              "x": 16
+            },
+            "iWHne": {
+              "x": 12,
+              "y": 10
+            },
+            "R4WIQ": {
+              "x": 36,
+              "y": 10.5
             },
             "hnEzn": {
               "height": 1,
-              "width": "fill_container"
+              "width": "fill_container",
+              "x": 142,
+              "y": 17.5
+            },
+            "fYz2A": {
+              "x": 208,
+              "y": 8
+            },
+            "QnOJn": {
+              "x": 5,
+              "y": 3
             },
             "ux6VD": {
               "height": "fill_container",
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 137
             },
             "K1Kur": {
               "height": "fit_content",
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 16
+            },
+            "O69Z0": {
+              "x": 20
             },
             "DM1aW": {
               "fill": "#00000000",
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 39
             },
             "JYJbf": {
               "fill": "#00000000"
             },
             "H5qZL": {
-              "fill": "#8a8a8aff"
+              "fill": "#8a8a8aff",
+              "x": 17,
+              "y": 12
             },
             "zeFs2": {
               "fill": "#8a8a8aff",
-              "fontWeight": "500"
+              "fontWeight": "500",
+              "x": 51,
+              "y": 13.5
             },
             "udd20": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 85
+            },
+            "jIu3m": {
+              "x": 17,
+              "y": 12
+            },
+            "u6Ism": {
+              "x": 51,
+              "y": 13.5
             },
             "7rMWC": {
               "fill": "#fe760014",
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 131
+            },
+            "ToB8E": {
+              "x": 17,
+              "y": 12
+            },
+            "kZaAH": {
+              "x": 51,
+              "y": 13.5
             },
             "ztKB5": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 177
+            },
+            "KzB2l": {
+              "x": 17,
+              "y": 12
+            },
+            "tw5kW": {
+              "x": 51,
+              "y": 13.5
             },
             "Nd6Bu": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 223
+            },
+            "v2ri3": {
+              "x": 17,
+              "y": 12
+            },
+            "ejSCa": {
+              "x": 51,
+              "y": 13.5
             },
             "DCSXk": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 269
+            },
+            "ocY9a": {
+              "x": 17,
+              "y": 12
+            },
+            "pFY1o": {
+              "x": 51,
+              "y": 13.5
             },
             "UAccH": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 315
+            },
+            "M53rF": {
+              "x": 17,
+              "y": 12
+            },
+            "N6wfv": {
+              "x": 51,
+              "y": 13.5
             },
             "bGq7Y": {
               "height": 44,
-              "width": "fill_container"
+              "width": "fill_container",
+              "y": 361
+            },
+            "UpGq8": {
+              "x": 17,
+              "y": 12
+            },
+            "hfR8A": {
+              "x": 51,
+              "y": 13.5
             }
           }
         },
@@ -35895,98 +36803,6 @@
       "fill": "#0f0f10ff"
     },
     {
-      "id": "c7TC4",
-      "type": "ref",
-      "ref": "8bTBA",
-      "width": 280,
-      "height": "fill_container(900)",
-      "name": "sb",
-      "x": 1220,
-      "y": 3400,
-      "descendants": {
-        "72U64": {
-          "height": "fit_content",
-          "width": "fill_container"
-        },
-        "VfYx8": {
-          "width": "fill_container"
-        },
-        "SZ7LD": {
-          "width": "fill_container"
-        },
-        "mNl8M": {
-          "height": 36,
-          "width": "fill_container"
-        },
-        "hnEzn": {
-          "height": 1,
-          "width": "fill_container"
-        },
-        "ux6VD": {
-          "height": "fill_container",
-          "width": "fill_container"
-        },
-        "K1Kur": {
-          "height": "fit_content",
-          "width": "fill_container"
-        },
-        "DM1aW": {
-          "fill": "#00000000",
-          "height": 44,
-          "width": "fill_container"
-        },
-        "JYJbf": {
-          "fill": "#00000000"
-        },
-        "H5qZL": {
-          "fill": "#8a8a8aff"
-        },
-        "zeFs2": {
-          "fill": "#8a8a8aff",
-          "fontWeight": "500"
-        },
-        "udd20": {
-          "height": 44,
-          "width": "fill_container"
-        },
-        "7rMWC": {
-          "fill": "#fe760014",
-          "height": 44,
-          "width": "fill_container"
-        },
-        "xy8wF": {
-          "fill": "#fe7600ff"
-        },
-        "ToB8E": {
-          "fill": "#fe7600ff"
-        },
-        "kZaAH": {
-          "fill": "#ffffffff",
-          "fontWeight": "600"
-        },
-        "ztKB5": {
-          "height": 44,
-          "width": "fill_container"
-        },
-        "Nd6Bu": {
-          "height": 44,
-          "width": "fill_container"
-        },
-        "DCSXk": {
-          "height": 44,
-          "width": "fill_container"
-        },
-        "UAccH": {
-          "height": 44,
-          "width": "fill_container"
-        },
-        "bGq7Y": {
-          "height": 44,
-          "width": "fill_container"
-        }
-      }
-    },
-    {
       "type": "frame",
       "id": "sbNtP",
       "x": 1600,
@@ -36302,6 +37118,196 @@
           ]
         }
       ]
+    },
+    {
+      "id": "c7TC4",
+      "type": "ref",
+      "ref": "8bTBA",
+      "width": 280,
+      "height": "fill_container(900)",
+      "name": "sb",
+      "x": 1220,
+      "y": 3400,
+      "descendants": {
+        "72U64": {
+          "height": "fit_content",
+          "width": "fill_container"
+        },
+        "X80Gg": {
+          "x": 20,
+          "y": 24.5
+        },
+        "C2tcs": {
+          "x": 232,
+          "y": 24
+        },
+        "VfYx8": {
+          "width": "fill_container",
+          "y": 84
+        },
+        "SZ7LD": {
+          "width": "fill_container",
+          "y": 93
+        },
+        "mNl8M": {
+          "height": 36,
+          "width": "fill_container",
+          "x": 16
+        },
+        "iWHne": {
+          "x": 12,
+          "y": 10
+        },
+        "R4WIQ": {
+          "x": 36,
+          "y": 10.5
+        },
+        "hnEzn": {
+          "height": 1,
+          "width": "fill_container",
+          "x": 142,
+          "y": 17.5
+        },
+        "fYz2A": {
+          "x": 208,
+          "y": 8
+        },
+        "QnOJn": {
+          "x": 5,
+          "y": 3
+        },
+        "ux6VD": {
+          "height": "fill_container",
+          "width": "fill_container",
+          "y": 137
+        },
+        "K1Kur": {
+          "height": "fit_content",
+          "width": "fill_container",
+          "y": 16
+        },
+        "O69Z0": {
+          "x": 20
+        },
+        "DM1aW": {
+          "fill": "#00000000",
+          "height": 44,
+          "width": "fill_container",
+          "y": 39
+        },
+        "JYJbf": {
+          "fill": "#00000000"
+        },
+        "H5qZL": {
+          "fill": "#8a8a8aff",
+          "x": 17,
+          "y": 12
+        },
+        "zeFs2": {
+          "fill": "#8a8a8aff",
+          "fontWeight": "500",
+          "x": 51,
+          "y": 13.5
+        },
+        "udd20": {
+          "height": 44,
+          "width": "fill_container",
+          "y": 85
+        },
+        "jIu3m": {
+          "x": 17,
+          "y": 12
+        },
+        "u6Ism": {
+          "x": 51,
+          "y": 13.5
+        },
+        "7rMWC": {
+          "fill": "#fe760014",
+          "height": 44,
+          "width": "fill_container",
+          "y": 131
+        },
+        "xy8wF": {
+          "fill": "#fe7600ff"
+        },
+        "ToB8E": {
+          "fill": "#fe7600ff",
+          "x": 17,
+          "y": 12
+        },
+        "kZaAH": {
+          "fill": "#ffffffff",
+          "fontWeight": "600",
+          "x": 51,
+          "y": 13.5
+        },
+        "ztKB5": {
+          "height": 44,
+          "width": "fill_container",
+          "y": 177
+        },
+        "KzB2l": {
+          "x": 17,
+          "y": 12
+        },
+        "tw5kW": {
+          "x": 51,
+          "y": 13.5
+        },
+        "Nd6Bu": {
+          "height": 44,
+          "width": "fill_container",
+          "y": 223
+        },
+        "v2ri3": {
+          "x": 17,
+          "y": 12
+        },
+        "ejSCa": {
+          "x": 51,
+          "y": 13.5
+        },
+        "DCSXk": {
+          "height": 44,
+          "width": "fill_container",
+          "y": 269
+        },
+        "ocY9a": {
+          "x": 17,
+          "y": 12
+        },
+        "pFY1o": {
+          "x": 51,
+          "y": 13.5
+        },
+        "UAccH": {
+          "height": 44,
+          "width": "fill_container",
+          "y": 315
+        },
+        "M53rF": {
+          "x": 17,
+          "y": 12
+        },
+        "N6wfv": {
+          "x": 51,
+          "y": 13.5
+        },
+        "bGq7Y": {
+          "height": 44,
+          "width": "fill_container",
+          "y": 361
+        },
+        "UpGq8": {
+          "x": 17,
+          "y": 12
+        },
+        "hfR8A": {
+          "x": 51,
+          "y": 13.5
+        }
+      }
     },
     {
       "type": "frame",
@@ -37196,6 +38202,1384 @@
                       ]
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "fqD6J",
+      "x": 467,
+      "y": 934,
+      "name": "Success Area",
+      "width": "fill_container(340)",
+      "height": 40,
+      "fill": "#4caf5015",
+      "cornerRadius": 8,
+      "padding": [
+        0,
+        12
+      ],
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "text",
+          "id": "WOKu3",
+          "name": "successText",
+          "fill": "#4caf50ff",
+          "content": "✓  Inicio de sesión correcto",
+          "fontFamily": "Inter",
+          "fontSize": 12,
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "N0Udt",
+      "x": 3100,
+      "y": 1060,
+      "name": "WF10 Label",
+      "fill": "#666666ff",
+      "content": "WF10 - Deadline Warning (2 Estados)",
+      "fontFamily": "Montserrat",
+      "fontSize": 12,
+      "fontWeight": "600"
+    },
+    {
+      "type": "frame",
+      "id": "BT6bv",
+      "x": 3100,
+      "y": 1100,
+      "name": "WF10 - Deadline Warning (Pre-Cierre)",
+      "width": 1160,
+      "height": 56,
+      "fill": "#dc262615",
+      "cornerRadius": 8,
+      "stroke": {
+        "align": "inside",
+        "thickness": 1,
+        "fill": "#dc2626ff"
+      },
+      "padding": [
+        0,
+        24
+      ],
+      "justifyContent": "space_between",
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "QTuaT",
+          "name": "leftSide",
+          "gap": 12,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "ellipse",
+              "id": "JCF8s",
+              "name": "redCircle",
+              "fill": "#dc2626ff",
+              "width": 12,
+              "height": 12
+            },
+            {
+              "type": "text",
+              "id": "VN4Nu",
+              "name": "mainText",
+              "fill": "#dc2626ff",
+              "content": "CIERRE MIÉRCOLES",
+              "fontFamily": "Montserrat",
+              "fontSize": 14,
+              "fontWeight": "700"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "8iCZP",
+          "name": "countdown",
+          "fill": "#dc2626ff",
+          "content": "Faltan 14h",
+          "fontFamily": "Montserrat",
+          "fontSize": 14,
+          "fontWeight": "600"
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "F4T8V",
+      "x": 3100,
+      "y": 1228,
+      "name": "WF10 - Deadline Warning (Post-Cierre)",
+      "width": 1160,
+      "height": 72,
+      "fill": "#4caf5015",
+      "cornerRadius": 8,
+      "stroke": {
+        "align": "inside",
+        "thickness": 1,
+        "fill": "#4caf50ff"
+      },
+      "layout": "vertical",
+      "gap": 4,
+      "padding": 16,
+      "children": [
+        {
+          "type": "frame",
+          "id": "wEYmv",
+          "name": "line1",
+          "width": "fill_container",
+          "gap": 8,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "loRss",
+              "name": "closedText",
+              "fill": "#4caf50ff",
+              "content": "✓  Período cerrado",
+              "fontFamily": "Montserrat",
+              "fontSize": 14,
+              "fontWeight": "700"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "p7SYf",
+          "name": "extempText",
+          "fill": "#666666ff",
+          "content": "Extemporáneos → requieren aprobación",
+          "fontFamily": "Inter",
+          "fontSize": 12,
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "mASke",
+      "x": -800,
+      "y": -1050,
+      "name": "NÓMINA - Archivos y Envío",
+      "fill": "#ffffffff",
+      "content": "NÓMINA - Resumen y Archivos (WF14-18)",
+      "fontFamily": "Montserrat",
+      "fontSize": 20,
+      "fontWeight": "700"
+    },
+    {
+      "type": "frame",
+      "id": "SaB6W",
+      "x": 100,
+      "y": -1000,
+      "name": "WF15 - Pre-Payroll",
+      "width": 800,
+      "height": 600,
+      "fill": "#ffffffff",
+      "cornerRadius": 5,
+      "stroke": {
+        "align": "inside",
+        "thickness": 1,
+        "fill": "#8a38f5ff"
+      },
+      "layout": "vertical",
+      "gap": 24,
+      "padding": 40,
+      "children": [
+        {
+          "type": "text",
+          "id": "TqwyA",
+          "name": "wf15header",
+          "fill": "#16151cff",
+          "content": "WF15 - Pre-Payroll",
+          "fontFamily": "Montserrat",
+          "fontSize": 20,
+          "fontWeight": "700"
+        },
+        {
+          "type": "frame",
+          "id": "Ehhrz",
+          "name": "wf15div",
+          "width": "fill_container",
+          "height": 1,
+          "fill": "#a0a0a0ff"
+        },
+        {
+          "type": "text",
+          "id": "yACCm",
+          "name": "wf15title",
+          "fill": "#16151cff",
+          "content": "📄 Pre-Payroll",
+          "fontFamily": "Montserrat",
+          "fontSize": 17,
+          "fontWeight": "700"
+        },
+        {
+          "type": "text",
+          "id": "pVxxa",
+          "name": "wf15desc",
+          "fill": "#16151cff",
+          "content": "ID → Total Pay + Hotel",
+          "fontFamily": "Montserrat",
+          "fontSize": 12,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "frame",
+          "id": "xg1NV",
+          "name": "wf15card",
+          "width": "fill_container",
+          "height": 150,
+          "fill": "#ffffffff",
+          "cornerRadius": 6,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#a0a0a0ff"
+          },
+          "layout": "vertical",
+          "gap": 12,
+          "padding": 20,
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "edKnk",
+              "name": "wf15info1",
+              "fill": "#16151cff",
+              "content": "187 empleados",
+              "fontFamily": "Montserrat",
+              "fontSize": 16,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "5QJjO",
+              "name": "wf15info2",
+              "fill": "#16151cff",
+              "content": "Total: $45,280",
+              "fontFamily": "Montserrat",
+              "fontSize": 16,
+              "fontWeight": "700"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "Imzlv",
+          "name": "wf15buttons",
+          "width": "fill_container",
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "Mrwj2",
+              "name": "wf15btnBack",
+              "width": 110,
+              "height": 50,
+              "fill": "#ffffffff",
+              "cornerRadius": 10,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#a0a0a0ff"
+              },
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "jq44z",
+                  "name": "wf15btnBackText",
+                  "fill": "#16151cff",
+                  "content": "Volver",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Montserrat",
+                  "fontSize": 16,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "zZrWl",
+              "name": "wf15btnNext",
+              "width": 120,
+              "height": 50,
+              "fill": "#fe7600ff",
+              "cornerRadius": 10,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "6pm8i",
+                  "name": "wf15btnNextText",
+                  "fill": "#ffffffff",
+                  "content": "Siguiente",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Montserrat",
+                  "fontSize": 16,
+                  "fontWeight": "700"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "nctwa",
+      "x": 1000,
+      "y": -1000,
+      "name": "WF16 - Factors",
+      "width": 800,
+      "height": 600,
+      "fill": "#ffffffff",
+      "cornerRadius": 5,
+      "stroke": {
+        "align": "inside",
+        "thickness": 1,
+        "fill": "#8a38f5ff"
+      },
+      "layout": "vertical",
+      "gap": 24,
+      "padding": 40,
+      "children": [
+        {
+          "type": "text",
+          "id": "lUxYI",
+          "name": "wf16header",
+          "fill": "#16151cff",
+          "content": "WF16 - Factors",
+          "fontFamily": "Montserrat",
+          "fontSize": 20,
+          "fontWeight": "700"
+        },
+        {
+          "type": "frame",
+          "id": "g1HG4",
+          "name": "wf16div",
+          "width": "fill_container",
+          "height": 1,
+          "fill": "#a0a0a0ff"
+        },
+        {
+          "type": "text",
+          "id": "HHTWA",
+          "name": "wf16title",
+          "fill": "#16151cff",
+          "content": "📄 Factors",
+          "fontFamily": "Montserrat",
+          "fontSize": 17,
+          "fontWeight": "700"
+        },
+        {
+          "type": "text",
+          "id": "3o472",
+          "name": "wf16desc",
+          "fill": "#16151cff",
+          "content": "Total Bill por hotel + Folio invoice auto",
+          "fontFamily": "Montserrat",
+          "fontSize": 12,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "frame",
+          "id": "Sprv3",
+          "name": "wf16card",
+          "width": "fill_container",
+          "height": 150,
+          "fill": "#ffffffff",
+          "cornerRadius": 6,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#a0a0a0ff"
+          },
+          "layout": "vertical",
+          "gap": 12,
+          "padding": 20,
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "lnrlQ",
+              "name": "wf16info1",
+              "fill": "#16151cff",
+              "content": "24 hoteles",
+              "fontFamily": "Montserrat",
+              "fontSize": 16,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "LdgfA",
+              "name": "wf16info2",
+              "fill": "#16151cff",
+              "content": "Folios: 1001-1024",
+              "fontFamily": "Montserrat",
+              "fontSize": 16,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "z5F2f",
+              "name": "wf16info3",
+              "fill": "#16151cff",
+              "content": "Total Bill: $45,280",
+              "fontFamily": "Montserrat",
+              "fontSize": 16,
+              "fontWeight": "700"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "c2klz",
+          "name": "wf16buttons",
+          "width": "fill_container",
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "wlUPi",
+              "name": "wf16btnBack",
+              "width": 120,
+              "height": 50,
+              "fill": "#ffffffff",
+              "cornerRadius": 10,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#a0a0a0ff"
+              },
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "8CvET",
+                  "name": "wf16btnBackText",
+                  "fill": "#16151cff",
+                  "content": "← Anterior",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Montserrat",
+                  "fontSize": 16,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "0n9fU",
+              "name": "wf16btnNext",
+              "width": 120,
+              "height": 50,
+              "fill": "#fe7600ff",
+              "cornerRadius": 10,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "vICgA",
+                  "name": "wf16btnNextText",
+                  "fill": "#ffffffff",
+                  "content": "Siguiente",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Montserrat",
+                  "fontSize": 16,
+                  "fontWeight": "700"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "LyaQ4",
+      "x": 1900,
+      "y": -1000,
+      "name": "WF17 - Invoice Check",
+      "width": 800,
+      "height": 600,
+      "fill": "#ffffffff",
+      "cornerRadius": 5,
+      "stroke": {
+        "align": "inside",
+        "thickness": 1,
+        "fill": "#8a38f5ff"
+      },
+      "layout": "vertical",
+      "gap": 24,
+      "padding": 40,
+      "children": [
+        {
+          "type": "text",
+          "id": "OAhMA",
+          "name": "wf17header",
+          "fill": "#16151cff",
+          "content": "WF17 - Invoice Check",
+          "fontFamily": "Montserrat",
+          "fontSize": 20,
+          "fontWeight": "700"
+        },
+        {
+          "type": "frame",
+          "id": "2O7AI",
+          "name": "wf17div",
+          "width": "fill_container",
+          "height": 1,
+          "fill": "#a0a0a0ff"
+        },
+        {
+          "type": "text",
+          "id": "Zj1wD",
+          "name": "wf17title",
+          "fill": "#16151cff",
+          "content": "📄 Invoice - Verificación Final",
+          "fontFamily": "Montserrat",
+          "fontSize": 17,
+          "fontWeight": "700"
+        },
+        {
+          "type": "text",
+          "id": "RIZPM",
+          "name": "wf17desc",
+          "fill": "#16151cff",
+          "content": "Total Pay Rate = Total Bill ✓",
+          "fontFamily": "Montserrat",
+          "fontSize": 12,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "frame",
+          "id": "X9eft",
+          "name": "wf17card",
+          "width": "fill_container",
+          "height": 150,
+          "fill": "#ffffffff",
+          "cornerRadius": 6,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#a0a0a0ff"
+          },
+          "layout": "vertical",
+          "gap": 12,
+          "padding": 20,
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "mLh4D",
+              "name": "wf17badge",
+              "fill": "#4caf50ff",
+              "content": "✅ TODO VERIFICADO",
+              "fontFamily": "Montserrat",
+              "fontSize": 18,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "LClJq",
+              "name": "wf17info1",
+              "fill": "#16151cff",
+              "content": "24/24 hoteles cuadrados",
+              "fontFamily": "Montserrat",
+              "fontSize": 16,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "vqQT2",
+              "name": "wf17info2",
+              "fill": "#16151cff",
+              "content": "Total: $45,280",
+              "fontFamily": "Montserrat",
+              "fontSize": 16,
+              "fontWeight": "700"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "8wuYu",
+          "name": "wf17buttons",
+          "width": "fill_container",
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "HicQC",
+              "name": "wf17btnBack",
+              "width": 120,
+              "height": 50,
+              "fill": "#ffffffff",
+              "cornerRadius": 10,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#a0a0a0ff"
+              },
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "N1bXr",
+                  "name": "wf17btnBackText",
+                  "fill": "#16151cff",
+                  "content": "← Anterior",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Montserrat",
+                  "fontSize": 16,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "ebAAm",
+              "name": "wf17btnSend",
+              "width": 180,
+              "height": 50,
+              "fill": "#fe7600ff",
+              "cornerRadius": 10,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "spjAH",
+                  "name": "wf17btnSendText",
+                  "fill": "#ffffffff",
+                  "content": "Enviar a Sandra →",
+                  "lineHeight": 1.5,
+                  "fontFamily": "Montserrat",
+                  "fontSize": 16,
+                  "fontWeight": "700"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "PK0qZ",
+      "x": 2800,
+      "y": -1000,
+      "name": "WF18 - Envío Sandra",
+      "width": 500,
+      "height": 650,
+      "fill": "#ffffffff",
+      "cornerRadius": 5,
+      "stroke": {
+        "align": "inside",
+        "thickness": 1,
+        "fill": "#8a38f5ff"
+      },
+      "layout": "vertical",
+      "gap": 24,
+      "padding": 40,
+      "children": [
+        {
+          "type": "text",
+          "id": "167WB",
+          "name": "wf18header",
+          "fill": "#16151cff",
+          "content": "WF18 - Envío Sandra",
+          "fontFamily": "Montserrat",
+          "fontSize": 20,
+          "fontWeight": "700"
+        },
+        {
+          "type": "frame",
+          "id": "3HFgb",
+          "name": "wf18div",
+          "width": "fill_container",
+          "height": 1,
+          "fill": "#a0a0a0ff"
+        },
+        {
+          "type": "text",
+          "id": "C6sRM",
+          "name": "wf18title",
+          "fill": "#16151cff",
+          "content": "📧 Envío de Archivos",
+          "fontFamily": "Montserrat",
+          "fontSize": 17,
+          "fontWeight": "700"
+        },
+        {
+          "type": "text",
+          "id": "KrPSW",
+          "name": "wf18desc",
+          "fill": "#16151cff",
+          "content": "Enviar archivos verificados a Sandra",
+          "fontFamily": "Montserrat",
+          "fontSize": 12,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "frame",
+          "id": "klvCh",
+          "name": "wf18card",
+          "width": "fill_container",
+          "height": "fill_container",
+          "fill": "#ffffffff",
+          "cornerRadius": 6,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#a0a0a0ff"
+          },
+          "layout": "vertical",
+          "gap": 12,
+          "padding": 20,
+          "children": [
+            {
+              "type": "frame",
+              "id": "zO2ZI",
+              "name": "emailPara",
+              "width": "fill_container",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "T7Y3k",
+                  "name": "labelPara",
+                  "fill": "#16151cff",
+                  "content": "Para:",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 13,
+                  "fontWeight": "700"
+                },
+                {
+                  "type": "text",
+                  "id": "0yCKQ",
+                  "name": "valuePara",
+                  "fill": "#16151cff",
+                  "content": "sandra@orange.com",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 13,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "0Wb74",
+              "name": "emailDe",
+              "width": "fill_container",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "BbCOk",
+                  "name": "labelDe",
+                  "fill": "#16151cff",
+                  "content": "De:",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 13,
+                  "fontWeight": "700"
+                },
+                {
+                  "type": "text",
+                  "id": "JlawP",
+                  "name": "valueDe",
+                  "fill": "#16151cff",
+                  "content": "contabilidad@orange.com",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 13,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "IWlIG",
+              "name": "emailAsunto",
+              "width": "fill_container",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "yf3oD",
+                  "name": "labelAsunto",
+                  "fill": "#16151cff",
+                  "content": "Asunto:",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 13,
+                  "fontWeight": "700"
+                },
+                {
+                  "type": "text",
+                  "id": "yO7Lz",
+                  "name": "valueAsunto",
+                  "fill": "#16151cff",
+                  "content": "Nómina verificada",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 13,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "asaTs",
+              "name": "spacer1",
+              "width": "fill_container",
+              "height": 8
+            },
+            {
+              "type": "text",
+              "id": "6jKqJ",
+              "name": "attachTitle",
+              "fill": "#16151cff",
+              "content": "Archivos adjuntos:",
+              "fontFamily": "Montserrat",
+              "fontSize": 13,
+              "fontWeight": "700"
+            },
+            {
+              "type": "frame",
+              "id": "uYsne",
+              "name": "attach1",
+              "width": "fill_container",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "ZVz3p",
+                  "name": "check1",
+                  "fill": "#00aa00ff",
+                  "content": "✓",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 14,
+                  "fontWeight": "700"
+                },
+                {
+                  "type": "text",
+                  "id": "MfVGN",
+                  "name": "file1",
+                  "fill": "#16151cff",
+                  "content": "prenomina.xlsx",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 12,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "v6Pod",
+              "name": "attach2",
+              "width": "fill_container",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "SD05P",
+                  "name": "check2",
+                  "fill": "#00aa00ff",
+                  "content": "✓",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 14,
+                  "fontWeight": "700"
+                },
+                {
+                  "type": "text",
+                  "id": "tXLex",
+                  "name": "file2",
+                  "fill": "#16151cff",
+                  "content": "factores.xlsx",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 12,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "YEiQs",
+              "name": "attach3",
+              "width": "fill_container",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "uijVw",
+                  "name": "check3",
+                  "fill": "#00aa00ff",
+                  "content": "✓",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 14,
+                  "fontWeight": "700"
+                },
+                {
+                  "type": "text",
+                  "id": "lN2Mv",
+                  "name": "file3",
+                  "fill": "#16151cff",
+                  "content": "facturas.pdf",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 12,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "47Ese",
+              "name": "attach4",
+              "width": "fill_container",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "8W9YZ",
+                  "name": "check4",
+                  "fill": "#00aa00ff",
+                  "content": "✓",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 14,
+                  "fontWeight": "700"
+                },
+                {
+                  "type": "text",
+                  "id": "VuUhT",
+                  "name": "file4",
+                  "fill": "#16151cff",
+                  "content": "totales_verificados.xlsx",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 12,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "8vjAZ",
+              "name": "spacer2",
+              "width": "fill_container",
+              "height": 8
+            },
+            {
+              "type": "frame",
+              "id": "WMp9o",
+              "name": "totalRow",
+              "width": "fill_container",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "vg8HM",
+                  "name": "totalLabel",
+                  "fill": "#16151cff",
+                  "content": "Total:",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 14,
+                  "fontWeight": "700"
+                },
+                {
+                  "type": "text",
+                  "id": "YVHIZ",
+                  "name": "totalValue",
+                  "fill": "#fe7600ff",
+                  "content": "$45,280",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 14,
+                  "fontWeight": "700"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "L6dhl",
+          "name": "wf18buttons",
+          "width": "fill_container",
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "vF0PC",
+              "name": "wf18btnCancel",
+              "width": 110,
+              "height": 50,
+              "fill": "#ffffffff",
+              "cornerRadius": 10,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#a0a0a0ff"
+              },
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "LmXAb",
+                  "name": "btnCancelText",
+                  "fill": "#16151cff",
+                  "content": "Cancelar",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 16,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "myOaq",
+              "name": "wf18btnSend",
+              "width": 110,
+              "height": 50,
+              "fill": "#fe7600ff",
+              "cornerRadius": 10,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "362gX",
+                  "name": "btnSendText",
+                  "fill": "#ffffffff",
+                  "content": "Enviar →",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 16,
+                  "fontWeight": "700"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "kI27c",
+      "x": -800,
+      "y": -1000,
+      "name": "WF14 - Resumen Nómina",
+      "width": 800,
+      "height": 600,
+      "fill": "#ffffffff",
+      "cornerRadius": 5,
+      "stroke": {
+        "align": "inside",
+        "thickness": 1,
+        "fill": "#8a38f5ff"
+      },
+      "layout": "vertical",
+      "gap": 24,
+      "padding": 40,
+      "children": [
+        {
+          "type": "text",
+          "id": "wo66o",
+          "name": "wf14header",
+          "fill": "#16151cff",
+          "content": "WF14 - Resumen Nómina",
+          "fontFamily": "Montserrat",
+          "fontSize": 20,
+          "fontWeight": "700"
+        },
+        {
+          "type": "frame",
+          "id": "5iDXX",
+          "name": "wf14div",
+          "width": "fill_container",
+          "height": 1,
+          "fill": "#a0a0a0ff"
+        },
+        {
+          "type": "text",
+          "id": "1Dvno",
+          "name": "wf14title",
+          "fill": "#16151cff",
+          "content": "💵 Resumen de Nómina",
+          "fontFamily": "Montserrat",
+          "fontSize": 17,
+          "fontWeight": "700"
+        },
+        {
+          "type": "text",
+          "id": "CvM3t",
+          "name": "wf14desc",
+          "fill": "#16151cff",
+          "content": "Totales consolidados semana actual",
+          "fontFamily": "Montserrat",
+          "fontSize": 12,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "frame",
+          "id": "gjYC1",
+          "name": "wf14card",
+          "width": "fill_container",
+          "height": "fill_container",
+          "fill": "#ffffffff",
+          "cornerRadius": 6,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#a0a0a0ff"
+          },
+          "layout": "vertical",
+          "gap": 16,
+          "padding": 20,
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "ji1s5",
+              "name": "totalRow",
+              "width": "fill_container",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "EXQdR",
+                  "name": "totalLabel",
+                  "fill": "#16151cff",
+                  "content": "💰 Total Payroll:",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 15,
+                  "fontWeight": "700"
+                },
+                {
+                  "type": "text",
+                  "id": "OT96Q",
+                  "name": "totalValue",
+                  "fill": "#fe7600ff",
+                  "content": "$45,280",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 18,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "acnNY",
+              "name": "empRow",
+              "width": "fill_container",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "Uajnk",
+                  "name": "empLabel",
+                  "fill": "#16151cff",
+                  "content": "👷 Empleados:",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 14,
+                  "fontWeight": "700"
+                },
+                {
+                  "type": "text",
+                  "id": "IDsog",
+                  "name": "empValue",
+                  "fill": "#16151cff",
+                  "content": "187",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "mRINM",
+              "name": "hoursRow",
+              "width": "fill_container",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "HTaIR",
+                  "name": "hoursLabel",
+                  "fill": "#16151cff",
+                  "content": "⏰ Horas totales:",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 14,
+                  "fontWeight": "700"
+                },
+                {
+                  "type": "text",
+                  "id": "6Mc0A",
+                  "name": "hoursValue",
+                  "fill": "#16151cff",
+                  "content": "6,420",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "swZuW",
+              "name": "detailsRow",
+              "width": "fill_container",
+              "gap": 20,
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "haPLa",
+                  "name": "regLabel",
+                  "fill": "#16151cff",
+                  "content": "Regular: 5,890",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 13,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "GN3gh",
+                  "name": "otLabel",
+                  "fill": "#16151cff",
+                  "content": "Overtime: 530",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 13,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "NiyZZ",
+              "name": "spacer14",
+              "width": "fill_container",
+              "height": 12
+            },
+            {
+              "type": "frame",
+              "id": "Mo4pc",
+              "name": "statusRow",
+              "width": "fill_container",
+              "gap": 12,
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "a7rJN",
+                  "name": "statusLabel",
+                  "fill": "#16151cff",
+                  "content": "Estado:",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 14,
+                  "fontWeight": "700"
+                },
+                {
+                  "type": "frame",
+                  "id": "GMueA",
+                  "name": "statusBadge",
+                  "fill": "#fff9c4ff",
+                  "cornerRadius": 12,
+                  "padding": [
+                    6,
+                    16
+                  ],
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "CxZ17",
+                      "name": "statusText",
+                      "fill": "#f57f17ff",
+                      "content": "🟡 En Proceso",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 13,
+                      "fontWeight": "700"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "5Jasf",
+          "name": "wf14buttons",
+          "width": "fill_container",
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "EdLKX",
+              "name": "wf14btnBack",
+              "width": 120,
+              "height": 50,
+              "fill": "#ffffffff",
+              "cornerRadius": 10,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#a0a0a0ff"
+              },
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "4jp6x",
+                  "name": "btnBackText",
+                  "fill": "#16151cff",
+                  "content": "← Dashboard",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 16,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "umvOn",
+              "name": "wf14btnNext",
+              "width": 180,
+              "height": 50,
+              "fill": "#fe7600ff",
+              "cornerRadius": 10,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "fXX0v",
+                  "name": "btnNextText",
+                  "fill": "#ffffffff",
+                  "content": "Generar Archivos →",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 16,
+                  "fontWeight": "700"
                 }
               ]
             }
