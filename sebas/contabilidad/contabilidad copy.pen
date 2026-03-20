@@ -2,100 +2,6 @@
   "version": "2.8",
   "children": [
     {
-      "type": "text",
-      "id": "uQS9d",
-      "x": -897,
-      "y": 489,
-      "name": "WF10 Label",
-      "fill": "#666666ff",
-      "content": "WF10 - Deadline Warning (2 Estados)",
-      "fontFamily": "Montserrat",
-      "fontSize": 12,
-      "fontWeight": "600"
-    },
-    {
-      "type": "frame",
-      "id": "N7r08",
-      "x": -897,
-      "y": 529,
-      "name": "WF10 - Deadline Warning (Pre-Cierre)",
-      "width": 1160,
-      "height": 56,
-      "fill": "#dc262615",
-      "cornerRadius": 8,
-      "stroke": {
-        "align": "inside",
-        "thickness": 1,
-        "fill": "#dc2626ff"
-      },
-      "padding": [
-        0,
-        24
-      ],
-      "justifyContent": "space_between",
-      "alignItems": "center",
-      "children": [
-        {
-          "type": "frame",
-          "id": "eG9Zd",
-          "name": "leftSide",
-          "gap": 12,
-          "alignItems": "center",
-          "children": [
-            {
-              "type": "ellipse",
-              "id": "EmpUM",
-              "name": "redCircle",
-              "fill": "#dc2626ff",
-              "width": 12,
-              "height": 12
-            },
-            {
-              "type": "text",
-              "id": "jSD3O",
-              "name": "mainText",
-              "fill": "#dc2626ff",
-              "content": "CIERRE MIÉRCOLES",
-              "fontFamily": "Montserrat",
-              "fontSize": 14,
-              "fontWeight": "700"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "frame",
-      "id": "REOD1",
-      "x": -897,
-      "y": 657,
-      "name": "WF10 - Deadline Warning (Post-Cierre)",
-      "width": 1160,
-      "height": 72,
-      "fill": "#4caf5015",
-      "cornerRadius": 8,
-      "stroke": {
-        "align": "inside",
-        "thickness": 1,
-        "fill": "#4caf50ff"
-      },
-      "layout": "vertical",
-      "gap": 4,
-      "padding": 16,
-      "children": [
-        {
-          "type": "text",
-          "id": "unhW2",
-          "name": "extempText",
-          "fill": "#666666ff",
-          "content": "Extemporáneos → requieren aprobación",
-          "fontFamily": "Inter",
-          "fontSize": 12,
-          "fontWeight": "normal"
-        }
-      ]
-    },
-    {
       "type": "frame",
       "id": "tsHer",
       "x": 1163,
@@ -582,8 +488,8 @@
     {
       "type": "frame",
       "id": "9UIFM",
-      "x": 5000,
-      "y": -1000,
+      "x": 2630,
+      "y": 347,
       "name": "StatusChip_Nueva_Vac",
       "reusable": true,
       "fill": "#2196F333",
@@ -620,8 +526,8 @@
     {
       "type": "frame",
       "id": "I0CpS",
-      "x": 5000,
-      "y": -920,
+      "x": 2630,
+      "y": 427,
       "name": "StatusChip_EnRevision_Vac",
       "reusable": true,
       "fill": "#FFA72633",
@@ -658,8 +564,8 @@
     {
       "type": "frame",
       "id": "Uhyw8",
-      "x": 5000,
-      "y": -840,
+      "x": 2630,
+      "y": 507,
       "name": "StatusChip_Aprobada_Vac",
       "reusable": true,
       "fill": "#4CAF5033",
@@ -696,8 +602,8 @@
     {
       "type": "frame",
       "id": "OLoLc",
-      "x": 5000,
-      "y": -760,
+      "x": 2630,
+      "y": 587,
       "name": "StatusChip_Rechazada_Vac",
       "reusable": true,
       "fill": "#F4433633",
@@ -734,8 +640,8 @@
     {
       "type": "frame",
       "id": "wqVsz",
-      "x": 5300,
-      "y": -1000,
+      "x": 2930,
+      "y": 347,
       "name": "KPICard_Vacaciones",
       "reusable": true,
       "width": 260,
@@ -804,8 +710,8 @@
     {
       "type": "frame",
       "id": "vJWYE",
-      "x": 5600,
-      "y": -1000,
+      "x": 3230,
+      "y": 347,
       "name": "ActionButton_Ver",
       "reusable": true,
       "width": 32,
@@ -830,8 +736,8 @@
     {
       "type": "frame",
       "id": "h4Cbe",
-      "x": 5600,
-      "y": -950,
+      "x": 3230,
+      "y": 397,
       "name": "ActionButton_Revisar",
       "reusable": true,
       "width": 32,
