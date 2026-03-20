@@ -40027,6 +40027,7 @@
     },
     {
       "type": "frame",
+<<<<<<< Updated upstream
       "id": "dEPgS",
       "x": 7171,
       "y": 15790,
@@ -40034,10 +40035,25 @@
       "width": 1440,
       "height": 900,
       "fill": "#00000066",
+=======
+      "id": "FI05p",
+      "x": 0,
+      "y": 0,
+      "name": "WF-02 Dashboard Principal",
+      "width": 1440,
+      "height": 900,
+      "fill": "#f5f5f5ff",
+      "stroke": {
+        "align": "inside",
+        "thickness": 2,
+        "fill": "#00000000"
+      },
+>>>>>>> Stashed changes
       "layout": "none",
       "children": [
         {
           "type": "frame",
+<<<<<<< Updated upstream
           "id": "SAfbx",
           "x": 460,
           "y": 40,
@@ -40985,11 +41001,26 @@
               "y": 8
             },
             "blur": 24
+=======
+          "id": "Nsvtp",
+          "x": 0,
+          "y": 0,
+          "name": "sidebar",
+          "clip": true,
+          "width": 276,
+          "height": 900,
+          "fill": "#ffffffff",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#e8e8e8ff"
+>>>>>>> Stashed changes
           },
           "layout": "vertical",
           "children": [
             {
               "type": "frame",
+<<<<<<< Updated upstream
               "id": "SiFr8",
               "name": "ModalHeader",
               "width": "fill_container",
@@ -44351,11 +44382,43 @@
                       ]
                     }
                   ]
+=======
+              "id": "Hpupf",
+              "name": "navDashboard",
+              "fill": "#FF7A00",
+              "cornerRadius": 6,
+              "gap": 12,
+              "padding": [
+                12,
+                16
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "RvBd0",
+                  "name": "iconDash",
+                  "content": "📊",
+                  "fontFamily": "Inter",
+                  "fontSize": 18,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "LYjf9",
+                  "name": "textDash",
+                  "fill": "#fff",
+                  "content": "Dashboard",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 14,
+                  "fontWeight": "500"
+>>>>>>> Stashed changes
                 }
               ]
             },
             {
               "type": "frame",
+<<<<<<< Updated upstream
               "id": "qIsae",
               "name": "div3",
               "width": "fill_container",
@@ -44480,11 +44543,43 @@
                       ]
                     }
                   ]
+=======
+              "id": "PqDWC",
+              "name": "navCaptacion",
+              "fill": "#f5f5f5ff",
+              "cornerRadius": 6,
+              "gap": 12,
+              "padding": [
+                12,
+                16
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "XYvlv",
+                  "name": "iconCaptacion",
+                  "content": "🧲",
+                  "fontFamily": "Inter",
+                  "fontSize": 18,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "cYFRn",
+                  "name": "textCaptacion",
+                  "fill": "#6b6b6bff",
+                  "content": "Captación",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 14,
+                  "fontWeight": "500"
+>>>>>>> Stashed changes
                 }
               ]
             },
             {
               "type": "frame",
+<<<<<<< Updated upstream
               "id": "Jeeyi",
               "name": "div4",
               "width": "fill_container",
@@ -45670,10 +45765,247 @@
                       ]
                     }
                   ]
+=======
+              "id": "RVpiy",
+              "name": "navCandidatos",
+              "fill": "#f5f5f5ff",
+              "cornerRadius": 6,
+              "gap": 12,
+              "padding": [
+                12,
+                16
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "CPflN",
+                  "name": "iconCandidatos",
+                  "content": "👤",
+                  "fontFamily": "Inter",
+                  "fontSize": 18,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "7Hk0g",
+                  "name": "textCandidatos",
+                  "fill": "#6b6b6bff",
+                  "content": "Candidatos",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 14,
+                  "fontWeight": "500"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "zNRDM",
+              "name": "navRequisiciones",
+              "fill": "#f5f5f5ff",
+              "cornerRadius": 6,
+              "gap": 12,
+              "padding": [
+                12,
+                16
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "htkUw",
+                  "name": "iconRequisiciones",
+                  "content": "📄",
+                  "fontFamily": "Inter",
+                  "fontSize": 18,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "hhBGc",
+                  "name": "textRequisiciones",
+                  "fill": "#6b6b6bff",
+                  "content": "Requisiciones",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 14,
+                  "fontWeight": "500"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "4qY69",
+              "name": "navAsignaciones",
+              "fill": "#f5f5f5ff",
+              "cornerRadius": 6,
+              "gap": 12,
+              "padding": [
+                12,
+                16
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "OISnt",
+                  "name": "iconAsignaciones",
+                  "content": "🗂️",
+                  "fontFamily": "Inter",
+                  "fontSize": 18,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "f46QP",
+                  "name": "textAsignaciones",
+                  "fill": "#6b6b6bff",
+                  "content": "Asignaciones",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 14,
+                  "fontWeight": "500"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "PjwFt",
+              "name": "navMetricas",
+              "fill": "#f5f5f5ff",
+              "cornerRadius": 6,
+              "gap": 12,
+              "padding": [
+                12,
+                16
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "jd1gB",
+                  "name": "iconMetricas",
+                  "content": "📈",
+                  "fontFamily": "Inter",
+                  "fontSize": 18,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "text",
+                  "id": "P9JxA",
+                  "name": "textMetricas",
+                  "fill": "#6b6b6bff",
+                  "content": "Métricas",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 14,
+                  "fontWeight": "500"
                 }
               ]
             }
           ]
+        },
+        {
+          "type": "frame",
+          "id": "bGI4f",
+          "x": 276,
+          "y": 0,
+          "name": "Header_Light",
+          "width": 1164,
+          "height": 64,
+          "fill": "#ffffffff",
+          "stroke": {
+            "align": "inside",
+            "thickness": {
+              "bottom": 1
+            },
+            "fill": "#e8e8e8ff"
+          },
+          "effect": {
+            "type": "shadow",
+            "shadowType": "outer",
+            "color": "#0000000a",
+            "offset": {
+              "x": 0,
+              "y": 1
+            },
+            "blur": 4
+          },
+          "padding": [
+            0,
+            32
+          ],
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "U04om",
+              "name": "Logo",
+              "fill": "#FF7A00",
+              "content": "ORANGE",
+              "fontFamily": "Montserrat",
+              "fontSize": 22,
+              "fontWeight": "700",
+              "letterSpacing": 2
+            },
+            {
+              "type": "frame",
+              "id": "MiIr3",
+              "name": "SearchBar",
+              "width": 320,
+              "height": 36,
+              "fill": "#f5f5f5ff",
+              "cornerRadius": 8,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#e0e0e0ff"
+              },
+              "padding": [
+                0,
+                12
+              ],
+              "alignItems": "center"
+            },
+            {
+              "type": "frame",
+              "id": "DiT7l",
+              "name": "BellWrap",
+              "width": 36,
+              "height": 36,
+              "layout": "none"
+            },
+            {
+              "type": "frame",
+              "id": "3s9cT",
+              "name": "Avatar",
+              "width": 36,
+              "height": 36,
+              "fill": "#FF7A00",
+              "cornerRadius": 18,
+              "justifyContent": "center",
+              "alignItems": "center"
+            },
+            {
+              "type": "frame",
+              "id": "PyXc5",
+              "name": "ProfileInfo",
+              "layout": "vertical",
+              "gap": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "TQOTC",
+                  "name": "UserRole",
+                  "fill": "#333333",
+                  "content": "Juan — Admin",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 13,
+                  "fontWeight": "500"
+>>>>>>> Stashed changes
+                }
+              ]
+            }
+          ]
+<<<<<<< Updated upstream
         }
       ]
     },
@@ -45728,11 +46060,55 @@
                   "fontFamily": "Inter",
                   "fontSize": 20,
                   "fontWeight": "normal"
+=======
+        },
+        {
+          "type": "frame",
+          "id": "Vf5FQ",
+          "x": 318,
+          "y": 130,
+          "name": "Content Area",
+          "width": 1102,
+          "height": 750,
+          "fill": "#f5f5f5ff",
+          "layout": "vertical",
+          "gap": 20,
+          "padding": 20,
+          "children": [
+            {
+              "type": "frame",
+              "id": "eqH6L",
+              "name": "WelcomeSection",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "tp1iX",
+                  "name": "WelcomeTitle",
+                  "fill": "#333333",
+                  "content": "Welcome back, Juan",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 24,
+                  "fontWeight": "700"
+                },
+                {
+                  "type": "text",
+                  "id": "GYxa3",
+                  "name": "WelcomeSubtitle",
+                  "fill": "#666",
+                  "content": "Here’s what’s happening with your recruitment process today.",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 16,
+                  "fontWeight": "500"
+>>>>>>> Stashed changes
                 }
               ]
             },
             {
               "type": "frame",
+<<<<<<< Updated upstream
               "id": "pKo7B",
               "name": "Header",
               "width": "fill_container",
@@ -45765,10 +46141,63 @@
                       "fontFamily": "Inter",
                       "fontSize": 28,
                       "fontWeight": "normal"
+=======
+              "id": "VmCNT",
+              "name": "KPISection",
+              "width": "fill_container",
+              "gap": 20,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "du77D",
+                  "name": "KPI_NewLeads",
+                  "width": 260,
+                  "height": 120,
+                  "fill": "#fff",
+                  "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#e0e0e0ff"
+                  },
+                  "layout": "vertical",
+                  "gap": 6,
+                  "padding": 20,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "2NHNj",
+                      "name": "KPIIcon",
+                      "content": "🧲",
+                      "fontFamily": "Inter",
+                      "fontSize": 24,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "D0M2u",
+                      "name": "KPINum",
+                      "fill": "#FF7A00",
+                      "content": "12",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 28,
+                      "fontWeight": "700"
+                    },
+                    {
+                      "type": "text",
+                      "id": "Cih58",
+                      "name": "KPITrend",
+                      "fill": "#4caf50",
+                      "content": "+3 today",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 13,
+                      "fontWeight": "500"
+>>>>>>> Stashed changes
                     }
                   ]
                 },
                 {
+<<<<<<< Updated upstream
                   "type": "text",
                   "id": "Voe3K",
                   "name": "title",
@@ -45827,10 +46256,19 @@
                   "name": "Channel Info",
                   "width": "fill_container",
                   "fill": "#f9f9f9ff",
+=======
+                  "type": "frame",
+                  "id": "oRnG8",
+                  "name": "KPI_ActiveAssignments",
+                  "width": 260,
+                  "height": 120,
+                  "fill": "#fff",
+>>>>>>> Stashed changes
                   "cornerRadius": 8,
                   "stroke": {
                     "align": "inside",
                     "thickness": 1,
+<<<<<<< Updated upstream
                     "fill": "#e5e7eb"
                   },
                   "layout": "vertical",
@@ -45969,19 +46407,64 @@
                           "fontWeight": "600"
                         }
                       ]
+=======
+                    "fill": "#e0e0e0ff"
+                  },
+                  "layout": "vertical",
+                  "gap": 6,
+                  "padding": 20,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "wVjrx",
+                      "name": "KPIIcon",
+                      "content": "🗂️",
+                      "fontFamily": "Inter",
+                      "fontSize": 24,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "eHlok",
+                      "name": "KPINum",
+                      "fill": "#FF7A00",
+                      "content": "5",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 28,
+                      "fontWeight": "700"
+                    },
+                    {
+                      "type": "text",
+                      "id": "wGC2t",
+                      "name": "KPITrend",
+                      "fill": "#ff5722",
+                      "content": "-1 assignment",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 13,
+                      "fontWeight": "500"
+>>>>>>> Stashed changes
                     }
                   ]
                 },
                 {
                   "type": "frame",
+<<<<<<< Updated upstream
                   "id": "Pwr11",
                   "name": "Warning Box",
                   "width": "fill_container",
                   "fill": "#fef2f2ff",
+=======
+                  "id": "RyQDU",
+                  "name": "KPI_CandidatesPool",
+                  "width": 260,
+                  "height": 120,
+                  "fill": "#fff",
+>>>>>>> Stashed changes
                   "cornerRadius": 8,
                   "stroke": {
                     "align": "inside",
                     "thickness": 1,
+<<<<<<< Updated upstream
                     "fill": "#fecaca"
                   },
                   "gap": 12,
@@ -46008,6 +46491,89 @@
                       "content": "You will lose historical tracking data for this channel.",
                       "fontFamily": "Montserrat",
                       "fontSize": 12,
+=======
+                    "fill": "#e0e0e0ff"
+                  },
+                  "layout": "vertical",
+                  "gap": 6,
+                  "padding": 20,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "uDVKc",
+                      "name": "KPIIcon",
+                      "content": "👤",
+                      "fontFamily": "Inter",
+                      "fontSize": 24,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "XSfka",
+                      "name": "KPINum",
+                      "fill": "#FF7A00",
+                      "content": "32",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 28,
+                      "fontWeight": "700"
+                    },
+                    {
+                      "type": "text",
+                      "id": "vCYig",
+                      "name": "KPITrend",
+                      "fill": "#4caf50",
+                      "content": "Pool +5",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 13,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "QxHs7",
+                  "name": "KPI_NoShowRate",
+                  "width": 260,
+                  "height": 120,
+                  "fill": "#fff",
+                  "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#e0e0e0ff"
+                  },
+                  "layout": "vertical",
+                  "gap": 6,
+                  "padding": 20,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "qItPW",
+                      "name": "KPIIcon",
+                      "content": "🚫",
+                      "fontFamily": "Inter",
+                      "fontSize": 24,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "UTHDZ",
+                      "name": "KPINum",
+                      "fill": "#FF7A00",
+                      "content": "8%",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 28,
+                      "fontWeight": "700"
+                    },
+                    {
+                      "type": "text",
+                      "id": "qVvsn",
+                      "name": "KPITrend",
+                      "fill": "#ff5722",
+                      "content": "+1 no-show",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 13,
+>>>>>>> Stashed changes
                       "fontWeight": "500"
                     }
                   ]
@@ -46016,6 +46582,7 @@
             },
             {
               "type": "frame",
+<<<<<<< Updated upstream
               "id": "xbFOU",
               "name": "div2",
               "width": "fill_container",
@@ -46071,26 +46638,50 @@
                   "width": "fill_container",
                   "height": 44,
                   "fill": "#dc2626ff",
+=======
+              "id": "MCjZ1",
+              "name": "QuickActions",
+              "width": "fill_container",
+              "gap": 16,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "e5P7l",
+                  "name": "AddCandidateBtn",
+                  "width": 160,
+                  "height": 45,
+                  "fill": "#FF7A00",
+>>>>>>> Stashed changes
                   "cornerRadius": 8,
                   "effect": {
                     "type": "shadow",
                     "shadowType": "outer",
+<<<<<<< Updated upstream
                     "color": "#dc262633",
+=======
+                    "color": "#FF7A00",
+>>>>>>> Stashed changes
                     "offset": {
                       "x": 0,
                       "y": 2
                     },
+<<<<<<< Updated upstream
                     "blur": 12
                   },
                   "padding": [
                     12,
                     20
                   ],
+=======
+                    "blur": 8
+                  },
+>>>>>>> Stashed changes
                   "justifyContent": "center",
                   "alignItems": "center",
                   "children": [
                     {
                       "type": "text",
+<<<<<<< Updated upstream
                       "id": "f5lgQ",
                       "name": "deleteText",
                       "fill": "#ffffffff",
@@ -48337,6 +48928,12 @@
                       "name": "cancelText",
                       "fill": "#666666ff",
                       "content": "Cancel",
+=======
+                      "id": "4xkWq",
+                      "name": "AddCandidateText",
+                      "fill": "#fff",
+                      "content": "Add Candidate",
+>>>>>>> Stashed changes
                       "fontFamily": "Montserrat",
                       "fontSize": 15,
                       "fontWeight": "600"
@@ -48345,15 +48942,24 @@
                 },
                 {
                   "type": "frame",
+<<<<<<< Updated upstream
                   "id": "DPn0r",
                   "name": "Confirm Button",
                   "width": 200,
                   "height": 48,
                   "fill": "#fe7600ff",
+=======
+                  "id": "nKj8R",
+                  "name": "CreateReqBtn",
+                  "width": 160,
+                  "height": 45,
+                  "fill": "#FF7A00",
+>>>>>>> Stashed changes
                   "cornerRadius": 8,
                   "effect": {
                     "type": "shadow",
                     "shadowType": "outer",
+<<<<<<< Updated upstream
                     "color": "#f3542726",
                     "offset": {
                       "x": 0,
@@ -48362,11 +48968,21 @@
                     "blur": 12
                   },
                   "layout": "vertical",
+=======
+                    "color": "#FF7A00",
+                    "offset": {
+                      "x": 0,
+                      "y": 2
+                    },
+                    "blur": 8
+                  },
+>>>>>>> Stashed changes
                   "justifyContent": "center",
                   "alignItems": "center",
                   "children": [
                     {
                       "type": "text",
+<<<<<<< Updated upstream
                       "id": "GNhHG",
                       "name": "confirmText",
                       "fill": "#ffffffff",
@@ -48462,23 +49078,145 @@
                   "fill": "#f5f5f5ff",
                   "cornerRadius": 20,
                   "layout": "vertical",
+=======
+                      "id": "VqMJU",
+                      "name": "CreateReqText",
+                      "fill": "#fff",
+                      "content": "Create Requisition",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 15,
+                      "fontWeight": "600"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "KiJ7k",
+                  "name": "ViewMatchingBtn",
+                  "width": 160,
+                  "height": 45,
+                  "fill": "#fff",
+                  "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 2,
+                    "fill": "#FF7A00"
+                  },
+>>>>>>> Stashed changes
                   "justifyContent": "center",
                   "alignItems": "center",
                   "children": [
                     {
                       "type": "text",
+<<<<<<< Updated upstream
                       "id": "NjCVl",
                       "name": "notifText",
                       "fill": "#fe7600ff",
                       "content": "🔔",
                       "fontFamily": "Inter",
                       "fontSize": 20,
+=======
+                      "id": "8dSGz",
+                      "name": "ViewMatchingText",
+                      "fill": "#FF7A00",
+                      "content": "View Matching",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 15,
+                      "fontWeight": "600"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "HfxDc",
+                  "name": "GoAssignmentsBtn",
+                  "width": 160,
+                  "height": 45,
+                  "fill": "#fff",
+                  "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 2,
+                    "fill": "#FF7A00"
+                  },
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "ngacB",
+                      "name": "GoAssignmentsText",
+                      "fill": "#FF7A00",
+                      "content": "Go to Assignments",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 15,
+                      "fontWeight": "600"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "mUtA2",
+              "name": "RecentActivity",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "U1XFp",
+                  "name": "ActivityItem",
+                  "fill": "#fff",
+                  "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#e0e0e0ff"
+                  },
+                  "gap": 10,
+                  "padding": [
+                    8,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "dF4SH",
+                      "name": "ActivityIcon",
+                      "content": "🧲",
+                      "fontFamily": "Inter",
+                      "fontSize": 18,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "SvVGa",
+                      "name": "ActivityDesc",
+                      "fill": "#333",
+                      "content": "New lead received (WhatsApp)",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "4F7NB",
+                      "name": "ActivityTime",
+                      "fill": "#999",
+                      "content": "5 min ago",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 12,
+>>>>>>> Stashed changes
                       "fontWeight": "normal"
                     }
                   ]
                 },
                 {
                   "type": "frame",
+<<<<<<< Updated upstream
                   "id": "fOfpU",
                   "name": "avatar",
                   "width": 40,
@@ -48487,21 +49225,373 @@
                   "cornerRadius": 20,
                   "layout": "vertical",
                   "justifyContent": "center",
+=======
+                  "id": "xk98a",
+                  "name": "ActivityItem",
+                  "fill": "#fff",
+                  "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#e0e0e0ff"
+                  },
+                  "gap": 10,
+                  "padding": [
+                    8,
+                    0
+                  ],
+>>>>>>> Stashed changes
                   "alignItems": "center",
                   "children": [
                     {
                       "type": "text",
+<<<<<<< Updated upstream
                       "id": "P04eh",
                       "name": "avatarText",
                       "fill": "#ffffffff",
                       "content": "JD",
                       "fontFamily": "Montserrat",
                       "fontSize": 14,
+=======
+                      "id": "et0Xs",
+                      "name": "ActivityIcon",
+                      "content": "🗂️",
+                      "fontFamily": "Inter",
+                      "fontSize": 18,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "m22aL",
+                      "name": "ActivityDesc",
+                      "fill": "#333",
+                      "content": "Candidate assigned to requisition",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "zQkrB",
+                      "name": "ActivityTime",
+                      "fill": "#999",
+                      "content": "12 min ago",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "ik8mK",
+                  "name": "ActivityItem",
+                  "fill": "#fff",
+                  "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#e0e0e0ff"
+                  },
+                  "gap": 10,
+                  "padding": [
+                    8,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "tkpNE",
+                      "name": "ActivityIcon",
+                      "content": "🚫",
+                      "fontFamily": "Inter",
+                      "fontSize": 18,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "lbDyu",
+                      "name": "ActivityDesc",
+                      "fill": "#333",
+                      "content": "Candidate marked as no-show",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "ykIF4",
+                      "name": "ActivityTime",
+                      "fill": "#999",
+                      "content": "20 min ago",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "loVn8",
+                  "name": "ActivityItem",
+                  "fill": "#fff",
+                  "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#e0e0e0ff"
+                  },
+                  "gap": 10,
+                  "padding": [
+                    8,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "rLe18",
+                      "name": "ActivityIcon",
+                      "content": "🔄",
+                      "fontFamily": "Inter",
+                      "fontSize": 18,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "srumv",
+                      "name": "ActivityDesc",
+                      "fill": "#333",
+                      "content": "Replacement assigned",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "2kpeh",
+                      "name": "ActivityTime",
+                      "fill": "#999",
+                      "content": "30 min ago",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "8yFdE",
+              "name": "PipelineOverview",
+              "width": "fill_container",
+              "gap": 24,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "Zhvdm",
+                  "name": "PipelineStage",
+                  "width": 120,
+                  "layout": "vertical",
+                  "gap": 4,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "VXtG1",
+                      "name": "StageIcon",
+                      "content": "🧲",
+                      "fontFamily": "Inter",
+                      "fontSize": 20,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "WvGHP",
+                      "name": "StageLabel",
+                      "fill": "#333",
+                      "content": "Leads",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 14,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "m7FD9",
+                      "name": "StageNum",
+                      "fill": "#FF7A00",
+                      "content": "12",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 18,
+                      "fontWeight": "700"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "teYEK",
+                  "name": "PipelineStage",
+                  "width": 120,
+                  "layout": "vertical",
+                  "gap": 4,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "opVTL",
+                      "name": "StageIcon",
+                      "content": "💬",
+                      "fontFamily": "Inter",
+                      "fontSize": 20,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "2X4Zr",
+                      "name": "StageLabel",
+                      "fill": "#333",
+                      "content": "Interview",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 14,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "Pu8rj",
+                      "name": "StageNum",
+                      "fill": "#FF7A00",
+                      "content": "7",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 18,
+                      "fontWeight": "700"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "dO6N7",
+                  "name": "PipelineStage",
+                  "width": 120,
+                  "layout": "vertical",
+                  "gap": 4,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "l4KsM",
+                      "name": "StageIcon",
+                      "content": "👤",
+                      "fontFamily": "Inter",
+                      "fontSize": 20,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "l3Gum",
+                      "name": "StageLabel",
+                      "fill": "#333",
+                      "content": "Pool",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 14,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "ZbMkW",
+                      "name": "StageNum",
+                      "fill": "#FF7A00",
+                      "content": "32",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 18,
+                      "fontWeight": "700"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "Au0YC",
+                  "name": "PipelineStage",
+                  "width": 120,
+                  "layout": "vertical",
+                  "gap": 4,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "4CjaL",
+                      "name": "StageIcon",
+                      "content": "🗂️",
+                      "fontFamily": "Inter",
+                      "fontSize": 20,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "6b01i",
+                      "name": "StageLabel",
+                      "fill": "#333",
+                      "content": "Assigned",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 14,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "gBe8U",
+                      "name": "StageNum",
+                      "fill": "#FF7A00",
+                      "content": "5",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 18,
+                      "fontWeight": "700"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "8O2rI",
+                  "name": "PipelineStage",
+                  "width": 120,
+                  "layout": "vertical",
+                  "gap": 4,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "gPRk4",
+                      "name": "StageIcon",
+                      "content": "✅",
+                      "fontFamily": "Inter",
+                      "fontSize": 20,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "7CKaz",
+                      "name": "StageLabel",
+                      "fill": "#333",
+                      "content": "Completed",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 14,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "3E4o1",
+                      "name": "StageNum",
+                      "fill": "#FF7A00",
+                      "content": "3",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 18,
+>>>>>>> Stashed changes
                       "fontWeight": "700"
                     }
                   ]
                 }
               ]
+<<<<<<< Updated upstream
             }
           ]
         },
@@ -48596,11 +49686,260 @@
               "type": "frame",
               "id": "fQeXW",
               "name": "Page Title",
+=======
+            },
+            {
+              "type": "frame",
+              "id": "LtzUw",
+              "name": "TopChannels",
+              "width": "fill_container",
+              "gap": 16,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "ca6UR",
+                  "name": "ChannelCard",
+                  "width": 160,
+                  "height": 80,
+                  "fill": "#fff",
+                  "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#e0e0e0ff"
+                  },
+                  "layout": "vertical",
+                  "gap": 4,
+                  "padding": 12,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "V4czJ",
+                      "name": "ChannelIcon",
+                      "content": "📘",
+                      "fontFamily": "Inter",
+                      "fontSize": 20,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "E9Ebu",
+                      "name": "ChannelLabel",
+                      "fill": "#333",
+                      "content": "Facebook Ads",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 14,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "L6tgE",
+                      "name": "ChannelPerf",
+                      "fill": "#4caf50",
+                      "content": "High leads",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 13,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "g9X9b",
+                  "name": "ChannelCard",
+                  "width": 160,
+                  "height": 80,
+                  "fill": "#fff",
+                  "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#e0e0e0ff"
+                  },
+                  "layout": "vertical",
+                  "gap": 4,
+                  "padding": 12,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "w9bhf",
+                      "name": "ChannelIcon",
+                      "content": "💬",
+                      "fontFamily": "Inter",
+                      "fontSize": 20,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "7Yj7g",
+                      "name": "ChannelLabel",
+                      "fill": "#333",
+                      "content": "WhatsApp",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 14,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "86SCp",
+                      "name": "ChannelPerf",
+                      "fill": "#4caf50",
+                      "content": "High conversion",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 13,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "mIe1V",
+                  "name": "ChannelCard",
+                  "width": 160,
+                  "height": 80,
+                  "fill": "#fff",
+                  "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#e0e0e0ff"
+                  },
+                  "layout": "vertical",
+                  "gap": 4,
+                  "padding": 12,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "RP5NF",
+                      "name": "ChannelIcon",
+                      "content": "🔗",
+                      "fontFamily": "Inter",
+                      "fontSize": 20,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "Fozd2",
+                      "name": "ChannelLabel",
+                      "fill": "#333",
+                      "content": "Referrals",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 14,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "Ck1NT",
+                      "name": "ChannelPerf",
+                      "fill": "#ff5722",
+                      "content": "Low volume",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 13,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "9PiYm",
+              "name": "UrgentAlerts",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 10,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "KrooE",
+                  "name": "AlertItem",
+                  "fill": "#fff3e0ff",
+                  "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 2,
+                    "fill": "#ff5722ff"
+                  },
+                  "gap": 10,
+                  "padding": [
+                    10,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "EoroZ",
+                      "name": "AlertIcon",
+                      "content": "⚠️",
+                      "fontFamily": "Inter",
+                      "fontSize": 18,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "Aq8Ge",
+                      "name": "AlertDesc",
+                      "fill": "#ff5722",
+                      "content": "1 assignment at risk (no-show detected)",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 14,
+                      "fontWeight": "600"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "NDRWG",
+                  "name": "AlertItem",
+                  "fill": "#fff9c4ff",
+                  "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 2,
+                    "fill": "#ffc107ff"
+                  },
+                  "gap": 10,
+                  "padding": [
+                    10,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "xAC0E",
+                      "name": "AlertIcon",
+                      "content": "⏰",
+                      "fontFamily": "Inter",
+                      "fontSize": 18,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "bXbX6",
+                      "name": "AlertDesc",
+                      "fill": "#ffc107",
+                      "content": "3 candidates pending interview",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 14,
+                      "fontWeight": "600"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "ae06X",
+              "name": "UpcomingShifts",
+>>>>>>> Stashed changes
               "width": "fill_container",
               "layout": "vertical",
               "gap": 8,
               "children": [
                 {
+<<<<<<< Updated upstream
                   "type": "text",
                   "id": "jji1I",
                   "name": "pageTitle",
@@ -50368,11 +51707,19 @@
                   "width": "fill_container",
                   "fill": "#ffffffff",
                   "cornerRadius": 12,
+=======
+                  "type": "frame",
+                  "id": "gQjz5",
+                  "name": "ShiftItem",
+                  "fill": "#fff",
+                  "cornerRadius": 8,
+>>>>>>> Stashed changes
                   "stroke": {
                     "align": "inside",
                     "thickness": 1,
                     "fill": "#e0e0e0ff"
                   },
+<<<<<<< Updated upstream
                   "layout": "vertical",
                   "gap": 20,
                   "padding": 24,
@@ -51148,10 +52495,18 @@
                   "cornerRadius": 20,
                   "layout": "vertical",
                   "justifyContent": "center",
+=======
+                  "gap": 10,
+                  "padding": [
+                    8,
+                    0
+                  ],
+>>>>>>> Stashed changes
                   "alignItems": "center",
                   "children": [
                     {
                       "type": "text",
+<<<<<<< Updated upstream
                       "id": "nd3hy",
                       "name": "notifIcon3",
                       "fill": "#fe7600ff",
@@ -51329,10 +52684,39 @@
                       "content": "👥",
                       "fontFamily": "Inter",
                       "fontSize": 20,
+=======
+                      "id": "9gOAi",
+                      "name": "ShiftCandidate",
+                      "fill": "#333",
+                      "content": "Ana López",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 14,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "t7Z9g",
+                      "name": "ShiftPosition",
+                      "fill": "#666",
+                      "content": "Promotor",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 13,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "XmFjT",
+                      "name": "ShiftTime",
+                      "fill": "#999",
+                      "content": "10:00 AM",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 13,
+>>>>>>> Stashed changes
                       "fontWeight": "normal"
                     },
                     {
                       "type": "text",
+<<<<<<< Updated upstream
                       "id": "ZHrP4",
                       "name": "kpi3aNum",
                       "fill": "#1a1a1aff",
@@ -51350,22 +52734,39 @@
                       "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
+=======
+                      "id": "ZkRcD",
+                      "name": "ShiftStatus",
+                      "fill": "#4caf50",
+                      "content": "Confirmed",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+>>>>>>> Stashed changes
                     }
                   ]
                 },
                 {
                   "type": "frame",
+<<<<<<< Updated upstream
                   "id": "PigOr",
                   "name": "kpi3b",
                   "width": "fill_container",
                   "height": 100,
                   "fill": "#ffffffff",
                   "cornerRadius": 12,
+=======
+                  "id": "vsMYn",
+                  "name": "ShiftItem",
+                  "fill": "#fff",
+                  "cornerRadius": 8,
+>>>>>>> Stashed changes
                   "stroke": {
                     "align": "inside",
                     "thickness": 1,
                     "fill": "#e0e0e0ff"
                   },
+<<<<<<< Updated upstream
                   "layout": "vertical",
                   "gap": 4,
                   "padding": 16,
@@ -51378,10 +52779,48 @@
                       "content": "✓",
                       "fontFamily": "Inter",
                       "fontSize": 20,
+=======
+                  "gap": 10,
+                  "padding": [
+                    8,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "T6xr2",
+                      "name": "ShiftCandidate",
+                      "fill": "#333",
+                      "content": "Luis Pérez",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 14,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "9IRw4",
+                      "name": "ShiftPosition",
+                      "fill": "#666",
+                      "content": "Supervisor",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 13,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "irQAq",
+                      "name": "ShiftTime",
+                      "fill": "#999",
+                      "content": "11:30 AM",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 13,
+>>>>>>> Stashed changes
                       "fontWeight": "normal"
                     },
                     {
                       "type": "text",
+<<<<<<< Updated upstream
                       "id": "ND6sh",
                       "name": "kpi3bNum",
                       "fill": "#1a1a1aff",
@@ -51546,6 +52985,15 @@
                       "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
+=======
+                      "id": "ROYO3",
+                      "name": "ShiftStatus",
+                      "fill": "#ff5722",
+                      "content": "Pending",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+>>>>>>> Stashed changes
                     }
                   ]
                 }
@@ -51553,6 +53001,7 @@
             },
             {
               "type": "frame",
+<<<<<<< Updated upstream
               "id": "b8AYS",
               "name": "chartsRow3",
               "width": "fill_container",
@@ -52614,6 +54063,30 @@
                       ]
                     }
                   ]
+=======
+              "id": "rgxHg",
+              "name": "EmptyState",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 8,
+              "padding": [
+                32,
+                0,
+                0,
+                0
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "d0vOv",
+                  "name": "EmptyText",
+                  "fill": "#999",
+                  "content": "No activity yet. Start by adding new candidates.",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 16,
+                  "fontWeight": "500"
+>>>>>>> Stashed changes
                 }
               ]
             }
