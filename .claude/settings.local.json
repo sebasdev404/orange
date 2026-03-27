@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /c/Users/SebasDev/Desktop/Orange -name \"*.pen\" -type f -exec wc -l {})"
+    ]
+  }
+}
