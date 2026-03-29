@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(find /c/Users/SebasDev/Desktop/Orange -name \"*.pen\" -type f -exec wc -l {})",
-      "Bash(ls \"c:/Users/SebasDev/Desktop/Orange/tefa/requisicion/\"*.pen)"
+      "Bash(ls \"c:/Users/SebasDev/Desktop/Orange/tefa/requisicion/\"*.pen)",
+      "Bash(find c:UsersSebasDevDesktopOrange -type f -name *.pen)"
     ]
   }
 }
