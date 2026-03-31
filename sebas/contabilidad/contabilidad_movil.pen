@@ -39897,7 +39897,7 @@
               "id": "gUQCR",
               "fill": "#1a1a1aff",
               "content": "9:41",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 15,
               "fontWeight": "600"
             },
@@ -40157,7 +40157,7 @@
                           "id": "HRy1w",
                           "fill": "#9ca3afff",
                           "content": "Admin",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "normal"
                         }
@@ -40212,7 +40212,7 @@
                       "id": "Rtnm0",
                       "fill": "#6b7280ff",
                       "content": "Dashboard",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 14,
                       "fontWeight": "500"
                     }
@@ -40245,7 +40245,7 @@
                       "id": "XDkDw",
                       "fill": "#6b7280ff",
                       "content": "Timesheet",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 14,
                       "fontWeight": "500"
                     }
@@ -40279,7 +40279,7 @@
                       "id": "fZfrh",
                       "fill": "#6b7280ff",
                       "content": "Payroll",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 14,
                       "fontWeight": "500"
                     }
@@ -40313,7 +40313,7 @@
                       "id": "ywz1b",
                       "fill": "#6b7280ff",
                       "content": "Invoices",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 14,
                       "fontWeight": "500"
                     }
@@ -40347,7 +40347,7 @@
                       "id": "qaQgt",
                       "fill": "#ff6a00ff",
                       "content": "Vacations",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 14,
                       "fontWeight": "600"
                     }
@@ -40380,7 +40380,7 @@
                       "id": "7sKfQ",
                       "fill": "#6b7280ff",
                       "content": "Checks",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 14,
                       "fontWeight": "500"
                     }
@@ -40413,7 +40413,7 @@
                       "id": "r8lGL",
                       "fill": "#6b7280ff",
                       "content": "Paychex",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 14,
                       "fontWeight": "500"
                     }
@@ -40446,7 +40446,7 @@
                       "id": "hrPhI",
                       "fill": "#6b7280ff",
                       "content": "Reports",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 14,
                       "fontWeight": "500"
                     }
@@ -40487,7 +40487,7 @@
                   "id": "pynJf",
                   "fill": "#ef4444ff",
                   "content": "Cerrar Sesión",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 14,
                   "fontWeight": "500"
                 }
@@ -40529,7 +40529,7 @@
               "id": "BvFQT",
               "fill": "#1a1a1aff",
               "content": "9:41",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 15,
               "fontWeight": "600"
             },
@@ -40688,7 +40688,7 @@
                           "id": "J2hKu",
                           "fill": "#9ca3afff",
                           "content": "Employees",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 10,
                           "fontWeight": "normal"
                         },
@@ -40724,7 +40724,7 @@
                           "id": "CK2oj",
                           "fill": "#9ca3afff",
                           "content": "Vacations",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 10,
                           "fontWeight": "normal"
                         },
@@ -40769,7 +40769,7 @@
                           "id": "JFtTs",
                           "fill": "#9ca3afff",
                           "content": "New Vacations",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 10,
                           "fontWeight": "normal"
                         },
@@ -40805,7 +40805,7 @@
                           "id": "WhZkS",
                           "fill": "#9ca3afff",
                           "content": "Pending Vacations",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 10,
                           "fontWeight": "normal"
                         },
@@ -40866,7 +40866,7 @@
                       "id": "pGtam",
                       "fill": "#9ca3afff",
                       "content": "Search",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "normal"
                     }
@@ -40896,7 +40896,7 @@
                       "id": "riirJ",
                       "fill": "#1a1a1aff",
                       "content": "All Status",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "500"
                     },
@@ -40989,7 +40989,7 @@
                           "id": "8RsHN",
                           "fill": "#2563ebff",
                           "content": "Open",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -41009,7 +41009,7 @@
                       "id": "RWxyE",
                       "fill": "#6b7280ff",
                       "content": "Housekeeping · 12 Feb - 15 Feb/2026",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -41114,7 +41114,7 @@
                           "id": "HfUcd",
                           "fill": "#d97706ff",
                           "content": "Pending",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -41134,7 +41134,7 @@
                       "id": "DaQn9",
                       "fill": "#6b7280ff",
                       "content": "Reception · 06 Dec - 26 Dec/2025",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -41239,7 +41239,7 @@
                           "id": "9xb5n",
                           "fill": "#ea580cff",
                           "content": "Escalated",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -41259,7 +41259,7 @@
                       "id": "EwaL3",
                       "fill": "#6b7280ff",
                       "content": "Maintenance · 01 Jan - 10 Jan/2026",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -41364,7 +41364,7 @@
                           "id": "YGCgC",
                           "fill": "#16a34aff",
                           "content": "Approved",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -41384,7 +41384,7 @@
                       "id": "0N3Uu",
                       "fill": "#6b7280ff",
                       "content": "Housekeeping · 12 Feb - 15 Feb/2026",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -41457,7 +41457,7 @@
                   "id": "8gJXm",
                   "fill": "#9ca3afff",
                   "content": "Showing 1-4 of 10",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 10,
                   "fontWeight": "normal"
                 },
@@ -41507,7 +41507,7 @@
                           "id": "qy0DR",
                           "fill": "#ffffffff",
                           "content": "1",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "600"
                         }
@@ -41532,7 +41532,7 @@
                           "id": "hJhh6",
                           "fill": "#1a1a1aff",
                           "content": "2",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "normal"
                         }
@@ -41557,7 +41557,7 @@
                           "id": "EHy6t",
                           "fill": "#1a1a1aff",
                           "content": "3",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "normal"
                         }
@@ -41650,7 +41650,7 @@
               "id": "l31qT",
               "fill": "#1a1a1aff",
               "content": "9:41",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 15,
               "fontWeight": "600"
             },
@@ -41888,7 +41888,7 @@
                   "id": "wibAf",
                   "fill": "#9ca3afff",
                   "content": "Housekeeping · 2 years in company",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 12,
                   "fontWeight": "normal"
                 },
@@ -41907,7 +41907,7 @@
                       "id": "qiFCZ",
                       "fill": "#2563ebff",
                       "content": "Open",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "600"
                     }
@@ -41935,7 +41935,7 @@
                       "id": "ycPgm",
                       "fill": "#9ca3afff",
                       "content": "Start Date",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -41962,7 +41962,7 @@
                           "id": "wuOZr",
                           "fill": "#1a1a1aff",
                           "content": "Date",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 13,
                           "fontWeight": "normal"
                         },
@@ -41992,7 +41992,7 @@
                       "id": "vYS2T",
                       "fill": "#9ca3afff",
                       "content": "End Date",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -42021,7 +42021,7 @@
                           "name": "dateText2",
                           "fill": "#1a1a1aff",
                           "content": "Date",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 13,
                           "fontWeight": "normal"
                         },
@@ -42060,7 +42060,7 @@
                       "id": "SgpWo",
                       "fill": "#9ca3afff",
                       "content": "Status",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -42087,7 +42087,7 @@
                           "id": "n42M3",
                           "fill": "#1a1a1aff",
                           "content": "Open",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 13,
                           "fontWeight": "normal"
                         },
@@ -42117,7 +42117,7 @@
                       "id": "JlSRv",
                       "fill": "#9ca3afff",
                       "content": "Days Requested",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -42144,7 +42144,7 @@
                           "id": "i6vVW",
                           "fill": "#1a1a1aff",
                           "content": "10",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 13,
                           "fontWeight": "normal"
                         }
@@ -42168,7 +42168,7 @@
                   "name": "amountLabel",
                   "fill": "#9ca3afff",
                   "content": "Description",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 11,
                   "fontWeight": "normal"
                 },
@@ -42196,7 +42196,7 @@
                       "name": "amountText",
                       "fill": "#1a1a1aff",
                       "content": "Solicitud de vacaciones",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "normal"
                     }
@@ -42233,7 +42233,7 @@
                       "id": "0U6Ge",
                       "fill": "#6b7280ff",
                       "content": "Cancel",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "500"
                     }
@@ -42256,7 +42256,7 @@
                       "id": "Db4Ir",
                       "fill": "#ffffffff",
                       "content": "Edit",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "600"
                     }
@@ -42303,7 +42303,7 @@
               "id": "nQG6N",
               "fill": "#1a1a1aff",
               "content": "9:41",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 15,
               "fontWeight": "600"
             },
@@ -42465,8 +42465,8 @@
                           "type": "text",
                           "id": "lZHQZ",
                           "fill": "#9ca3afff",
-                          "content": "Hotel",
-                          "fontFamily": "Inter",
+                          "content": "Employees",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "normal"
                         },
@@ -42474,7 +42474,7 @@
                           "type": "text",
                           "id": "AMQz9",
                           "fill": "#1a1a1aff",
-                          "content": "Hotel Transilvania",
+                          "content": "98 in total",
                           "fontFamily": "Montserrat",
                           "fontSize": 10,
                           "fontWeight": "700"
@@ -42500,8 +42500,8 @@
                           "type": "text",
                           "id": "CG4Vf",
                           "fill": "#9ca3afff",
-                          "content": "Invoices",
-                          "fontFamily": "Inter",
+                          "content": "Vacations",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "normal"
                         },
@@ -42509,7 +42509,7 @@
                           "type": "text",
                           "id": "ze4oB",
                           "fill": "#1a1a1aff",
-                          "content": "98",
+                          "content": "22 in total",
                           "fontFamily": "Montserrat",
                           "fontSize": 10,
                           "fontWeight": "700"
@@ -42544,8 +42544,8 @@
                           "type": "text",
                           "id": "B4oq4",
                           "fill": "#9ca3afff",
-                          "content": "Pending",
-                          "fontFamily": "Inter",
+                          "content": "New Vacations",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "normal"
                         },
@@ -42553,7 +42553,7 @@
                           "type": "text",
                           "id": "ysOQD",
                           "fill": "#1a1a1aff",
-                          "content": "22",
+                          "content": "2 in total",
                           "fontFamily": "Montserrat",
                           "fontSize": 10,
                           "fontWeight": "700"
@@ -42579,8 +42579,8 @@
                           "type": "text",
                           "id": "jfMkB",
                           "fill": "#9ca3afff",
-                          "content": "Total Amount",
-                          "fontFamily": "Inter",
+                          "content": "Pending Vacations",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "normal"
                         },
@@ -42588,7 +42588,7 @@
                           "type": "text",
                           "id": "ytdpd",
                           "fill": "#1a1a1aff",
-                          "content": "$420.000",
+                          "content": "10 in total",
                           "fontFamily": "Montserrat",
                           "fontSize": 10,
                           "fontWeight": "700"
@@ -42640,7 +42640,7 @@
                       "id": "ZnV1I",
                       "fill": "#9ca3afff",
                       "content": "Search",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "normal"
                     }
@@ -42669,7 +42669,7 @@
                       "id": "PBYcJ",
                       "fill": "#1a1a1aff",
                       "content": "All Status",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "500"
                     },
@@ -42689,8 +42689,13 @@
                   "id": "cotNV",
                   "width": 40,
                   "height": "fill_container",
-                  "fill": "#ff6a00ff",
+                  "fill": "#ffffffff",
                   "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#e5e5e5ff"
+                  },
                   "justifyContent": "center",
                   "alignItems": "center",
                   "children": [
@@ -42699,30 +42704,9 @@
                       "id": "nTGTo",
                       "width": 18,
                       "height": 18,
-                      "iconFontName": "person_add",
+                      "iconFontName": "tune",
                       "iconFontFamily": "Material Symbols Rounded",
-                      "fill": "#ffffffff"
-                    }
-                  ]
-                },
-                {
-                  "type": "frame",
-                  "id": "VRMJR",
-                  "width": 40,
-                  "height": "fill_container",
-                  "fill": "#16a34aff",
-                  "cornerRadius": 8,
-                  "justifyContent": "center",
-                  "alignItems": "center",
-                  "children": [
-                    {
-                      "type": "icon_font",
-                      "id": "2umWU",
-                      "width": 18,
-                      "height": 18,
-                      "iconFontName": "verified",
-                      "iconFontFamily": "Material Symbols Rounded",
-                      "fill": "#ffffffff"
+                      "fill": "#1a1a1aff"
                     }
                   ]
                 }
@@ -42755,7 +42739,7 @@
                       "type": "text",
                       "id": "2BiQo",
                       "fill": "#1a1a1aff",
-                      "content": "INVOICE-001",
+                      "content": "Juan Sevilladasto",
                       "fontFamily": "Montserrat",
                       "fontSize": 12,
                       "fontWeight": "600"
@@ -42763,7 +42747,7 @@
                     {
                       "type": "frame",
                       "id": "5iGlo",
-                      "fill": "#dcfce7ff",
+                      "fill": "#dbeafeff",
                       "cornerRadius": 12,
                       "padding": [
                         3,
@@ -42773,9 +42757,9 @@
                         {
                           "type": "text",
                           "id": "gFowH",
-                          "fill": "#16a34aff",
-                          "content": "Paid",
-                          "fontFamily": "Inter",
+                          "fill": "#2563ebff",
+                          "content": "Open",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -42792,8 +42776,8 @@
                       "type": "text",
                       "id": "CLoNo",
                       "fill": "#6b7280ff",
-                      "content": "Feb 2026 · $18.500",
-                      "fontFamily": "Inter",
+                      "content": "Housekeeping · 12 Feb - 15 Feb/2026  4 days",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -42828,7 +42812,7 @@
                       "type": "text",
                       "id": "nqoM5",
                       "fill": "#1a1a1aff",
-                      "content": "INVOICE-006",
+                      "content": "Juana del Arco",
                       "fontFamily": "Montserrat",
                       "fontSize": 12,
                       "fontWeight": "600"
@@ -42836,7 +42820,7 @@
                     {
                       "type": "frame",
                       "id": "zFAiO",
-                      "fill": "#fee2e2ff",
+                      "fill": "#fef3c7ff",
                       "cornerRadius": 12,
                       "padding": [
                         3,
@@ -42846,9 +42830,9 @@
                         {
                           "type": "text",
                           "id": "ZkQM7",
-                          "fill": "#dc2626ff",
-                          "content": "Unpaid",
-                          "fontFamily": "Inter",
+                          "fill": "#d97706ff",
+                          "content": "Pending",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -42865,8 +42849,8 @@
                       "type": "text",
                       "id": "4sBZj",
                       "fill": "#6b7280ff",
-                      "content": "Dec 2025 · $12.500",
-                      "fontFamily": "Inter",
+                      "content": "Reception · 06 Dec - 26 Dec/2025  21 days",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -42901,7 +42885,7 @@
                       "type": "text",
                       "id": "RB9rK",
                       "fill": "#1a1a1aff",
-                      "content": "INVOICE-001",
+                      "content": "Steve paredes Arco",
                       "fontFamily": "Montserrat",
                       "fontSize": 12,
                       "fontWeight": "600"
@@ -42909,7 +42893,7 @@
                     {
                       "type": "frame",
                       "id": "3LsmE",
-                      "fill": "#dcfce7ff",
+                      "fill": "#fde68aff",
                       "cornerRadius": 12,
                       "padding": [
                         3,
@@ -42919,9 +42903,9 @@
                         {
                           "type": "text",
                           "id": "3T0un",
-                          "fill": "#16a34aff",
-                          "content": "Paid",
-                          "fontFamily": "Inter",
+                          "fill": "#ea580cff",
+                          "content": "Escalated",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -42938,8 +42922,8 @@
                       "type": "text",
                       "id": "qq182",
                       "fill": "#6b7280ff",
-                      "content": "Feb 2026 · $18.500",
-                      "fontFamily": "Inter",
+                      "content": "Maintenance · 01 Jan - 10 Jan/2026  10 days",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -42974,7 +42958,7 @@
                       "type": "text",
                       "id": "aQhBs",
                       "fill": "#1a1a1aff",
-                      "content": "INVOICE-006",
+                      "content": "Juan Sevilladasto",
                       "fontFamily": "Montserrat",
                       "fontSize": 12,
                       "fontWeight": "600"
@@ -42982,7 +42966,7 @@
                     {
                       "type": "frame",
                       "id": "YMRmw",
-                      "fill": "#fee2e2ff",
+                      "fill": "#dcfce7ff",
                       "cornerRadius": 12,
                       "padding": [
                         3,
@@ -42992,9 +42976,9 @@
                         {
                           "type": "text",
                           "id": "hEHQT",
-                          "fill": "#dc2626ff",
-                          "content": "Unpaid",
-                          "fontFamily": "Inter",
+                          "fill": "#16a34aff",
+                          "content": "Approved",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -43012,7 +42996,7 @@
                       "id": "BQ7N7",
                       "fill": "#6b7280ff",
                       "content": "Dec 2025 · $12.500",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -43036,8 +43020,8 @@
                   "type": "text",
                   "id": "Ubocv",
                   "fill": "#9ca3afff",
-                  "content": "Showing 1-4 of 100",
-                  "fontFamily": "Inter",
+                  "content": "Showing 1-4 of 10",
+                  "fontFamily": "Montserrat",
                   "fontSize": 10,
                   "fontWeight": "normal"
                 },
@@ -43086,7 +43070,7 @@
                           "id": "N1D89",
                           "fill": "#ffffffff",
                           "content": "1",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "600"
                         }
@@ -43111,7 +43095,7 @@
                           "id": "DRraJ",
                           "fill": "#1a1a1aff",
                           "content": "2",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "normal"
                         }
@@ -43199,7 +43183,7 @@
               "id": "qPN1M",
               "fill": "#ffffffff",
               "content": "Edited successfully",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 13,
               "fontWeight": "600"
             },
@@ -43251,7 +43235,7 @@
               "id": "qHi0C",
               "fill": "#1a1a1aff",
               "content": "9:41",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 15,
               "fontWeight": "600"
             },
@@ -43466,7 +43450,7 @@
               "name": "questionText",
               "fill": "#1a1a1aff",
               "content": "Are you sure you want to delete this?",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 13,
               "fontWeight": "normal"
             },
@@ -43515,7 +43499,7 @@
                       "id": "mWfeu",
                       "fill": "#9ca3afff",
                       "content": "Reception",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -43535,7 +43519,7 @@
                           "id": "2xjqp",
                           "fill": "#16a34aff",
                           "content": "Activo",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -43574,7 +43558,7 @@
                       "id": "8aMuk",
                       "fill": "#6b7280ff",
                       "content": "Cancel",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "500"
                     }
@@ -43597,7 +43581,7 @@
                       "id": "G1H1n",
                       "fill": "#ffffffff",
                       "content": "Delete",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "600"
                     }
@@ -43644,7 +43628,7 @@
               "id": "l9VDH",
               "fill": "#1a1a1aff",
               "content": "9:41",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 15,
               "fontWeight": "600"
             },
@@ -43806,8 +43790,8 @@
                           "type": "text",
                           "id": "adswC",
                           "fill": "#9ca3afff",
-                          "content": "Hotel",
-                          "fontFamily": "Inter",
+                          "content": "Employees",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "normal"
                         },
@@ -43815,7 +43799,7 @@
                           "type": "text",
                           "id": "5psNp",
                           "fill": "#1a1a1aff",
-                          "content": "Hotel Transilvania",
+                          "content": "98 in total",
                           "fontFamily": "Montserrat",
                           "fontSize": 10,
                           "fontWeight": "700"
@@ -43841,8 +43825,8 @@
                           "type": "text",
                           "id": "vWGlN",
                           "fill": "#9ca3afff",
-                          "content": "Invoices",
-                          "fontFamily": "Inter",
+                          "content": "Vacations",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "normal"
                         },
@@ -43850,7 +43834,7 @@
                           "type": "text",
                           "id": "JQOfP",
                           "fill": "#1a1a1aff",
-                          "content": "98",
+                          "content": "22 in total",
                           "fontFamily": "Montserrat",
                           "fontSize": 10,
                           "fontWeight": "700"
@@ -43885,8 +43869,8 @@
                           "type": "text",
                           "id": "F8tDM",
                           "fill": "#9ca3afff",
-                          "content": "Pending",
-                          "fontFamily": "Inter",
+                          "content": "New Vacations",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "normal"
                         },
@@ -43894,7 +43878,7 @@
                           "type": "text",
                           "id": "FK8GO",
                           "fill": "#1a1a1aff",
-                          "content": "22",
+                          "content": "2 in total",
                           "fontFamily": "Montserrat",
                           "fontSize": 10,
                           "fontWeight": "700"
@@ -43920,8 +43904,8 @@
                           "type": "text",
                           "id": "DQKwf",
                           "fill": "#9ca3afff",
-                          "content": "Total Amount",
-                          "fontFamily": "Inter",
+                          "content": "Pending Vacations",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "normal"
                         },
@@ -43929,7 +43913,7 @@
                           "type": "text",
                           "id": "cSFH8",
                           "fill": "#1a1a1aff",
-                          "content": "$420.000",
+                          "content": "10 in total",
                           "fontFamily": "Montserrat",
                           "fontSize": 10,
                           "fontWeight": "700"
@@ -43981,7 +43965,7 @@
                       "id": "Vuxov",
                       "fill": "#9ca3afff",
                       "content": "Search",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "normal"
                     }
@@ -44010,7 +43994,7 @@
                       "id": "SihBg",
                       "fill": "#1a1a1aff",
                       "content": "All Status",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "500"
                     },
@@ -44030,8 +44014,13 @@
                   "id": "2oU4V",
                   "width": 40,
                   "height": "fill_container",
-                  "fill": "#ff6a00ff",
+                  "fill": "#ffffffff",
                   "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#e5e5e5ff"
+                  },
                   "justifyContent": "center",
                   "alignItems": "center",
                   "children": [
@@ -44040,30 +44029,9 @@
                       "id": "2m9Ux",
                       "width": 18,
                       "height": 18,
-                      "iconFontName": "person_add",
+                      "iconFontName": "tune",
                       "iconFontFamily": "Material Symbols Rounded",
-                      "fill": "#ffffffff"
-                    }
-                  ]
-                },
-                {
-                  "type": "frame",
-                  "id": "G1W76",
-                  "width": 40,
-                  "height": "fill_container",
-                  "fill": "#16a34aff",
-                  "cornerRadius": 8,
-                  "justifyContent": "center",
-                  "alignItems": "center",
-                  "children": [
-                    {
-                      "type": "icon_font",
-                      "id": "I2KmP",
-                      "width": 18,
-                      "height": 18,
-                      "iconFontName": "verified",
-                      "iconFontFamily": "Material Symbols Rounded",
-                      "fill": "#ffffffff"
+                      "fill": "#1a1a1aff"
                     }
                   ]
                 }
@@ -44096,7 +44064,7 @@
                       "type": "text",
                       "id": "w86dx",
                       "fill": "#1a1a1aff",
-                      "content": "INVOICE-001",
+                      "content": "Juan Sevilladasto",
                       "fontFamily": "Montserrat",
                       "fontSize": 12,
                       "fontWeight": "600"
@@ -44104,7 +44072,7 @@
                     {
                       "type": "frame",
                       "id": "Y9e7Q",
-                      "fill": "#dcfce7ff",
+                      "fill": "#dbeafeff",
                       "cornerRadius": 12,
                       "padding": [
                         3,
@@ -44114,9 +44082,9 @@
                         {
                           "type": "text",
                           "id": "Wly87",
-                          "fill": "#16a34aff",
-                          "content": "Paid",
-                          "fontFamily": "Inter",
+                          "fill": "#2563ebff",
+                          "content": "Open",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -44133,8 +44101,8 @@
                       "type": "text",
                       "id": "5Uyfx",
                       "fill": "#6b7280ff",
-                      "content": "Feb 2026 · $18.500",
-                      "fontFamily": "Inter",
+                      "content": "Housekeeping · 12 Feb - 15 Feb/2026  4 days",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -44169,7 +44137,7 @@
                       "type": "text",
                       "id": "Vs9fc",
                       "fill": "#1a1a1aff",
-                      "content": "INVOICE-006",
+                      "content": "Juana del Arco",
                       "fontFamily": "Montserrat",
                       "fontSize": 12,
                       "fontWeight": "600"
@@ -44177,7 +44145,7 @@
                     {
                       "type": "frame",
                       "id": "o5U5O",
-                      "fill": "#fee2e2ff",
+                      "fill": "#fef3c7ff",
                       "cornerRadius": 12,
                       "padding": [
                         3,
@@ -44187,9 +44155,9 @@
                         {
                           "type": "text",
                           "id": "MLzEC",
-                          "fill": "#dc2626ff",
-                          "content": "Unpaid",
-                          "fontFamily": "Inter",
+                          "fill": "#d97706ff",
+                          "content": "Pending",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -44206,8 +44174,8 @@
                       "type": "text",
                       "id": "tQIA9",
                       "fill": "#6b7280ff",
-                      "content": "Dec 2025 · $12.500",
-                      "fontFamily": "Inter",
+                      "content": "Reception · 06 Dec - 26 Dec/2025  21 days",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -44242,7 +44210,7 @@
                       "type": "text",
                       "id": "SZaCl",
                       "fill": "#1a1a1aff",
-                      "content": "INVOICE-001",
+                      "content": "Steve paredes Arco",
                       "fontFamily": "Montserrat",
                       "fontSize": 12,
                       "fontWeight": "600"
@@ -44250,7 +44218,7 @@
                     {
                       "type": "frame",
                       "id": "fpdTQ",
-                      "fill": "#dcfce7ff",
+                      "fill": "#fde68aff",
                       "cornerRadius": 12,
                       "padding": [
                         3,
@@ -44260,9 +44228,9 @@
                         {
                           "type": "text",
                           "id": "422Fb",
-                          "fill": "#16a34aff",
-                          "content": "Paid",
-                          "fontFamily": "Inter",
+                          "fill": "#ea580cff",
+                          "content": "Escalated",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -44279,8 +44247,8 @@
                       "type": "text",
                       "id": "IfET8",
                       "fill": "#6b7280ff",
-                      "content": "Feb 2026 · $18.500",
-                      "fontFamily": "Inter",
+                      "content": "Maintenance · 01 Jan - 10 Jan/2026  10 days",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -44315,7 +44283,7 @@
                       "type": "text",
                       "id": "TwcDo",
                       "fill": "#1a1a1aff",
-                      "content": "INVOICE-006",
+                      "content": "Juan Sevilladasto",
                       "fontFamily": "Montserrat",
                       "fontSize": 12,
                       "fontWeight": "600"
@@ -44323,7 +44291,7 @@
                     {
                       "type": "frame",
                       "id": "wIzc2",
-                      "fill": "#fee2e2ff",
+                      "fill": "#dcfce7ff",
                       "cornerRadius": 12,
                       "padding": [
                         3,
@@ -44333,9 +44301,9 @@
                         {
                           "type": "text",
                           "id": "L7hoc",
-                          "fill": "#dc2626ff",
-                          "content": "Unpaid",
-                          "fontFamily": "Inter",
+                          "fill": "#16a34aff",
+                          "content": "Approved",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -44352,8 +44320,8 @@
                       "type": "text",
                       "id": "yNMNg",
                       "fill": "#6b7280ff",
-                      "content": "Dec 2025 · $12.500",
-                      "fontFamily": "Inter",
+                      "content": "Housekeeping · 12 Feb - 15 Feb/2026  4 days",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -44377,8 +44345,8 @@
                   "type": "text",
                   "id": "pipYU",
                   "fill": "#9ca3afff",
-                  "content": "Showing 1-4 of 100",
-                  "fontFamily": "Inter",
+                  "content": "Showing 1-4 of 10",
+                  "fontFamily": "Montserrat",
                   "fontSize": 10,
                   "fontWeight": "normal"
                 },
@@ -44427,7 +44395,7 @@
                           "id": "BegHG",
                           "fill": "#ffffffff",
                           "content": "1",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "600"
                         }
@@ -44452,7 +44420,7 @@
                           "id": "URIAQ",
                           "fill": "#1a1a1aff",
                           "content": "2",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "normal"
                         }
@@ -44540,7 +44508,7 @@
               "id": "Yd6l6",
               "fill": "#ffffffff",
               "content": "Deleted successfully",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 13,
               "fontWeight": "600"
             },
@@ -44592,7 +44560,7 @@
               "id": "LEqmI",
               "fill": "#1a1a1aff",
               "content": "9:41",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 15,
               "fontWeight": "600"
             },
@@ -44831,7 +44799,7 @@
                   "id": "hiYTA",
                   "fill": "#9ca3afff",
                   "content": "Housekeeping",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 11,
                   "fontWeight": "normal"
                 },
@@ -44840,7 +44808,7 @@
                   "id": "NaNVV",
                   "fill": "#9ca3afff",
                   "content": "2 years in company",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 11,
                   "fontWeight": "normal"
                 },
@@ -44860,7 +44828,7 @@
                       "id": "Ql0Yl",
                       "fill": "#2563ebff",
                       "content": "Open",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 9,
                       "fontWeight": "600"
                     }
@@ -44881,7 +44849,7 @@
                   "id": "im1Bk",
                   "fill": "#9ca3afff",
                   "content": "Description",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 11,
                   "fontWeight": "normal"
                 },
@@ -44907,7 +44875,7 @@
                       "id": "x4YHQ",
                       "fill": "#1a1a1aff",
                       "content": "Solicitud de vacaciones, viaje familiar",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     }
@@ -44935,7 +44903,7 @@
                       "id": "65pDr",
                       "fill": "#9ca3afff",
                       "content": "Start Date",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -44963,7 +44931,7 @@
                       "id": "boJQ1",
                       "fill": "#9ca3afff",
                       "content": "End Date",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -44990,7 +44958,7 @@
                       "id": "CmZPu",
                       "fill": "#9ca3afff",
                       "content": "Days Requested",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -45038,7 +45006,7 @@
                       "id": "Bc5mP",
                       "fill": "#1a1a1aff",
                       "content": "≥52 weeks:",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -45063,7 +45031,7 @@
                           "id": "r7O0T",
                           "fill": "#16a34aff",
                           "content": "Yes",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "600"
                         }
@@ -45085,7 +45053,7 @@
                       "id": "nEOSZ",
                       "fill": "#1a1a1aff",
                       "content": "Weekly record:",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -45110,7 +45078,7 @@
                           "id": "iws0q",
                           "fill": "#16a34aff",
                           "content": "Ok",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "600"
                         }
@@ -45132,7 +45100,7 @@
                       "id": "EWmDs",
                       "fill": "#1a1a1aff",
                       "content": "Average 52 weeks:",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -45157,7 +45125,7 @@
                           "id": "cTXxB",
                           "fill": "#16a34aff",
                           "content": "36.5h/week",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "600"
                         }
@@ -45179,7 +45147,7 @@
                       "id": "81dPW",
                       "fill": "#1a1a1aff",
                       "content": "Status:",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -45204,7 +45172,7 @@
                           "id": "oihcQ",
                           "fill": "#16a34aff",
                           "content": "Eligible",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "600"
                         }
@@ -45243,7 +45211,7 @@
                       "id": "JgJUo",
                       "fill": "#6b7280ff",
                       "content": "Cancel",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "500"
                     }
@@ -45266,7 +45234,7 @@
                       "id": "iONpk",
                       "fill": "#ffffffff",
                       "content": "Next",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "600"
                     }
@@ -45313,7 +45281,7 @@
               "id": "HopXe",
               "fill": "#1a1a1aff",
               "content": "9:41",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 15,
               "fontWeight": "600"
             },
@@ -45552,7 +45520,7 @@
                   "id": "DAJMZ",
                   "fill": "#9ca3afff",
                   "content": "Housekeeping",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 11,
                   "fontWeight": "normal"
                 },
@@ -45561,7 +45529,7 @@
                   "id": "2jy1t",
                   "fill": "#9ca3afff",
                   "content": "2 years in company",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 11,
                   "fontWeight": "normal"
                 },
@@ -45581,7 +45549,7 @@
                       "id": "DqzLD",
                       "fill": "#2563ebff",
                       "content": "Open",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 9,
                       "fontWeight": "600"
                     }
@@ -45602,7 +45570,7 @@
                   "id": "tdcQE",
                   "fill": "#9ca3afff",
                   "content": "Description",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 11,
                   "fontWeight": "normal"
                 },
@@ -45628,7 +45596,7 @@
                       "id": "XOkan",
                       "fill": "#1a1a1aff",
                       "content": "Solicitud de vacaciones, viaje familiar",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     }
@@ -45656,7 +45624,7 @@
                       "id": "PCJyf",
                       "fill": "#9ca3afff",
                       "content": "Start Date",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -45684,7 +45652,7 @@
                       "id": "2D4bJ",
                       "fill": "#9ca3afff",
                       "content": "End Date",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -45711,7 +45679,7 @@
                       "id": "ptVjG",
                       "fill": "#9ca3afff",
                       "content": "Days Requested",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -45759,7 +45727,7 @@
                       "id": "Yw7CQ",
                       "fill": "#1a1a1aff",
                       "content": "≥52 weeks:",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -45784,7 +45752,7 @@
                           "id": "HLVut",
                           "fill": "#ef4444ff",
                           "content": "No",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "600"
                         }
@@ -45806,7 +45774,7 @@
                       "id": "cJhrv",
                       "fill": "#1a1a1aff",
                       "content": "Weekly record:",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -45831,7 +45799,7 @@
                           "id": "LuHoL",
                           "fill": "#d97706ff",
                           "content": "Review",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "600"
                         }
@@ -45853,7 +45821,7 @@
                       "id": "C3te2",
                       "fill": "#1a1a1aff",
                       "content": "Average 52 weeks:",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -45878,7 +45846,7 @@
                           "id": "jtfyV",
                           "fill": "#ef4444ff",
                           "content": "20h/week",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "600"
                         }
@@ -45900,7 +45868,7 @@
                       "id": "2xxqp",
                       "fill": "#1a1a1aff",
                       "content": "Status:",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -45925,7 +45893,7 @@
                           "id": "u9SnM",
                           "fill": "#ef4444ff",
                           "content": "Not eligible",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "600"
                         }
@@ -45964,7 +45932,7 @@
                       "id": "LdpnI",
                       "fill": "#6b7280ff",
                       "content": "Cancel",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "500"
                     }
@@ -45987,7 +45955,7 @@
                       "id": "auGDB",
                       "fill": "#ffffffff",
                       "content": "Next",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "600"
                     }
@@ -46034,7 +46002,7 @@
               "id": "cQq9K",
               "fill": "#1a1a1aff",
               "content": "9:41",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 15,
               "fontWeight": "600"
             },
@@ -46273,7 +46241,7 @@
                   "id": "yzsGa",
                   "fill": "#9ca3afff",
                   "content": "Housekeeping",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 11,
                   "fontWeight": "normal"
                 },
@@ -46282,7 +46250,7 @@
                   "id": "eQpFu",
                   "fill": "#9ca3afff",
                   "content": "2 years in company",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 11,
                   "fontWeight": "normal"
                 },
@@ -46302,7 +46270,7 @@
                       "id": "Hf1ZR",
                       "fill": "#2563ebff",
                       "content": "Open",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 9,
                       "fontWeight": "600"
                     }
@@ -46323,7 +46291,7 @@
                   "id": "XtFir",
                   "fill": "#9ca3afff",
                   "content": "Description",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 11,
                   "fontWeight": "normal"
                 },
@@ -46349,7 +46317,7 @@
                       "id": "T7x2g",
                       "fill": "#1a1a1aff",
                       "content": "Solicitud de vacaciones, viaje familiar",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     }
@@ -46377,7 +46345,7 @@
                       "id": "lcKBA",
                       "fill": "#9ca3afff",
                       "content": "Start Date",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -46405,7 +46373,7 @@
                       "id": "Yz6Pk",
                       "fill": "#9ca3afff",
                       "content": "End Date",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -46473,7 +46441,7 @@
                       "id": "nvjXr",
                       "fill": "#1a1a1aff",
                       "content": "Average time less than 32 hours",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 12,
                       "fontWeight": "600"
                     },
@@ -46482,7 +46450,7 @@
                       "id": "dkGOP",
                       "fill": "#6b7280ff",
                       "content": "Manual validation required before payment approval",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -46519,7 +46487,7 @@
                       "id": "NwEOV",
                       "fill": "#6b7280ff",
                       "content": "Cancel",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "500"
                     }
@@ -46542,7 +46510,7 @@
                       "id": "FYAs8",
                       "fill": "#ffffffff",
                       "content": "Next",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "600"
                     }
@@ -46589,7 +46557,7 @@
               "id": "It3Oz",
               "fill": "#1a1a1aff",
               "content": "9:41",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 15,
               "fontWeight": "600"
             },
@@ -46830,7 +46798,7 @@
                       "id": "YJrul",
                       "fill": "#6b7280ff",
                       "content": "Cancel",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "500"
                     }
@@ -46853,7 +46821,7 @@
                       "id": "7dy4E",
                       "fill": "#ffffffff",
                       "content": "Escalated and Send",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "600"
                     }
@@ -46900,7 +46868,7 @@
               "id": "LwY9U",
               "fill": "#1a1a1aff",
               "content": "9:41",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 15,
               "fontWeight": "600"
             },
@@ -47062,8 +47030,8 @@
                           "type": "text",
                           "id": "kqYAd",
                           "fill": "#9ca3afff",
-                          "content": "Hotel",
-                          "fontFamily": "Inter",
+                          "content": "Employees",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "normal"
                         },
@@ -47071,7 +47039,7 @@
                           "type": "text",
                           "id": "Ayq3f",
                           "fill": "#1a1a1aff",
-                          "content": "Hotel Transilvania",
+                          "content": "98 in total",
                           "fontFamily": "Montserrat",
                           "fontSize": 10,
                           "fontWeight": "700"
@@ -47097,8 +47065,8 @@
                           "type": "text",
                           "id": "hh9CA",
                           "fill": "#9ca3afff",
-                          "content": "Invoices",
-                          "fontFamily": "Inter",
+                          "content": "Vacations",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "normal"
                         },
@@ -47106,7 +47074,7 @@
                           "type": "text",
                           "id": "ChrhG",
                           "fill": "#1a1a1aff",
-                          "content": "98",
+                          "content": "22 in total",
                           "fontFamily": "Montserrat",
                           "fontSize": 10,
                           "fontWeight": "700"
@@ -47141,8 +47109,8 @@
                           "type": "text",
                           "id": "voJIR",
                           "fill": "#9ca3afff",
-                          "content": "Pending",
-                          "fontFamily": "Inter",
+                          "content": "New Vacations",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "normal"
                         },
@@ -47150,7 +47118,7 @@
                           "type": "text",
                           "id": "ZFQWF",
                           "fill": "#1a1a1aff",
-                          "content": "22",
+                          "content": "2 in total",
                           "fontFamily": "Montserrat",
                           "fontSize": 10,
                           "fontWeight": "700"
@@ -47176,8 +47144,8 @@
                           "type": "text",
                           "id": "G9R7G",
                           "fill": "#9ca3afff",
-                          "content": "Total Amount",
-                          "fontFamily": "Inter",
+                          "content": "Pending Vacations",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "normal"
                         },
@@ -47185,7 +47153,7 @@
                           "type": "text",
                           "id": "7982E",
                           "fill": "#1a1a1aff",
-                          "content": "$420.000",
+                          "content": "10 in total",
                           "fontFamily": "Montserrat",
                           "fontSize": 10,
                           "fontWeight": "700"
@@ -47237,7 +47205,7 @@
                       "id": "rIDgP",
                       "fill": "#9ca3afff",
                       "content": "Search",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "normal"
                     }
@@ -47266,7 +47234,7 @@
                       "id": "D3Rbi",
                       "fill": "#1a1a1aff",
                       "content": "All Status",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "500"
                     },
@@ -47286,8 +47254,13 @@
                   "id": "ukD2s",
                   "width": 40,
                   "height": "fill_container",
-                  "fill": "#ff6a00ff",
+                  "fill": "#ffffffff",
                   "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#e5e5e5ff"
+                  },
                   "justifyContent": "center",
                   "alignItems": "center",
                   "children": [
@@ -47296,30 +47269,9 @@
                       "id": "yEQIv",
                       "width": 18,
                       "height": 18,
-                      "iconFontName": "person_add",
+                      "iconFontName": "tune",
                       "iconFontFamily": "Material Symbols Rounded",
-                      "fill": "#ffffffff"
-                    }
-                  ]
-                },
-                {
-                  "type": "frame",
-                  "id": "zOjZa",
-                  "width": 40,
-                  "height": "fill_container",
-                  "fill": "#16a34aff",
-                  "cornerRadius": 8,
-                  "justifyContent": "center",
-                  "alignItems": "center",
-                  "children": [
-                    {
-                      "type": "icon_font",
-                      "id": "n2pu5",
-                      "width": 18,
-                      "height": 18,
-                      "iconFontName": "verified",
-                      "iconFontFamily": "Material Symbols Rounded",
-                      "fill": "#ffffffff"
+                      "fill": "#1a1a1aff"
                     }
                   ]
                 }
@@ -47352,7 +47304,7 @@
                       "type": "text",
                       "id": "WRh7M",
                       "fill": "#1a1a1aff",
-                      "content": "INVOICE-001",
+                      "content": "Juan Sevilladasto",
                       "fontFamily": "Montserrat",
                       "fontSize": 12,
                       "fontWeight": "600"
@@ -47360,7 +47312,7 @@
                     {
                       "type": "frame",
                       "id": "uDr1K",
-                      "fill": "#dcfce7ff",
+                      "fill": "#dbeafeff",
                       "cornerRadius": 12,
                       "padding": [
                         3,
@@ -47370,9 +47322,9 @@
                         {
                           "type": "text",
                           "id": "3k75l",
-                          "fill": "#16a34aff",
-                          "content": "Paid",
-                          "fontFamily": "Inter",
+                          "fill": "#2563ebff",
+                          "content": "Open",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -47389,8 +47341,8 @@
                       "type": "text",
                       "id": "NlA8d",
                       "fill": "#6b7280ff",
-                      "content": "Feb 2026 · $18.500",
-                      "fontFamily": "Inter",
+                      "content": "Housekeeping · 12 Feb - 15 Feb/2026  4 days",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -47425,7 +47377,7 @@
                       "type": "text",
                       "id": "poTup",
                       "fill": "#1a1a1aff",
-                      "content": "INVOICE-006",
+                      "content": "Juana del Arco",
                       "fontFamily": "Montserrat",
                       "fontSize": 12,
                       "fontWeight": "600"
@@ -47433,7 +47385,7 @@
                     {
                       "type": "frame",
                       "id": "RQIqX",
-                      "fill": "#fee2e2ff",
+                      "fill": "#fef3c7ff",
                       "cornerRadius": 12,
                       "padding": [
                         3,
@@ -47443,9 +47395,9 @@
                         {
                           "type": "text",
                           "id": "9JKaS",
-                          "fill": "#dc2626ff",
-                          "content": "Unpaid",
-                          "fontFamily": "Inter",
+                          "fill": "#d97706ff",
+                          "content": "Pending",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -47462,8 +47414,8 @@
                       "type": "text",
                       "id": "ZbpJ5",
                       "fill": "#6b7280ff",
-                      "content": "Dec 2025 · $12.500",
-                      "fontFamily": "Inter",
+                      "content": "Reception · 06 Dec - 26 Dec/2025  21 days",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -47498,7 +47450,7 @@
                       "type": "text",
                       "id": "8t7Jm",
                       "fill": "#1a1a1aff",
-                      "content": "INVOICE-001",
+                      "content": "Steve paredes Arco",
                       "fontFamily": "Montserrat",
                       "fontSize": 12,
                       "fontWeight": "600"
@@ -47506,7 +47458,7 @@
                     {
                       "type": "frame",
                       "id": "2Nw31",
-                      "fill": "#dcfce7ff",
+                      "fill": "#fde68aff",
                       "cornerRadius": 12,
                       "padding": [
                         3,
@@ -47516,9 +47468,9 @@
                         {
                           "type": "text",
                           "id": "nGypy",
-                          "fill": "#16a34aff",
-                          "content": "Paid",
-                          "fontFamily": "Inter",
+                          "fill": "#ea580cff",
+                          "content": "Escalated",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -47535,8 +47487,8 @@
                       "type": "text",
                       "id": "zMQIW",
                       "fill": "#6b7280ff",
-                      "content": "Feb 2026 · $18.500",
-                      "fontFamily": "Inter",
+                      "content": "Maintenance · 01 Jan - 10 Jan/2026  10 days",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -47571,7 +47523,7 @@
                       "type": "text",
                       "id": "LTb9Y",
                       "fill": "#1a1a1aff",
-                      "content": "INVOICE-006",
+                      "content": "Juan Sevilladasto",
                       "fontFamily": "Montserrat",
                       "fontSize": 12,
                       "fontWeight": "600"
@@ -47579,7 +47531,7 @@
                     {
                       "type": "frame",
                       "id": "aPzlm",
-                      "fill": "#fee2e2ff",
+                      "fill": "#dcfce7ff",
                       "cornerRadius": 12,
                       "padding": [
                         3,
@@ -47589,9 +47541,9 @@
                         {
                           "type": "text",
                           "id": "GGdyL",
-                          "fill": "#dc2626ff",
-                          "content": "Unpaid",
-                          "fontFamily": "Inter",
+                          "fill": "#16a34aff",
+                          "content": "Approved",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -47608,8 +47560,8 @@
                       "type": "text",
                       "id": "JR90H",
                       "fill": "#6b7280ff",
-                      "content": "Dec 2025 · $12.500",
-                      "fontFamily": "Inter",
+                      "content": "Housekeeping · 12 Feb - 15 Feb/2026  4 days",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -47633,8 +47585,8 @@
                   "type": "text",
                   "id": "4CdiW",
                   "fill": "#9ca3afff",
-                  "content": "Showing 1-4 of 100",
-                  "fontFamily": "Inter",
+                  "content": "Showing 1-4 of 10",
+                  "fontFamily": "Montserrat",
                   "fontSize": 10,
                   "fontWeight": "normal"
                 },
@@ -47683,7 +47635,7 @@
                           "id": "DmxuW",
                           "fill": "#ffffffff",
                           "content": "1",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "600"
                         }
@@ -47708,7 +47660,7 @@
                           "id": "gickS",
                           "fill": "#1a1a1aff",
                           "content": "2",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "normal"
                         }
@@ -47796,7 +47748,7 @@
               "id": "kQHZu",
               "fill": "#ffffffff",
               "content": "Escalated and sent successfully",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 13,
               "fontWeight": "600"
             },
@@ -47848,7 +47800,7 @@
               "id": "ZAXtH",
               "fill": "#1a1a1aff",
               "content": "9:41",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 15,
               "fontWeight": "600"
             },
@@ -48087,7 +48039,7 @@
                   "id": "cQFfZ",
                   "fill": "#9ca3afff",
                   "content": "Housekeeping",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 11,
                   "fontWeight": "normal"
                 },
@@ -48096,7 +48048,7 @@
                   "id": "cXVu4",
                   "fill": "#9ca3afff",
                   "content": "2 years in company",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 11,
                   "fontWeight": "normal"
                 }
@@ -48122,7 +48074,7 @@
                       "id": "oqZhv",
                       "fill": "#9ca3afff",
                       "content": "Average weeks",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -48150,7 +48102,7 @@
                       "id": "qr4QK",
                       "fill": "#9ca3afff",
                       "content": "Applied rule",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -48159,7 +48111,7 @@
                       "id": "CS5Sa",
                       "fill": "#1a1a1aff",
                       "content": "If average > 32h\npay 40h",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -48177,7 +48129,7 @@
                       "id": "gqDZE",
                       "fill": "#9ca3afff",
                       "content": "Rate",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -48207,7 +48159,7 @@
                   "id": "fsmic",
                   "fill": "#9ca3afff",
                   "content": "Amount",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 10,
                   "fontWeight": "normal"
                 },
@@ -48251,7 +48203,7 @@
                       "id": "Nu63E",
                       "fill": "#1a1a1aff",
                       "content": "Average:",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -48260,7 +48212,7 @@
                       "id": "iTm90",
                       "fill": "#1a1a1aff",
                       "content": "36.5h",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     }
@@ -48278,7 +48230,7 @@
                       "id": "IsraW",
                       "fill": "#1a1a1aff",
                       "content": "Applied rule:",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -48287,7 +48239,7 @@
                       "id": "cGtYg",
                       "fill": "#1a1a1aff",
                       "content": "Pay 40h",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     }
@@ -48305,7 +48257,7 @@
                       "id": "d3BJh",
                       "fill": "#1a1a1aff",
                       "content": "40 x $15.00:",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -48351,7 +48303,7 @@
                       "id": "Ht7H4",
                       "fill": "#6b7280ff",
                       "content": "Decline",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "500"
                     }
@@ -48374,7 +48326,7 @@
                       "id": "ADicx",
                       "fill": "#ffffffff",
                       "content": "Send",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "600"
                     }
@@ -48421,7 +48373,7 @@
               "id": "DeFCZ",
               "fill": "#1a1a1aff",
               "content": "9:41",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 15,
               "fontWeight": "600"
             },
@@ -48583,8 +48535,8 @@
                           "type": "text",
                           "id": "nmLxN",
                           "fill": "#9ca3afff",
-                          "content": "Hotel",
-                          "fontFamily": "Inter",
+                          "content": "Employees",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "normal"
                         },
@@ -48592,7 +48544,7 @@
                           "type": "text",
                           "id": "VpaRU",
                           "fill": "#1a1a1aff",
-                          "content": "Hotel Transilvania",
+                          "content": "98 in total",
                           "fontFamily": "Montserrat",
                           "fontSize": 10,
                           "fontWeight": "700"
@@ -48618,8 +48570,8 @@
                           "type": "text",
                           "id": "WGlpG",
                           "fill": "#9ca3afff",
-                          "content": "Invoices",
-                          "fontFamily": "Inter",
+                          "content": "Vacations",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "normal"
                         },
@@ -48627,7 +48579,7 @@
                           "type": "text",
                           "id": "Deu2D",
                           "fill": "#1a1a1aff",
-                          "content": "98",
+                          "content": "22 in total",
                           "fontFamily": "Montserrat",
                           "fontSize": 10,
                           "fontWeight": "700"
@@ -48662,8 +48614,8 @@
                           "type": "text",
                           "id": "YQXdT",
                           "fill": "#9ca3afff",
-                          "content": "Pending",
-                          "fontFamily": "Inter",
+                          "content": "New Vacations",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "normal"
                         },
@@ -48671,7 +48623,7 @@
                           "type": "text",
                           "id": "9lk2l",
                           "fill": "#1a1a1aff",
-                          "content": "22",
+                          "content": "2 in total",
                           "fontFamily": "Montserrat",
                           "fontSize": 10,
                           "fontWeight": "700"
@@ -48697,8 +48649,8 @@
                           "type": "text",
                           "id": "0cvTA",
                           "fill": "#9ca3afff",
-                          "content": "Total Amount",
-                          "fontFamily": "Inter",
+                          "content": "Pending Vacations",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "normal"
                         },
@@ -48706,7 +48658,7 @@
                           "type": "text",
                           "id": "Yhkjn",
                           "fill": "#1a1a1aff",
-                          "content": "$420.000",
+                          "content": "10 in total",
                           "fontFamily": "Montserrat",
                           "fontSize": 10,
                           "fontWeight": "700"
@@ -48758,7 +48710,7 @@
                       "id": "00QMW",
                       "fill": "#9ca3afff",
                       "content": "Search",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "normal"
                     }
@@ -48787,7 +48739,7 @@
                       "id": "r1UF1",
                       "fill": "#1a1a1aff",
                       "content": "All Status",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "500"
                     },
@@ -48807,8 +48759,13 @@
                   "id": "iqiyq",
                   "width": 40,
                   "height": "fill_container",
-                  "fill": "#ff6a00ff",
+                  "fill": "#ffffffff",
                   "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#e5e5e5ff"
+                  },
                   "justifyContent": "center",
                   "alignItems": "center",
                   "children": [
@@ -48817,30 +48774,9 @@
                       "id": "48j56",
                       "width": 18,
                       "height": 18,
-                      "iconFontName": "person_add",
+                      "iconFontName": "tune",
                       "iconFontFamily": "Material Symbols Rounded",
-                      "fill": "#ffffffff"
-                    }
-                  ]
-                },
-                {
-                  "type": "frame",
-                  "id": "Fx9aI",
-                  "width": 40,
-                  "height": "fill_container",
-                  "fill": "#16a34aff",
-                  "cornerRadius": 8,
-                  "justifyContent": "center",
-                  "alignItems": "center",
-                  "children": [
-                    {
-                      "type": "icon_font",
-                      "id": "anrhE",
-                      "width": 18,
-                      "height": 18,
-                      "iconFontName": "verified",
-                      "iconFontFamily": "Material Symbols Rounded",
-                      "fill": "#ffffffff"
+                      "fill": "#1a1a1aff"
                     }
                   ]
                 }
@@ -48873,7 +48809,7 @@
                       "type": "text",
                       "id": "huyGv",
                       "fill": "#1a1a1aff",
-                      "content": "INVOICE-001",
+                      "content": "Juan Sevilladasto",
                       "fontFamily": "Montserrat",
                       "fontSize": 12,
                       "fontWeight": "600"
@@ -48881,7 +48817,7 @@
                     {
                       "type": "frame",
                       "id": "UlQlN",
-                      "fill": "#dcfce7ff",
+                      "fill": "#dbeafeff",
                       "cornerRadius": 12,
                       "padding": [
                         3,
@@ -48891,9 +48827,9 @@
                         {
                           "type": "text",
                           "id": "GdjG5",
-                          "fill": "#16a34aff",
-                          "content": "Paid",
-                          "fontFamily": "Inter",
+                          "fill": "#2563ebff",
+                          "content": "Open",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -48910,8 +48846,8 @@
                       "type": "text",
                       "id": "PQtjd",
                       "fill": "#6b7280ff",
-                      "content": "Feb 2026 · $18.500",
-                      "fontFamily": "Inter",
+                      "content": "Housekeeping · 12 Feb - 15 Feb/2026  4 days",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -48946,7 +48882,7 @@
                       "type": "text",
                       "id": "IahaK",
                       "fill": "#1a1a1aff",
-                      "content": "INVOICE-006",
+                      "content": "Juana del Arco",
                       "fontFamily": "Montserrat",
                       "fontSize": 12,
                       "fontWeight": "600"
@@ -48954,7 +48890,7 @@
                     {
                       "type": "frame",
                       "id": "ste74",
-                      "fill": "#fee2e2ff",
+                      "fill": "#fef3c7ff",
                       "cornerRadius": 12,
                       "padding": [
                         3,
@@ -48964,9 +48900,9 @@
                         {
                           "type": "text",
                           "id": "F4IaN",
-                          "fill": "#dc2626ff",
-                          "content": "Unpaid",
-                          "fontFamily": "Inter",
+                          "fill": "#d97706ff",
+                          "content": "Pending",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -48983,8 +48919,8 @@
                       "type": "text",
                       "id": "sBZAe",
                       "fill": "#6b7280ff",
-                      "content": "Dec 2025 · $12.500",
-                      "fontFamily": "Inter",
+                      "content": "Reception · 06 Dec - 26 Dec/2025  21 days",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -49019,7 +48955,7 @@
                       "type": "text",
                       "id": "4sXUJ",
                       "fill": "#1a1a1aff",
-                      "content": "INVOICE-001",
+                      "content": "Steve paredes Arco",
                       "fontFamily": "Montserrat",
                       "fontSize": 12,
                       "fontWeight": "600"
@@ -49027,7 +48963,7 @@
                     {
                       "type": "frame",
                       "id": "yQILS",
-                      "fill": "#dcfce7ff",
+                      "fill": "#fde68aff",
                       "cornerRadius": 12,
                       "padding": [
                         3,
@@ -49037,9 +48973,9 @@
                         {
                           "type": "text",
                           "id": "N6X5z",
-                          "fill": "#16a34aff",
-                          "content": "Paid",
-                          "fontFamily": "Inter",
+                          "fill": "#ea580cff",
+                          "content": "Escalated",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -49056,8 +48992,8 @@
                       "type": "text",
                       "id": "5GdvQ",
                       "fill": "#6b7280ff",
-                      "content": "Feb 2026 · $18.500",
-                      "fontFamily": "Inter",
+                      "content": "Maintenance · 01 Jan - 10 Jan/2026  10 days",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -49092,7 +49028,7 @@
                       "type": "text",
                       "id": "GkIex",
                       "fill": "#1a1a1aff",
-                      "content": "INVOICE-006",
+                      "content": "Juan Sevilladasto",
                       "fontFamily": "Montserrat",
                       "fontSize": 12,
                       "fontWeight": "600"
@@ -49100,7 +49036,7 @@
                     {
                       "type": "frame",
                       "id": "d0Kto",
-                      "fill": "#fee2e2ff",
+                      "fill": "#dcfce7ff",
                       "cornerRadius": 12,
                       "padding": [
                         3,
@@ -49110,9 +49046,9 @@
                         {
                           "type": "text",
                           "id": "MhSzY",
-                          "fill": "#dc2626ff",
-                          "content": "Unpaid",
-                          "fontFamily": "Inter",
+                          "fill": "#16a34aff",
+                          "content": "Approved",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -49129,8 +49065,8 @@
                       "type": "text",
                       "id": "Miy56",
                       "fill": "#6b7280ff",
-                      "content": "Dec 2025 · $12.500",
-                      "fontFamily": "Inter",
+                      "content": "Housekeeping · 12 Feb - 15 Feb/2026  4 days",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -49154,8 +49090,8 @@
                   "type": "text",
                   "id": "ZaVs8",
                   "fill": "#9ca3afff",
-                  "content": "Showing 1-4 of 100",
-                  "fontFamily": "Inter",
+                  "content": "Showing 1-4 of 10",
+                  "fontFamily": "Montserrat",
                   "fontSize": 10,
                   "fontWeight": "normal"
                 },
@@ -49204,7 +49140,7 @@
                           "id": "SbsnD",
                           "fill": "#ffffffff",
                           "content": "1",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "600"
                         }
@@ -49229,7 +49165,7 @@
                           "id": "fwkmF",
                           "fill": "#1a1a1aff",
                           "content": "2",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "normal"
                         }
@@ -49317,7 +49253,7 @@
               "id": "caNyO",
               "fill": "#ffffffff",
               "content": "Send successfully",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 13,
               "fontWeight": "600"
             },
@@ -49366,7 +49302,7 @@
               "id": "dWiaU",
               "fill": "#1a1a1aff",
               "content": "9:41",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 15,
               "fontWeight": "600"
             },
@@ -49517,7 +49453,7 @@
                       "id": "YTdsV",
                       "fill": "#9ca3afff",
                       "content": "New Vacations",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -49553,7 +49489,7 @@
                       "id": "5vUmU",
                       "fill": "#9ca3afff",
                       "content": "Pending Vacations",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -49589,7 +49525,7 @@
                       "id": "Dn6K6",
                       "fill": "#9ca3afff",
                       "content": "Vacations",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -49648,7 +49584,7 @@
                       "id": "MyKe2",
                       "fill": "#9ca3afff",
                       "content": "Search",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "normal"
                     }
@@ -49678,7 +49614,7 @@
                       "id": "8l5aV",
                       "fill": "#1a1a1aff",
                       "content": "All Status",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "500"
                     },
@@ -49771,7 +49707,7 @@
                           "id": "618QB",
                           "fill": "#ea580cff",
                           "content": "Escalated",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -49791,7 +49727,7 @@
                       "id": "xqjNO",
                       "fill": "#6b7280ff",
                       "content": "Maintenance · 01 Jan - 10 Jan/2026",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -49877,7 +49813,7 @@
                           "id": "BPTb8",
                           "fill": "#6b7280ff",
                           "content": "Closed",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -49897,7 +49833,7 @@
                       "id": "uTmtk",
                       "fill": "#6b7280ff",
                       "content": "Maintenance · 01 Jan - 10 Jan/2026",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -49983,7 +49919,7 @@
                           "id": "DM6dW",
                           "fill": "#ea580cff",
                           "content": "Escalated",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -50003,7 +49939,7 @@
                       "id": "AsxPL",
                       "fill": "#6b7280ff",
                       "content": "Maintenance · 01 Jan - 10 Jan/2026",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -50089,7 +50025,7 @@
                           "id": "QcNSR",
                           "fill": "#ef4444ff",
                           "content": "Denied",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -50109,7 +50045,7 @@
                       "id": "h5l6F",
                       "fill": "#6b7280ff",
                       "content": "Reception · 06 Dec - 26 Dec/2025",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -50163,7 +50099,7 @@
                   "id": "biN6w",
                   "fill": "#9ca3afff",
                   "content": "Showing 1-4 of 10",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 10,
                   "fontWeight": "normal"
                 },
@@ -50213,7 +50149,7 @@
                           "id": "ilrBs",
                           "fill": "#ffffffff",
                           "content": "1",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "600"
                         }
@@ -50238,7 +50174,7 @@
                           "id": "Qyv7t",
                           "fill": "#1a1a1aff",
                           "content": "2",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "normal"
                         }
@@ -50263,7 +50199,7 @@
                           "id": "PPjj8",
                           "fill": "#1a1a1aff",
                           "content": "3",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "normal"
                         }
@@ -50356,7 +50292,7 @@
               "id": "OPAW0",
               "fill": "#1a1a1aff",
               "content": "9:41",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 15,
               "fontWeight": "600"
             },
@@ -50595,7 +50531,7 @@
                   "id": "xCJSf",
                   "fill": "#9ca3afff",
                   "content": "Housekeeping",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 11,
                   "fontWeight": "normal"
                 },
@@ -50604,7 +50540,7 @@
                   "id": "obOf2",
                   "fill": "#9ca3afff",
                   "content": "2 years in company",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 11,
                   "fontWeight": "normal"
                 },
@@ -50624,7 +50560,7 @@
                       "id": "JUtZK",
                       "fill": "#6b7280ff",
                       "content": "Closed",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 9,
                       "fontWeight": "600"
                     }
@@ -50652,7 +50588,7 @@
                       "id": "yQKtW",
                       "fill": "#9ca3afff",
                       "content": "Average weeks",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -50680,7 +50616,7 @@
                       "id": "NWd7H",
                       "fill": "#9ca3afff",
                       "content": "Applied rule",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -50689,7 +50625,7 @@
                       "id": "BSzYP",
                       "fill": "#1a1a1aff",
                       "content": "If average > 32h\npay 40h",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -50716,7 +50652,7 @@
                       "id": "ANuJi",
                       "fill": "#9ca3afff",
                       "content": "Rate",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -50743,7 +50679,7 @@
                       "id": "h5gMr",
                       "fill": "#9ca3afff",
                       "content": "Amount",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -50802,7 +50738,7 @@
                       "id": "dLHs6",
                       "fill": "#16a34aff",
                       "content": "Approved",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "600"
                     }
@@ -50842,9 +50778,53 @@
                       "id": "7NQw4",
                       "fill": "#6b7280ff",
                       "content": "Denied",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "B9tsR",
+              "name": "Observation Section",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 6,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "W6XO4",
+                  "fill": "#1a1a1aff",
+                  "content": "OBSERVATION",
+                  "fontFamily": "Montserrat",
+                  "fontSize": 11,
+                  "fontWeight": "700"
+                },
+                {
+                  "type": "frame",
+                  "id": "jE4qw",
+                  "name": "obsInput",
+                  "width": "fill_container",
+                  "height": 70,
+                  "cornerRadius": 8,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#e5e5e5ff"
+                  },
+                  "padding": 12,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "BI7XZ",
+                      "fill": "#9ca3afff",
+                      "content": "Write your observation or reason for rejection...",
+                      "fontFamily": "Montserrat",
+                      "fontSize": 11,
+                      "fontWeight": "normal"
                     }
                   ]
                 }
@@ -50879,7 +50859,7 @@
                       "id": "Vmjfn",
                       "fill": "#6b7280ff",
                       "content": "Back",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "500"
                     }
@@ -50901,8 +50881,8 @@
                       "type": "text",
                       "id": "65q99",
                       "fill": "#ffffffff",
-                      "content": "View history",
-                      "fontFamily": "Inter",
+                      "content": "Done",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "600"
                     }
@@ -50949,7 +50929,7 @@
               "id": "zgsW8",
               "fill": "#1a1a1aff",
               "content": "9:41",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 15,
               "fontWeight": "600"
             },
@@ -51104,7 +51084,7 @@
                       "id": "X1kES",
                       "fill": "#9ca3afff",
                       "content": "New Vacations",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 9,
                       "fontWeight": "normal"
                     },
@@ -51139,7 +51119,7 @@
                       "id": "6eVg2",
                       "fill": "#9ca3afff",
                       "content": "Pending Vacations",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 9,
                       "fontWeight": "normal"
                     },
@@ -51174,7 +51154,7 @@
                       "id": "lkdoC",
                       "fill": "#9ca3afff",
                       "content": "Vacations",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 9,
                       "fontWeight": "normal"
                     },
@@ -51232,7 +51212,7 @@
                       "id": "rlXSf",
                       "fill": "#9ca3afff",
                       "content": "Search",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "normal"
                     }
@@ -51261,7 +51241,7 @@
                       "id": "kGjuZ",
                       "fill": "#1a1a1aff",
                       "content": "All Status",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "500"
                     },
@@ -51367,7 +51347,7 @@
                           "id": "SYgoG",
                           "fill": "#ea580cff",
                           "content": "Escalated",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -51385,7 +51365,7 @@
                       "id": "OnPt6",
                       "fill": "#6b7280ff",
                       "content": "Maintenance · 01 Jan - 10 Jan/2026",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -51440,7 +51420,7 @@
                           "id": "dZA20",
                           "fill": "#6b7280ff",
                           "content": "Closed",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -51458,7 +51438,7 @@
                       "id": "w1DEK",
                       "fill": "#6b7280ff",
                       "content": "Maintenance · 01 Jan - 10 Jan/2026",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -51513,7 +51493,7 @@
                           "id": "CC9zm",
                           "fill": "#ea580cff",
                           "content": "Escalated",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -51531,7 +51511,7 @@
                       "id": "ihdgw",
                       "fill": "#6b7280ff",
                       "content": "Maintenance · 01 Jan - 10 Jan/2026",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -51586,7 +51566,7 @@
                           "id": "9MFz9",
                           "fill": "#ef4444ff",
                           "content": "Denied",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 9,
                           "fontWeight": "600"
                         }
@@ -51604,7 +51584,7 @@
                       "id": "aIRLG",
                       "fill": "#6b7280ff",
                       "content": "Reception · 06 Dec - 26 Dec/2025",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -51629,7 +51609,7 @@
                   "id": "5xRcz",
                   "fill": "#9ca3afff",
                   "content": "Showing 1-4 of 100",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 10,
                   "fontWeight": "normal"
                 },
@@ -51678,7 +51658,7 @@
                           "id": "rfFpb",
                           "fill": "#ffffffff",
                           "content": "1",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "600"
                         }
@@ -51703,7 +51683,7 @@
                           "id": "R24D3",
                           "fill": "#1a1a1aff",
                           "content": "2",
-                          "fontFamily": "Inter",
+                          "fontFamily": "Montserrat",
                           "fontSize": 11,
                           "fontWeight": "normal"
                         }
@@ -51791,7 +51771,7 @@
               "id": "D4Y5M",
               "fill": "#ffffffff",
               "content": "Done successfully",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 13,
               "fontWeight": "600"
             },
@@ -56746,7 +56726,7 @@
               "id": "yh2P9",
               "fill": "#1a1a1aff",
               "content": "9:41",
-              "fontFamily": "Inter",
+              "fontFamily": "Montserrat",
               "fontSize": 15,
               "fontWeight": "600"
             },
@@ -56985,7 +56965,7 @@
                   "id": "D32NG",
                   "fill": "#9ca3afff",
                   "content": "Housekeeping",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 11,
                   "fontWeight": "normal"
                 },
@@ -56994,7 +56974,7 @@
                   "id": "aVcas",
                   "fill": "#9ca3afff",
                   "content": "2 years in company",
-                  "fontFamily": "Inter",
+                  "fontFamily": "Montserrat",
                   "fontSize": 11,
                   "fontWeight": "normal"
                 },
@@ -57014,7 +56994,7 @@
                       "id": "vc1nl",
                       "fill": "#6b7280ff",
                       "content": "Closed",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 9,
                       "fontWeight": "600"
                     }
@@ -57042,7 +57022,7 @@
                       "id": "GAwAl",
                       "fill": "#9ca3afff",
                       "content": "Average weeks",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -57070,7 +57050,7 @@
                       "id": "js76x",
                       "fill": "#9ca3afff",
                       "content": "Applied rule",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -57079,7 +57059,7 @@
                       "id": "OtT8a",
                       "fill": "#1a1a1aff",
                       "content": "If average > 32h\npay 40h",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     }
@@ -57106,7 +57086,7 @@
                       "id": "SbAWT",
                       "fill": "#9ca3afff",
                       "content": "Rate",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -57133,7 +57113,7 @@
                       "id": "nsDVs",
                       "fill": "#9ca3afff",
                       "content": "Amount",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 10,
                       "fontWeight": "normal"
                     },
@@ -57191,7 +57171,7 @@
                       "id": "8t0v8",
                       "fill": "#6b7280ff",
                       "content": "Approved",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "500"
                     }
@@ -57231,7 +57211,7 @@
                       "id": "NBsk2",
                       "fill": "#ef4444ff",
                       "content": "Denied",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 11,
                       "fontWeight": "600"
                     }
@@ -57268,7 +57248,7 @@
                       "id": "rJbEj",
                       "fill": "#6b7280ff",
                       "content": "Back",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "500"
                     }
@@ -57291,7 +57271,7 @@
                       "id": "oLaQq",
                       "fill": "#ffffffff",
                       "content": "View history",
-                      "fontFamily": "Inter",
+                      "fontFamily": "Montserrat",
                       "fontSize": 13,
                       "fontWeight": "600"
                     }
