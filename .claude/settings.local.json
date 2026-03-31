@@ -3,7 +3,9 @@
     "allow": [
       "Bash(find /c/Users/SebasDev/Desktop/Orange -name \"*.pen\" -type f -exec wc -l {})",
       "Bash(ls \"c:/Users/SebasDev/Desktop/Orange/tefa/requisicion/\"*.pen)",
-      "Bash(find c:UsersSebasDevDesktopOrange -type f -name *.pen)"
+      "Bash(find c:UsersSebasDevDesktopOrange -type f -name *.pen)",
+      "Bash(python \"C:\\\\Users\\\\SebasDev\\\\Desktop\\\\Orange\\\\find_spanish.py\")",
+      "Bash(node -e \":*)"
     ]
   }
 }

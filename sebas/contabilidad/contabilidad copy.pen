@@ -1,5 +1,5 @@
 {
-  "version": "2.8",
+  "version": "2.9",
   "children": [
     {
       "type": "frame",
@@ -703,7 +703,8 @@
           "fill": "#555555ff",
           "content": "solicitudes nuevas",
           "fontFamily": "Inter",
-          "fontSize": 12
+          "fontSize": 12,
+          "fontWeight": "normal"
         }
       ]
     },
@@ -868,7 +869,8 @@
                       "fill": "#666666ff",
                       "content": "Centro de Mando > Vista General",
                       "fontFamily": "Montserrat",
-                      "fontSize": 12
+                      "fontSize": 12,
+                      "fontWeight": "normal"
                     }
                   ]
                 }
@@ -968,9 +970,13 @@
                           "name": "kpi1",
                           "x": 0,
                           "y": 0,
+                          "height": "fit_content",
                           "descendants": {
                             "GxgSq": {
-                              "width": "fill_container"
+                              "width": "fill_container",
+                              "height": "fit_content",
+                              "x": 20,
+                              "y": 20
                             },
                             "sSU5m": {
                               "content": "Nuevas"
@@ -978,13 +984,18 @@
                             "YbUX5": {
                               "x": 129,
                               "iconFontName": "file-plus",
-                              "fill": "#2196F3ff"
+                              "fill": "#2196F3ff",
+                              "y": 0
                             },
                             "tb60g": {
-                              "content": "12"
+                              "content": "12",
+                              "x": 20,
+                              "y": 50
                             },
                             "9kROO": {
-                              "content": "solicitudes nuevas"
+                              "content": "solicitudes nuevas",
+                              "x": 20,
+                              "y": 101
                             }
                           }
                         },
@@ -996,9 +1007,13 @@
                           "name": "kpi2",
                           "x": 203,
                           "y": 0,
+                          "height": "fit_content",
                           "descendants": {
                             "GxgSq": {
-                              "width": "fill_container"
+                              "width": "fill_container",
+                              "height": "fit_content",
+                              "x": 20,
+                              "y": 20
                             },
                             "sSU5m": {
                               "content": "En Revisión"
@@ -1006,14 +1021,19 @@
                             "YbUX5": {
                               "x": 129,
                               "iconFontName": "circle-dashed",
-                              "fill": "#FFA726ff"
+                              "fill": "#FFA726ff",
+                              "y": 0
                             },
                             "tb60g": {
                               "content": "8",
-                              "fill": "#FFA726ff"
+                              "fill": "#FFA726ff",
+                              "x": 20,
+                              "y": 50
                             },
                             "9kROO": {
-                              "content": "en revisión"
+                              "content": "en revisión",
+                              "x": 20,
+                              "y": 101
                             }
                           }
                         },
@@ -1025,9 +1045,13 @@
                           "name": "kpi3",
                           "x": 406,
                           "y": 0,
+                          "height": "fit_content",
                           "descendants": {
                             "GxgSq": {
-                              "width": "fill_container"
+                              "width": "fill_container",
+                              "height": "fit_content",
+                              "x": 20,
+                              "y": 20
                             },
                             "sSU5m": {
                               "content": "Aprobadas"
@@ -1035,14 +1059,19 @@
                             "YbUX5": {
                               "x": 129,
                               "iconFontName": "check",
-                              "fill": "#4CAF50ff"
+                              "fill": "#4CAF50ff",
+                              "y": 0
                             },
                             "tb60g": {
                               "content": "45",
-                              "fill": "#4CAF50ff"
+                              "fill": "#4CAF50ff",
+                              "x": 20,
+                              "y": 50
                             },
                             "9kROO": {
-                              "content": "aprobadas este mes"
+                              "content": "aprobadas este mes",
+                              "x": 20,
+                              "y": 101
                             }
                           }
                         },
@@ -1054,9 +1083,13 @@
                           "name": "kpi4",
                           "x": 609,
                           "y": 0,
+                          "height": "fit_content",
                           "descendants": {
                             "GxgSq": {
-                              "width": "fill_container"
+                              "width": "fill_container",
+                              "height": "fit_content",
+                              "x": 20,
+                              "y": 20
                             },
                             "sSU5m": {
                               "content": "Rechazadas"
@@ -1064,14 +1097,19 @@
                             "YbUX5": {
                               "x": 129,
                               "iconFontName": "x",
-                              "fill": "#F44336ff"
+                              "fill": "#F44336ff",
+                              "y": 0
                             },
                             "tb60g": {
                               "content": "3",
-                              "fill": "#F44336ff"
+                              "fill": "#F44336ff",
+                              "x": 20,
+                              "y": 50
                             },
                             "9kROO": {
-                              "content": "rechazadas"
+                              "content": "rechazadas",
+                              "x": 20,
+                              "y": 101
                             }
                           }
                         }
@@ -1524,7 +1562,8 @@
                                       "fill": "#9d9d9dff",
                                       "content": "EMP-1234",
                                       "fontFamily": "Inter",
-                                      "fontSize": 11
+                                      "fontSize": 11,
+                                      "fontWeight": "normal"
                                     }
                                   ]
                                 }
@@ -1545,7 +1584,8 @@
                                   "fill": "#16151cff",
                                   "content": "Marriott Downtown",
                                   "fontFamily": "Inter",
-                                  "fontSize": 14
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
                                 }
                               ]
                             },
@@ -1566,7 +1606,8 @@
                                   "fill": "#16151cff",
                                   "content": "15 Mar - 22 Mar",
                                   "fontFamily": "Inter",
-                                  "fontSize": 14
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
                                 },
                                 {
                                   "type": "text",
@@ -1575,7 +1616,8 @@
                                   "fill": "#9d9d9dff",
                                   "content": "8 días",
                                   "fontFamily": "Inter",
-                                  "fontSize": 11
+                                  "fontSize": 11,
+                                  "fontWeight": "normal"
                                 }
                               ]
                             },
@@ -1596,7 +1638,8 @@
                                   "fill": "#16151cff",
                                   "content": "01 Ene 2023",
                                   "fontFamily": "Inter",
-                                  "fontSize": 14
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
                                 },
                                 {
                                   "type": "text",
@@ -1605,7 +1648,8 @@
                                   "fill": "#9d9d9dff",
                                   "content": "2 años",
                                   "fontFamily": "Inter",
-                                  "fontSize": 11
+                                  "fontSize": 11,
+                                  "fontWeight": "normal"
                                 }
                               ]
                             },
@@ -1623,7 +1667,19 @@
                                   "ref": "9UIFM",
                                   "name": "r1chip",
                                   "x": 0,
-                                  "y": 18.5
+                                  "y": 18.5,
+                                  "width": "fit_content",
+                                  "height": "fit_content",
+                                  "descendants": {
+                                    "9Mlmg": {
+                                      "x": 12,
+                                      "y": 6.5
+                                    },
+                                    "cLTQ5": {
+                                      "x": 32,
+                                      "y": 6
+                                    }
+                                  }
                                 }
                               ]
                             },
@@ -1663,7 +1719,13 @@
                                   "ref": "vJWYE",
                                   "name": "r1btn1",
                                   "x": -35.5,
-                                  "y": 16
+                                  "y": 16,
+                                  "descendants": {
+                                    "sHekU": {
+                                      "x": 8,
+                                      "y": 8
+                                    }
+                                  }
                                 },
                                 {
                                   "id": "RoVEY",
@@ -1671,7 +1733,13 @@
                                   "ref": "h4Cbe",
                                   "name": "r1btn2",
                                   "x": 4.5,
-                                  "y": 16
+                                  "y": 16,
+                                  "descendants": {
+                                    "AQlH9": {
+                                      "x": 8,
+                                      "y": 8
+                                    }
+                                  }
                                 }
                               ]
                             }
@@ -1752,7 +1820,8 @@
                                       "fill": "#9d9d9dff",
                                       "content": "EMP-1256",
                                       "fontFamily": "Inter",
-                                      "fontSize": 11
+                                      "fontSize": 11,
+                                      "fontWeight": "normal"
                                     }
                                   ]
                                 }
@@ -1773,7 +1842,8 @@
                                   "fill": "#16151cff",
                                   "content": "Hilton Garden Inn",
                                   "fontFamily": "Inter",
-                                  "fontSize": 14
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
                                 }
                               ]
                             },
@@ -1794,7 +1864,8 @@
                                   "fill": "#16151cff",
                                   "content": "01 Abr - 05 Abr",
                                   "fontFamily": "Inter",
-                                  "fontSize": 14
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
                                 },
                                 {
                                   "type": "text",
@@ -1803,7 +1874,8 @@
                                   "fill": "#9d9d9dff",
                                   "content": "5 días",
                                   "fontFamily": "Inter",
-                                  "fontSize": 11
+                                  "fontSize": 11,
+                                  "fontWeight": "normal"
                                 }
                               ]
                             },
@@ -1824,7 +1896,8 @@
                                   "fill": "#16151cff",
                                   "content": "15 Jun 2022",
                                   "fontFamily": "Inter",
-                                  "fontSize": 14
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
                                 },
                                 {
                                   "type": "text",
@@ -1833,7 +1906,8 @@
                                   "fill": "#9d9d9dff",
                                   "content": "2 años",
                                   "fontFamily": "Inter",
-                                  "fontSize": 11
+                                  "fontSize": 11,
+                                  "fontWeight": "normal"
                                 }
                               ]
                             },
@@ -1851,7 +1925,19 @@
                                   "ref": "I0CpS",
                                   "name": "r2chip",
                                   "x": 0,
-                                  "y": 18.5
+                                  "y": 18.5,
+                                  "width": "fit_content",
+                                  "height": "fit_content",
+                                  "descendants": {
+                                    "dbntr": {
+                                      "x": 12,
+                                      "y": 6.5
+                                    },
+                                    "b0Efx": {
+                                      "x": 32,
+                                      "y": 6
+                                    }
+                                  }
                                 }
                               ]
                             },
@@ -1891,7 +1977,13 @@
                                   "ref": "vJWYE",
                                   "name": "r2btn1",
                                   "x": -35.5,
-                                  "y": 16
+                                  "y": 16,
+                                  "descendants": {
+                                    "sHekU": {
+                                      "x": 8,
+                                      "y": 8
+                                    }
+                                  }
                                 },
                                 {
                                   "id": "JXYjs",
@@ -1899,7 +1991,13 @@
                                   "ref": "h4Cbe",
                                   "name": "r2btn2",
                                   "x": 4.5,
-                                  "y": 16
+                                  "y": 16,
+                                  "descendants": {
+                                    "AQlH9": {
+                                      "x": 8,
+                                      "y": 8
+                                    }
+                                  }
                                 }
                               ]
                             }
@@ -1980,7 +2078,8 @@
                                       "fill": "#9d9d9dff",
                                       "content": "EMP-1089",
                                       "fontFamily": "Inter",
-                                      "fontSize": 11
+                                      "fontSize": 11,
+                                      "fontWeight": "normal"
                                     }
                                   ]
                                 }
@@ -2001,7 +2100,8 @@
                                   "fill": "#16151cff",
                                   "content": "Hyatt Regency",
                                   "fontFamily": "Inter",
-                                  "fontSize": 14
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
                                 }
                               ]
                             },
@@ -2022,7 +2122,8 @@
                                   "fill": "#16151cff",
                                   "content": "10 Mar - 17 Mar",
                                   "fontFamily": "Inter",
-                                  "fontSize": 14
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
                                 },
                                 {
                                   "type": "text",
@@ -2031,7 +2132,8 @@
                                   "fill": "#9d9d9dff",
                                   "content": "8 días",
                                   "fontFamily": "Inter",
-                                  "fontSize": 11
+                                  "fontSize": 11,
+                                  "fontWeight": "normal"
                                 }
                               ]
                             },
@@ -2052,7 +2154,8 @@
                                   "fill": "#16151cff",
                                   "content": "20 Mar 2021",
                                   "fontFamily": "Inter",
-                                  "fontSize": 14
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
                                 },
                                 {
                                   "type": "text",
@@ -2061,7 +2164,8 @@
                                   "fill": "#9d9d9dff",
                                   "content": "3 años",
                                   "fontFamily": "Inter",
-                                  "fontSize": 11
+                                  "fontSize": 11,
+                                  "fontWeight": "normal"
                                 }
                               ]
                             },
@@ -2079,7 +2183,19 @@
                                   "ref": "Uhyw8",
                                   "name": "r3chip",
                                   "x": 0,
-                                  "y": 18.5
+                                  "y": 18.5,
+                                  "width": "fit_content",
+                                  "height": "fit_content",
+                                  "descendants": {
+                                    "3KFiw": {
+                                      "x": 12,
+                                      "y": 6.5
+                                    },
+                                    "9WlMC": {
+                                      "x": 32,
+                                      "y": 6
+                                    }
+                                  }
                                 }
                               ]
                             },
@@ -2119,7 +2235,13 @@
                                   "ref": "vJWYE",
                                   "name": "r3btn1",
                                   "x": -15.5,
-                                  "y": 16
+                                  "y": 16,
+                                  "descendants": {
+                                    "sHekU": {
+                                      "x": 8,
+                                      "y": 8
+                                    }
+                                  }
                                 }
                               ]
                             }
@@ -2200,7 +2322,8 @@
                                       "fill": "#9d9d9dff",
                                       "content": "EMP-1445",
                                       "fontFamily": "Inter",
-                                      "fontSize": 11
+                                      "fontSize": 11,
+                                      "fontWeight": "normal"
                                     }
                                   ]
                                 }
@@ -2221,7 +2344,8 @@
                                   "fill": "#16151cff",
                                   "content": "Westin Hotel",
                                   "fontFamily": "Inter",
-                                  "fontSize": 14
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
                                 }
                               ]
                             },
@@ -2242,7 +2366,8 @@
                                   "fill": "#16151cff",
                                   "content": "20 Mar - 27 Mar",
                                   "fontFamily": "Inter",
-                                  "fontSize": 14
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
                                 },
                                 {
                                   "type": "text",
@@ -2251,7 +2376,8 @@
                                   "fill": "#9d9d9dff",
                                   "content": "8 días",
                                   "fontFamily": "Inter",
-                                  "fontSize": 11
+                                  "fontSize": 11,
+                                  "fontWeight": "normal"
                                 }
                               ]
                             },
@@ -2272,7 +2398,8 @@
                                   "fill": "#16151cff",
                                   "content": "10 Nov 2023",
                                   "fontFamily": "Inter",
-                                  "fontSize": 14
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
                                 },
                                 {
                                   "type": "text",
@@ -2281,7 +2408,8 @@
                                   "fill": "#9d9d9dff",
                                   "content": "1 año",
                                   "fontFamily": "Inter",
-                                  "fontSize": 11
+                                  "fontSize": 11,
+                                  "fontWeight": "normal"
                                 }
                               ]
                             },
@@ -2299,7 +2427,19 @@
                                   "ref": "OLoLc",
                                   "name": "r4chip",
                                   "x": 0,
-                                  "y": 18.5
+                                  "y": 18.5,
+                                  "width": "fit_content",
+                                  "height": "fit_content",
+                                  "descendants": {
+                                    "kD62w": {
+                                      "x": 12,
+                                      "y": 6.5
+                                    },
+                                    "QQWws": {
+                                      "x": 32,
+                                      "y": 6
+                                    }
+                                  }
                                 }
                               ]
                             },
@@ -2339,7 +2479,13 @@
                                   "ref": "vJWYE",
                                   "name": "r4btn1",
                                   "x": -15.5,
-                                  "y": 16
+                                  "y": 16,
+                                  "descendants": {
+                                    "sHekU": {
+                                      "x": 8,
+                                      "y": 8
+                                    }
+                                  }
                                 }
                               ]
                             }
@@ -2413,7 +2559,8 @@
                                       "fill": "#9d9d9dff",
                                       "content": "EMP-1567",
                                       "fontFamily": "Inter",
-                                      "fontSize": 11
+                                      "fontSize": 11,
+                                      "fontWeight": "normal"
                                     }
                                   ]
                                 }
@@ -2434,7 +2581,8 @@
                                   "fill": "#16151cff",
                                   "content": "Courtyard Marriott",
                                   "fontFamily": "Inter",
-                                  "fontSize": 14
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
                                 }
                               ]
                             },
@@ -2455,7 +2603,8 @@
                                   "fill": "#16151cff",
                                   "content": "25 Mar - 29 Mar",
                                   "fontFamily": "Inter",
-                                  "fontSize": 14
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
                                 },
                                 {
                                   "type": "text",
@@ -2464,7 +2613,8 @@
                                   "fill": "#9d9d9dff",
                                   "content": "5 días",
                                   "fontFamily": "Inter",
-                                  "fontSize": 11
+                                  "fontSize": 11,
+                                  "fontWeight": "normal"
                                 }
                               ]
                             },
@@ -2485,7 +2635,8 @@
                                   "fill": "#16151cff",
                                   "content": "05 Feb 2024",
                                   "fontFamily": "Inter",
-                                  "fontSize": 14
+                                  "fontSize": 14,
+                                  "fontWeight": "normal"
                                 },
                                 {
                                   "type": "text",
@@ -2494,7 +2645,8 @@
                                   "fill": "#9d9d9dff",
                                   "content": "11 meses",
                                   "fontFamily": "Inter",
-                                  "fontSize": 11
+                                  "fontSize": 11,
+                                  "fontWeight": "normal"
                                 }
                               ]
                             },
@@ -2512,7 +2664,19 @@
                                   "ref": "9UIFM",
                                   "name": "r5chip",
                                   "x": 0,
-                                  "y": 18.5
+                                  "y": 18.5,
+                                  "width": "fit_content",
+                                  "height": "fit_content",
+                                  "descendants": {
+                                    "9Mlmg": {
+                                      "x": 12,
+                                      "y": 6.5
+                                    },
+                                    "cLTQ5": {
+                                      "x": 32,
+                                      "y": 6
+                                    }
+                                  }
                                 }
                               ]
                             },
@@ -2552,7 +2716,13 @@
                                   "ref": "vJWYE",
                                   "name": "r5btn1",
                                   "x": -35.5,
-                                  "y": 16
+                                  "y": 16,
+                                  "descendants": {
+                                    "sHekU": {
+                                      "x": 8,
+                                      "y": 8
+                                    }
+                                  }
                                 },
                                 {
                                   "id": "7Z50T",
@@ -2560,7 +2730,13 @@
                                   "ref": "h4Cbe",
                                   "name": "r5btn2",
                                   "x": 4.5,
-                                  "y": 16
+                                  "y": 16,
+                                  "descendants": {
+                                    "AQlH9": {
+                                      "x": 8,
+                                      "y": 8
+                                    }
+                                  }
                                 }
                               ]
                             }
@@ -2668,7 +2844,8 @@
                           "fill": "#F57F17ff",
                           "content": "Vence en 2 días",
                           "fontFamily": "Inter",
-                          "fontSize": 11
+                          "fontSize": 11,
+                          "fontWeight": "normal"
                         }
                       ]
                     },
@@ -2824,7 +3001,8 @@
                           "fill": "#555555ff",
                           "content": "Carlos R. - 8 días",
                           "fontFamily": "Inter",
-                          "fontSize": 12
+                          "fontSize": 12,
+                          "fontWeight": "normal"
                         }
                       ]
                     },
@@ -2853,7 +3031,8 @@
                           "fill": "#555555ff",
                           "content": "Ana T. - 8 días",
                           "fontFamily": "Inter",
-                          "fontSize": 12
+                          "fontSize": 12,
+                          "fontWeight": "normal"
                         }
                       ]
                     },
@@ -2889,7 +3068,8 @@
                           "fill": "#555555ff",
                           "content": "Promedio días",
                           "fontFamily": "Inter",
-                          "fontSize": 13
+                          "fontSize": 13,
+                          "fontWeight": "normal"
                         },
                         {
                           "type": "text",
@@ -2917,7 +3097,8 @@
                           "fill": "#555555ff",
                           "content": "Tasa aprobación",
                           "fontFamily": "Inter",
-                          "fontSize": 13
+                          "fontSize": 13,
+                          "fontWeight": "normal"
                         },
                         {
                           "type": "text",
@@ -2993,7 +3174,8 @@
                   "fill": "#9d9d9dff",
                   "content": "#VS-2025-042",
                   "fontFamily": "Inter",
-                  "fontSize": 14
+                  "fontSize": 14,
+                  "fontWeight": "normal"
                 }
               ]
             },
@@ -3112,7 +3294,8 @@
                           "fill": "#9d9d9dff",
                           "content": "Hotel: Marriott Downtown • Ingreso: 01 Ene 2023",
                           "fontFamily": "Inter",
-                          "fontSize": 12
+                          "fontSize": 12,
+                          "fontWeight": "normal"
                         },
                         {
                           "type": "text",
@@ -3173,7 +3356,8 @@
                           "fill": "#555555ff",
                           "content": "Fechas:",
                           "fontFamily": "Inter",
-                          "fontSize": 13
+                          "fontSize": 13,
+                          "fontWeight": "normal"
                         },
                         {
                           "type": "text",
@@ -3201,7 +3385,8 @@
                           "fill": "#555555ff",
                           "content": "Días solicitados:",
                           "fontFamily": "Inter",
-                          "fontSize": 13
+                          "fontSize": 13,
+                          "fontWeight": "normal"
                         },
                         {
                           "type": "text",
@@ -3229,7 +3414,8 @@
                           "fill": "#555555ff",
                           "content": "Motivo:",
                           "fontFamily": "Inter",
-                          "fontSize": 13
+                          "fontSize": 13,
+                          "fontWeight": "normal"
                         },
                         {
                           "type": "text",
@@ -3257,7 +3443,8 @@
                           "fill": "#555555ff",
                           "content": "Fecha solicitud:",
                           "fontFamily": "Inter",
-                          "fontSize": 13
+                          "fontSize": 13,
+                          "fontWeight": "normal"
                         },
                         {
                           "type": "text",
@@ -3318,7 +3505,8 @@
                       "fill": "#555555ff",
                       "content": "Empleado sustituto: Carlos Ruiz (confirmado)",
                       "fontFamily": "Inter",
-                      "fontSize": 13
+                      "fontSize": 13,
+                      "fontWeight": "normal"
                     }
                   ]
                 }
@@ -3479,7 +3667,8 @@
                   "fill": "#9d9d9dff",
                   "content": "Toma una decisión",
                   "fontFamily": "Inter",
-                  "fontSize": 14
+                  "fontSize": 14,
+                  "fontWeight": "normal"
                 }
               ]
             },
@@ -3679,7 +3868,8 @@
                           "fill": "#555555ff",
                           "content": "Rechazar",
                           "fontFamily": "Inter",
-                          "fontSize": 14
+                          "fontSize": 14,
+                          "fontWeight": "normal"
                         }
                       ]
                     },
@@ -3724,7 +3914,8 @@
                           "fill": "#555555ff",
                           "content": "Solicitar más información",
                           "fontFamily": "Inter",
-                          "fontSize": 14
+                          "fontSize": 14,
+                          "fontWeight": "normal"
                         }
                       ]
                     }
@@ -3772,7 +3963,8 @@
                       "fill": "#9d9d9dff",
                       "content": "Escribe aquí tus comentarios...",
                       "fontFamily": "Inter",
-                      "fontSize": 14
+                      "fontSize": 14,
+                      "fontWeight": "normal"
                     }
                   ]
                 }
@@ -3834,7 +4026,8 @@
                       "fill": "#16151cff",
                       "content": "Empleado",
                       "fontFamily": "Inter",
-                      "fontSize": 14
+                      "fontSize": 14,
+                      "fontWeight": "normal"
                     }
                   ]
                 },
@@ -3876,7 +4069,8 @@
                       "fill": "#16151cff",
                       "content": "Supervisor",
                       "fontFamily": "Inter",
-                      "fontSize": 14
+                      "fontSize": 14,
+                      "fontWeight": "normal"
                     }
                   ]
                 },
@@ -3918,7 +4112,8 @@
                       "fill": "#16151cff",
                       "content": "RH",
                       "fontFamily": "Inter",
-                      "fontSize": 14
+                      "fontSize": 14,
+                      "fontWeight": "normal"
                     }
                   ]
                 }
